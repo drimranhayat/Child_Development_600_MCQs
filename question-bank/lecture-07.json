@@ -1,0 +1,1282 @@
+{
+  "lecture": 7,
+  "title": "Cognitive development",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD7Q001",
+      "lecture": 7,
+      "question": "What is working memory?",
+      "options": [
+        "Retaining knowledge across long periods",
+        "Recognizing a previously encountered event",
+        "Holding and using information briefly",
+        "Knowing the meanings of familiar words"
+      ],
+      "answer": 2,
+      "explanation": "Working memory supports tasks such as remembering two instructions while carrying them out. It differs from permanent long-term storage.",
+      "difficulty": "Core",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q002",
+      "lecture": 7,
+      "question": "What is object permanence?",
+      "options": [
+        "Remembering the name of an object",
+        "Recognizing only a currently visible object",
+        "Tracking movement without representing a hidden object",
+        "Understanding that an object continues to exist when hidden"
+      ],
+      "answer": 3,
+      "explanation": "Searching for a hidden toy illustrates the developing idea that it still exists. Performance depends on task demands as well as understanding.",
+      "difficulty": "Core",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q003",
+      "lecture": 7,
+      "question": "In Piaget's account, what is assimilation?",
+      "options": [
+        "Modifying a scheme to accommodate a mismatch",
+        "Mentally reversing an observed transformation",
+        "Recognizing a quantity despite changed appearance",
+        "Interpreting an experience using an existing scheme"
+      ],
+      "answer": 3,
+      "explanation": "Calling a new four-legged animal “dog” can reflect use of an existing scheme. Accommodation would involve revising that scheme.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q004",
+      "lecture": 7,
+      "question": "What is accommodation in Piaget's theory?",
+      "options": [
+        "Using an unchanged scheme to interpret a new event",
+        "Repeating a sensory action for its interesting effect",
+        "Ignoring new information that conflicts with an existing scheme",
+        "Modifying a scheme when experience does not fit"
+      ],
+      "answer": 3,
+      "explanation": "Learning that a cat differs from a dog may require adjusting categories. The child changes the existing mental organization.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q005",
+      "lecture": 7,
+      "question": "Which example illustrates symbolic play?",
+      "options": [
+        "Inspecting a block's texture without pretending",
+        "Using a block as a pretend telephone",
+        "Stacking a block for its actual physical support",
+        "Dropping a block to explore the sound it produces"
+      ],
+      "answer": 1,
+      "explanation": "In symbolic play, one thing represents another. A block can stand for a phone even though it is not one.",
+      "difficulty": "Applied",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q006",
+      "lecture": 7,
+      "question": "A child says a taller glass must contain more after water is poured into it. Which concept is relevant?",
+      "options": [
+        "Conservation",
+        "Object permanence",
+        "Habituation",
+        "Assimilation into an existing animal category"
+      ],
+      "answer": 0,
+      "explanation": "Conservation concerns quantities remaining the same despite a changed appearance. A child may focus on height and overlook the narrower width.",
+      "difficulty": "Applied",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q007",
+      "lecture": 7,
+      "question": "What distinguishes hypothetical reasoning?",
+      "options": [
+        "Restricting conclusions to what is directly visible",
+        "Repeating a familiar solution without testing alternatives",
+        "Considering what would follow if a proposed condition were true",
+        "Using only one perceptually salient feature"
+      ],
+      "answer": 2,
+      "explanation": "Hypothetical reasoning explores possibilities, such as predicting outcomes of different experimental conditions. It varies by knowledge and task.",
+      "difficulty": "Core",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q008",
+      "lecture": 7,
+      "question": "What is self-efficacy?",
+      "options": [
+        "A global judgment of personal worth",
+        "Belief in one's capacity to perform a task",
+        "Interest in an activity regardless of expected competence",
+        "Compliance motivated only by an external reward"
+      ],
+      "answer": 1,
+      "explanation": "A student who believes practice can help them solve a problem has task-related confidence. Appropriate feedback and achievable steps can support it.",
+      "difficulty": "Core",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q009",
+      "lecture": 7,
+      "question": "Why should Piagetian ages be treated as approximate?",
+      "options": [
+        "Task demands and experience affect performance",
+        "Each stage begins at an exact universal birthday",
+        "Every ability changes synchronously across all settings",
+        "A single task provides a context-free stage diagnosis"
+      ],
+      "answer": 0,
+      "explanation": "The stage framework is a useful teaching model with limitations. Children may demonstrate different abilities across tasks and contexts.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q010",
+      "lecture": 7,
+      "question": "How can expertise affect memory?",
+      "options": [
+        "Knowledge can help organize and retrieve information",
+        "Expertise produces equally superior recall in every domain",
+        "Prior knowledge removes all working-memory demands",
+        "Familiar material has the same organization as unfamiliar material"
+      ],
+      "answer": 0,
+      "explanation": "A child familiar with a game may remember meaningful game patterns well. Expertise helps organize information within that domain.",
+      "difficulty": "Core",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q011",
+      "lecture": 7,
+      "question": "Which process belongs most directly to cognition?",
+      "options": [
+        "Increasing in body length",
+        "Reasoning about how two events are connected",
+        "Developing a secondary sexual characteristic",
+        "Erupting a permanent tooth"
+      ],
+      "answer": 1,
+      "explanation": "Cognition includes acquiring and using knowledge. Reasoning, remembering and interpreting information are examples of mental processes.",
+      "difficulty": "Core",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q012",
+      "lecture": 7,
+      "question": "Why is cognitive learning described as cumulative?",
+      "options": [
+        "Each experience erases previous knowledge",
+        "Only chronological age contributes",
+        "New understanding can build on earlier experience",
+        "Learning begins anew every morning"
+      ],
+      "answer": 2,
+      "explanation": "Earlier learning can provide concepts and strategies for new tasks. Knowing how one container opens may help a child explore another.",
+      "difficulty": "Analysis",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q013",
+      "lecture": 7,
+      "question": "A child forgets the third step of an instruction while carrying out the first two. Which demand is especially relevant?",
+      "options": [
+        "Pubic-hair staging",
+        "The rooting response",
+        "Tooth mineralization",
+        "Working-memory load"
+      ],
+      "answer": 3,
+      "explanation": "The task requires holding information while acting on it. Reducing the number of simultaneous steps may make the instruction more manageable.",
+      "difficulty": "Applied",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q014",
+      "lecture": 7,
+      "question": "Which approach reduces unnecessary working-memory demands?",
+      "options": [
+        "Give all instructions rapidly without pause",
+        "Add unrelated information before each step",
+        "Require the child to remember an ever-changing rule",
+        "Present manageable steps and relevant visual cues"
+      ],
+      "answer": 3,
+      "explanation": "Support can reduce how much information must be held at once. A simple checklist may free attention for performing the task.",
+      "difficulty": "Core",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q015",
+      "lecture": 7,
+      "question": "A learner remembers many cricket positions but fewer unfamiliar science terms. What may explain this?",
+      "options": [
+        "No effect of prior knowledge",
+        "Domain-specific expertise",
+        "A permanent inability to learn science",
+        "Equal expertise in every subject"
+      ],
+      "answer": 1,
+      "explanation": "Familiar knowledge helps organize and retrieve relevant information. Strength in one domain does not imply unlimited memory in all domains.",
+      "difficulty": "Applied",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q016",
+      "lecture": 7,
+      "question": "Why should task performance be distinguished from underlying competence?",
+      "options": [
+        "A failed task always proves absent ability",
+        "Every task measures one isolated process",
+        "Context cannot alter performance",
+        "Instructions, attention and response demands can affect demonstration"
+      ],
+      "answer": 3,
+      "explanation": "A child may understand something yet struggle to show it under a complex task condition. Interpretation should consider what the task requires.",
+      "difficulty": "Analysis",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q017",
+      "lecture": 7,
+      "question": "Which observation suggests a strategy rather than rote repetition?",
+      "options": [
+        "Ignoring the task goal",
+        "Repeating an unfamiliar list without organization",
+        "Grouping related items to remember them",
+        "Guessing without examining the materials"
+      ],
+      "answer": 2,
+      "explanation": "Grouping gives information a useful structure. Strategy use can change performance even when the number of items remains the same.",
+      "difficulty": "Core",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q018",
+      "lecture": 7,
+      "question": "Why is one cognitive task an incomplete developmental profile?",
+      "options": [
+        "Every task measures all mental processes",
+        "Different tasks draw on different skills and knowledge",
+        "Cognition is unrelated to language and movement",
+        "The easiest task alone is sufficient"
+      ],
+      "answer": 1,
+      "explanation": "Reasoning tasks vary in language, memory and motor demands. Several observations provide a more complete picture of strengths and needs.",
+      "difficulty": "Analysis",
+      "topicId": "L7T1",
+      "topic": "Cognition, working memory and expertise",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD7Q019",
+      "lecture": 7,
+      "question": "Which Piagetian stage emphasizes learning through sensory and motor activity?",
+      "options": [
+        "Formal operational",
+        "Concrete operational",
+        "Preoperational",
+        "Sensorimotor"
+      ],
+      "answer": 3,
+      "explanation": "The sensorimotor stage describes early learning through action and perception. The stage framework is a theoretical account, not an individual diagnostic timetable.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q020",
+      "lecture": 7,
+      "question": "Which Piagetian stage is associated with symbolic thought and prominent egocentrism?",
+      "options": [
+        "Sensorimotor",
+        "Concrete operational",
+        "Formal operational",
+        "Preoperational"
+      ],
+      "answer": 3,
+      "explanation": "The preoperational account emphasizes symbols and language alongside limits in certain forms of logical reasoning and perspective-taking.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q021",
+      "lecture": 7,
+      "question": "Which stage is associated with logical operations on concrete information?",
+      "options": [
+        "Preoperational",
+        "Concrete operational",
+        "Sensorimotor",
+        "Formal operational only"
+      ],
+      "answer": 1,
+      "explanation": "Concrete operations involve reasoning about tangible or familiar relationships. Conservation and reversibility are key examples in the classical account.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q022",
+      "lecture": 7,
+      "question": "Which stage is associated with systematic abstract reasoning?",
+      "options": [
+        "Preoperational",
+        "Attachment-in-the-making",
+        "Sensorimotor",
+        "Formal operational"
+      ],
+      "answer": 3,
+      "explanation": "Formal operations concern reasoning with possibilities and abstract relations. Use of such reasoning still varies by task, knowledge and context.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q023",
+      "lecture": 7,
+      "question": "What does reversibility mean in Piagetian reasoning?",
+      "options": [
+        "Mentally undoing an action or transformation",
+        "Forgetting an action immediately",
+        "Changing body direction while walking",
+        "Repeating a sound automatically"
+      ],
+      "answer": 0,
+      "explanation": "Reversibility allows a child to think back through a transformation. Water can be imagined being poured back into the original container.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q024",
+      "lecture": 7,
+      "question": "What is centration?",
+      "options": [
+        "Considering every dimension systematically",
+        "A perfect balance between all perspectives",
+        "Focusing on one salient feature while overlooking others",
+        "Remembering a complete sequence without effort"
+      ],
+      "answer": 2,
+      "explanation": "In a conservation task a child may focus on the height of a glass and overlook its width. This is the classic idea of centration.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q025",
+      "lecture": 7,
+      "question": "In the course's classical stage table, approximately which period is assigned to preoperational thought?",
+      "options": [
+        "Only late adulthood",
+        "About 7–11 years",
+        "About 2–7 years",
+        "Birth to about 2 years"
+      ],
+      "answer": 2,
+      "explanation": "The table assigns approximately 2–7 years to preoperational thought. This is a theoretical age band; individual task performance should not be judged from age alone.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q026",
+      "lecture": 7,
+      "question": "In the course's classical table, approximately which period is assigned to concrete operations?",
+      "options": [
+        "About 7–11 years",
+        "Only adulthood after 40",
+        "Only the newborn month",
+        "About 2–4 months"
+      ],
+      "answer": 0,
+      "explanation": "The table uses approximately 7–11 years. These broad bands organize the theory and do not mean every concrete skill appears on one birthday.",
+      "difficulty": "Core",
+      "topicId": "L7T2",
+      "topic": "Piaget’s four stages",
+      "sourceSlides": "6–13,46"
+    },
+    {
+      "id": "CD7Q027",
+      "lecture": 7,
+      "question": "Which sensory modality concerns smell?",
+      "options": [
+        "Auditory",
+        "Olfactory",
+        "Visual",
+        "Tactile"
+      ],
+      "answer": 1,
+      "explanation": "Olfactory information comes through smell. The lecture includes several sensory routes through which infants encounter and learn about their surroundings.",
+      "difficulty": "Core",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q028",
+      "lecture": 7,
+      "question": "Which sensory modality concerns touch?",
+      "options": [
+        "Auditory",
+        "Olfactory",
+        "Tactile",
+        "Visual"
+      ],
+      "answer": 2,
+      "explanation": "Tactile experience concerns touch. Early cognition is supported by multiple senses rather than waiting for spoken explanations to become possible.",
+      "difficulty": "Core",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q029",
+      "lecture": 7,
+      "question": "An infant responds less after seeing the same display repeatedly. Which learning pattern is relevant?",
+      "options": [
+        "Animism",
+        "Habituation",
+        "Conservation",
+        "Formal reasoning"
+      ],
+      "answer": 1,
+      "explanation": "Habituation is reduced responding with repetition. Careful studies distinguish it from fatigue or other explanations using an appropriate design.",
+      "difficulty": "Applied",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q030",
+      "lecture": 7,
+      "question": "After repeated exposure, a new display renews an infant's attention. What may this indicate?",
+      "options": [
+        "A fixed level of general intelligence",
+        "Detection of a change or novelty",
+        "The impossibility of prior learning",
+        "Adult-like understanding of all objects"
+      ],
+      "answer": 1,
+      "explanation": "Renewed attention can be evidence that the new display is discriminated. The conclusion should match the study rather than imply complete conceptual understanding.",
+      "difficulty": "Applied",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q031",
+      "lecture": 7,
+      "question": "Why do infants repeat actions that create an interesting sensation?",
+      "options": [
+        "The action necessarily has adult intentions",
+        "No learning can occur without language",
+        "Repetition offers experience with action and outcome",
+        "Repetition always shows a disorder"
+      ],
+      "answer": 2,
+      "explanation": "Repeated actions let infants explore predictable effects. Moving a hand and watching it can supply both motor and sensory experience.",
+      "difficulty": "Analysis",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q032",
+      "lecture": 7,
+      "question": "A baby watches the hands and touches the cheeks repeatedly. Which process is illustrated?",
+      "options": [
+        "Mastery of conservation",
+        "Exploration of the body and its sensations",
+        "Abstract algebraic reasoning",
+        "A mature theory of social rules"
+      ],
+      "answer": 1,
+      "explanation": "The infant is learning through bodily activity and perception. Early cognitive exploration includes the child's own movements and sensations.",
+      "difficulty": "Applied",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q033",
+      "lecture": 7,
+      "question": "Why can an increasingly alert infant become distracted during feeding?",
+      "options": [
+        "Only teeth determine visual interest",
+        "All feeding must therefore stop permanently",
+        "More surrounding stimuli may attract attention",
+        "Distraction proves no recognition of the caregiver"
+      ],
+      "answer": 2,
+      "explanation": "As awareness of surroundings grows, other events may attract attention. Interpret the behavior in the full feeding and developmental context.",
+      "difficulty": "Analysis",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q034",
+      "lecture": 7,
+      "question": "What is the limitation of equating longer looking with greater understanding in every study?",
+      "options": [
+        "Every infant understands every display equally",
+        "Looking can have several explanations depending on the task",
+        "Looking time has no research use",
+        "A longer look directly gives a vocabulary score"
+      ],
+      "answer": 1,
+      "explanation": "Looking measures attention or response patterns. A study must justify what those patterns imply rather than treating them as a complete readout of thought.",
+      "difficulty": "Core",
+      "topicId": "L7T3",
+      "topic": "Early learning and habituation",
+      "sourceSlides": "15–18"
+    },
+    {
+      "id": "CD7Q035",
+      "lecture": 7,
+      "question": "Which situation most clearly requires object permanence?",
+      "options": [
+        "Copying a visible hand movement",
+        "Searching for a toy hidden under a cloth",
+        "Only touching a toy that remains visible",
+        "Hearing an unexplained tone"
+      ],
+      "answer": 1,
+      "explanation": "The toy is no longer visible but is treated as still existing. Searching can provide evidence, although it also draws on memory and action.",
+      "difficulty": "Core",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q036",
+      "lecture": 7,
+      "question": "What does occlusion mean in an object-perception task?",
+      "options": [
+        "An object becoming hidden behind a surface",
+        "A sound becoming more intense",
+        "An object growing physically larger",
+        "A caregiver changing a rule"
+      ],
+      "answer": 0,
+      "explanation": "Occlusion concerns visibility being blocked. Researchers use such events to study expectations about objects that continue behind a barrier.",
+      "difficulty": "Core",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q037",
+      "lecture": 7,
+      "question": "Why might a reaching task underestimate an infant's object knowledge?",
+      "options": [
+        "A reaching failure always proves no expectation",
+        "Reaching requires no action",
+        "Infants never learn about hidden objects",
+        "It adds motor planning and memory demands"
+      ],
+      "answer": 3,
+      "explanation": "The infant must show knowledge through a particular response. A demanding motor response can obscure what another task might reveal.",
+      "difficulty": "Applied",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q038",
+      "lecture": 7,
+      "question": "What makes peek-a-boo relevant to the lecture's discussion?",
+      "options": [
+        "It proves all infants have identical memory",
+        "It directly measures skeletal age",
+        "It plays with disappearance and reappearance in interaction",
+        "It requires formal hypothetical reasoning"
+      ],
+      "answer": 2,
+      "explanation": "The game links hiding and return with a social partner. Enjoyment does not by itself establish a precise research measure of object knowledge.",
+      "difficulty": "Core",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q039",
+      "lecture": 7,
+      "question": "An infant bangs, drops and passes an object between hands. What is being explored?",
+      "options": [
+        "Only social approval from peers",
+        "Only the object's adult name",
+        "A moral rule about ownership",
+        "Properties and effects of acting on objects"
+      ],
+      "answer": 3,
+      "explanation": "These actions provide information about sound, movement, texture and handling. Exploration can link perception, movement and emerging expectations.",
+      "difficulty": "Applied",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q040",
+      "lecture": 7,
+      "question": "Why should mouthing be interpreted with both development and safety in mind?",
+      "options": [
+        "It should be used as the only cognitive test",
+        "All objects are suitable for mouthing",
+        "It always proves an emotional disorder",
+        "It can be exploration but unsafe objects create risks"
+      ],
+      "answer": 3,
+      "explanation": "Mouthing can provide sensory experience. Adults still need safe materials and appropriate supervision; developmental meaning does not remove hazards.",
+      "difficulty": "Analysis",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q041",
+      "lecture": 7,
+      "question": "A child searches where a toy was previously hidden rather than its new location. What task demand may matter?",
+      "options": [
+        "Only recognizing the toy's colour",
+        "Only knowing the word toy",
+        "Updating a remembered location and inhibiting an earlier response",
+        "Only the strength of a newborn grasp"
+      ],
+      "answer": 2,
+      "explanation": "Search performance can reflect memory and response-control demands. It should not be interpreted as a single pure measure without considering the task.",
+      "difficulty": "Applied",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q042",
+      "lecture": 7,
+      "question": "Which conclusion best handles different object-permanence findings across methods?",
+      "options": [
+        "Only one task can contain any evidence",
+        "Different findings prove infants never learn",
+        "Every method must produce identical ages",
+        "Methods may reveal different aspects and demands"
+      ],
+      "answer": 3,
+      "explanation": "Searching and looking-time methods require different responses. Comparing their demands helps interpret apparently different developmental findings.",
+      "difficulty": "Core",
+      "topicId": "L7T4",
+      "topic": "Object exploration and permanence",
+      "sourceSlides": "19–21"
+    },
+    {
+      "id": "CD7Q043",
+      "lecture": 7,
+      "question": "Why does increased mobility broaden cognitive opportunities?",
+      "options": [
+        "It eliminates the need for attention",
+        "It proves every problem can now be solved",
+        "It replaces language learning",
+        "It lets the child explore more objects and relationships"
+      ],
+      "answer": 3,
+      "explanation": "Movement changes what the child can encounter and act upon. New opportunities can contribute to learning about spaces, objects and people.",
+      "difficulty": "Analysis",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q044",
+      "lecture": 7,
+      "question": "A toddler puts blocks into a box and takes them out. Which relationship is most directly explored?",
+      "options": [
+        "The meaning of written metaphors",
+        "Universal ethical principles",
+        "Containment: in and out",
+        "Adult sexual maturation"
+      ],
+      "answer": 2,
+      "explanation": "Container play provides experience with spatial relations. It also combines hand control, attention and predictable action effects.",
+      "difficulty": "Applied",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q045",
+      "lecture": 7,
+      "question": "What shows functional use of an object?",
+      "options": [
+        "Only watching someone carry it",
+        "Only dropping the brush repeatedly",
+        "Only naming its colour",
+        "Using a toy brush to brush a doll's hair"
+      ],
+      "answer": 3,
+      "explanation": "Functional use reflects knowledge of what an object is used for. Pretend play can extend such use to a doll or imagined situation.",
+      "difficulty": "Core",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q046",
+      "lecture": 7,
+      "question": "A toddler sorts red objects together despite different shapes. Which feature guides the sorting?",
+      "options": [
+        "Shape",
+        "Object name necessarily",
+        "Colour",
+        "Weight necessarily"
+      ],
+      "answer": 2,
+      "explanation": "The grouping uses one shared property. Sorting tasks help observe which feature the child attends to under a particular instruction.",
+      "difficulty": "Applied",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q047",
+      "lecture": 7,
+      "question": "A child sorts by shape after first sorting by colour. What extra demand is involved?",
+      "options": [
+        "Only holding an object still",
+        "Recognizing the sound of a bell",
+        "Maintaining one unchanging response",
+        "Changing the basis of classification"
+      ],
+      "answer": 3,
+      "explanation": "Switching rules requires attending to a new property and moving away from the previous rule. Task instructions and familiarity affect performance.",
+      "difficulty": "Applied",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q048",
+      "lecture": 7,
+      "question": "A toddler uses a stick to bring a distant toy closer. Which cognitive process is illustrated?",
+      "options": [
+        "Reflexive rooting",
+        "A dental growth spurt",
+        "Means–end problem solving",
+        "Literal repetition without a goal"
+      ],
+      "answer": 2,
+      "explanation": "The stick serves as a means to a desired end. The child connects an action with its effect on obtaining the toy.",
+      "difficulty": "Applied",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q049",
+      "lecture": 7,
+      "question": "What does understanding a part–whole relationship involve?",
+      "options": [
+        "Reacting to a sound's loudness",
+        "Recognizing how components belong to a larger object",
+        "Counting only without identifying any object",
+        "Assuming every small item is unrelated"
+      ],
+      "answer": 1,
+      "explanation": "A wheel is part of a toy vehicle. Such relationships help organize knowledge about familiar objects and how they work.",
+      "difficulty": "Core",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q050",
+      "lecture": 7,
+      "question": "Why should puzzle success be interpreted with the puzzle itself in mind?",
+      "options": [
+        "Every five-piece puzzle has identical demands",
+        "Piece design, familiarity and assistance change difficulty",
+        "Prior experience cannot affect performance",
+        "Piece count alone measures intelligence perfectly"
+      ],
+      "answer": 1,
+      "explanation": "Puzzles differ in visual cues, fit and complexity. A meaningful observation records the material and help provided as well as success.",
+      "difficulty": "Analysis",
+      "topicId": "L7T5",
+      "topic": "Toddler problem solving",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD7Q051",
+      "lecture": 7,
+      "question": "What is animism in the lecture's cognitive framework?",
+      "options": [
+        "Using a word with an opposite meaning",
+        "Planning a controlled experiment",
+        "Attributing lifelike intentions to an inanimate object",
+        "Recognizing quantity after a transformation"
+      ],
+      "answer": 2,
+      "explanation": "Saying the chair was naughty for hurting me attributes intention to an object. The term describes a form of explanation, not simply interest in animals.",
+      "difficulty": "Core",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q052",
+      "lecture": 7,
+      "question": "Which example best illustrates magical thinking?",
+      "options": [
+        "Predicting rain from dark clouds",
+        "Believing a wish caused an unrelated event",
+        "Testing two possible explanations",
+        "Checking a story against evidence"
+      ],
+      "answer": 1,
+      "explanation": "Magical thinking may confuse wishes or thoughts with external causes. A gentle explanation can clarify that thoughts alone did not produce the event.",
+      "difficulty": "Core",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q053",
+      "lecture": 7,
+      "question": "What does egocentrism mean in Piaget's account?",
+      "options": [
+        "Deliberate selfishness in every interaction",
+        "Difficulty taking another person's perspective",
+        "An unusually large head circumference",
+        "A complete absence of affection"
+      ],
+      "answer": 1,
+      "explanation": "The concept concerns perspective-taking, not a moral judgment. A child may care about another person yet struggle to represent what they see or know.",
+      "difficulty": "Core",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q054",
+      "lecture": 7,
+      "question": "What is the classic three-mountains task used to explore?",
+      "options": [
+        "Pubertal growth velocity",
+        "Infant feeding coordination",
+        "Visual perspective-taking",
+        "Adult tooth development"
+      ],
+      "answer": 2,
+      "explanation": "The task asks about a view different from the child's own. Its language and response demands also matter when interpreting performance.",
+      "difficulty": "Core",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q055",
+      "lecture": 7,
+      "question": "Why can role play support learning?",
+      "options": [
+        "It lets children practise meanings and social roles",
+        "It proves fantasy and reality are identical",
+        "It replaces every form of instruction",
+        "It requires no coordination with others"
+      ],
+      "answer": 0,
+      "explanation": "Pretend scenarios offer opportunities for language, negotiation and exploring roles. A shop game can involve requesting, paying and taking turns.",
+      "difficulty": "Analysis",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q056",
+      "lecture": 7,
+      "question": "What distinguishes an extended pretend scenario from a single imitation?",
+      "options": [
+        "It organizes several related actions or roles",
+        "It is possible only after adulthood",
+        "It must be copied exactly from an adult",
+        "It contains no symbols"
+      ],
+      "answer": 0,
+      "explanation": "A single pretend sip can develop into a tea-party sequence with roles. Complexity concerns organization, not just the number of toys used.",
+      "difficulty": "Analysis",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q057",
+      "lecture": 7,
+      "question": "Why is play a potentially useful outlet for working through experiences?",
+      "options": [
+        "Play eliminates the need for adult support",
+        "Every play event has one hidden diagnostic meaning",
+        "It permits expression and alternative responses within a scenario",
+        "Imagination proves a child cannot understand reality"
+      ],
+      "answer": 2,
+      "explanation": "Play can let children express and revisit experiences. Interpretation should remain grounded rather than treating one scene as proof of a disorder.",
+      "difficulty": "Analysis",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q058",
+      "lecture": 7,
+      "question": "Which observation would best show cooperative pretend play?",
+      "options": [
+        "One child watches a fixed picture alone",
+        "An infant responds to palm stimulation",
+        "Children silently use separate toys without interaction",
+        "Children negotiate roles and sustain a shared scenario"
+      ],
+      "answer": 3,
+      "explanation": "A shared pretend scenario requires coordinating meanings with others. Language, social understanding and regulation all contribute.",
+      "difficulty": "Core",
+      "topicId": "L7T6",
+      "topic": "Preschool thought and play",
+      "sourceSlides": "26–30"
+    },
+    {
+      "id": "CD7Q059",
+      "lecture": 7,
+      "question": "Which task most directly illustrates conservation of number?",
+      "options": [
+        "Recognizing equal counts after one row is spread out",
+        "Repeating a number sequence without objects",
+        "Naming the colour of two containers",
+        "Comparing the loudness of two sounds"
+      ],
+      "answer": 0,
+      "explanation": "The count stays the same when spacing changes. The question is whether the child understands quantity despite a changed visual arrangement.",
+      "difficulty": "Core",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q060",
+      "lecture": 7,
+      "question": "Why is one-to-one correspondence different from merely reciting numbers?",
+      "options": [
+        "It requires no objects or quantity",
+        "It means counting only from memory",
+        "It pairs each counted object with one number",
+        "It always waits until formal operations"
+      ],
+      "answer": 2,
+      "explanation": "Reciting a sequence and matching one count word to each object are different skills. Such counting abilities can emerge before the broad concrete-operational age band.",
+      "difficulty": "Analysis",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q061",
+      "lecture": 7,
+      "question": "What is decentration in a conservation explanation?",
+      "options": [
+        "Focusing only on the tallest dimension",
+        "Making a decision without examining the task",
+        "Considering more than one relevant feature",
+        "Ignoring all perceptual information"
+      ],
+      "answer": 2,
+      "explanation": "A child may consider both glass height and width. This helps explain why appearance changes need not change the amount.",
+      "difficulty": "Core",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q062",
+      "lecture": 7,
+      "question": "Why do school tasks place new demands on cognition?",
+      "options": [
+        "They use only physical strength",
+        "They require no understanding of instructions",
+        "They make prior knowledge irrelevant",
+        "They combine language, attention, memory and learned skills"
+      ],
+      "answer": 3,
+      "explanation": "Reading, writing and mathematics bring several processes together. A difficulty may concern one demand or the way they combine.",
+      "difficulty": "Analysis",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q063",
+      "lecture": 7,
+      "question": "Which example is an external source of motivation?",
+      "options": [
+        "Enjoying solving the puzzle itself",
+        "Practising because mastery feels satisfying",
+        "Reading because the story is interesting",
+        "Working to receive a teacher's reward"
+      ],
+      "answer": 3,
+      "explanation": "An external reward comes from outside the activity. Interest and satisfaction in the activity itself are examples of internal motivation.",
+      "difficulty": "Core",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q064",
+      "lecture": 7,
+      "question": "Which feedback is most likely to support realistic self-efficacy?",
+      "options": [
+        "Success is only luck and cannot be repeated",
+        "You are permanently unable to learn this",
+        "Your new checking strategy helped you solve that step",
+        "You must succeed without any practice"
+      ],
+      "answer": 2,
+      "explanation": "Specific feedback connects effective action with progress. It can encourage a learner to try an achievable next step.",
+      "difficulty": "Core",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q065",
+      "lecture": 7,
+      "question": "How can repeated failure affect classroom participation?",
+      "options": [
+        "It can reduce willingness to attempt a task",
+        "It proves a permanent inability",
+        "It makes emotional support irrelevant",
+        "It always increases confidence"
+      ],
+      "answer": 0,
+      "explanation": "Expectations about success influence engagement. Appropriate support can create attainable progress rather than reinforce a fixed negative identity.",
+      "difficulty": "Analysis",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q066",
+      "lecture": 7,
+      "question": "Why should '45 minutes of concentration' not be treated as a universal diagnostic requirement?",
+      "options": [
+        "Attention depends on the task, context and individual",
+        "Attention can be inferred from height",
+        "No school task ever needs sustained attention",
+        "Every child should concentrate for exactly that time"
+      ],
+      "answer": 0,
+      "explanation": "A duration in a teaching slide is not a universal threshold. Meaningful observation considers what the task requires and how participation is supported.",
+      "difficulty": "Analysis",
+      "topicId": "L7T7",
+      "topic": "School readiness and self-efficacy",
+      "sourceSlides": "31–38"
+    },
+    {
+      "id": "CD7Q067",
+      "lecture": 7,
+      "question": "What is metacognition?",
+      "options": [
+        "Thinking about and monitoring one's own thinking",
+        "Using only a reflexive response",
+        "Repeating a list without any awareness",
+        "Measuring the skull with a tape"
+      ],
+      "answer": 0,
+      "explanation": "Metacognition includes noticing understanding and choosing a strategy. A student who realizes a paragraph needs rereading is monitoring their own learning.",
+      "difficulty": "Core",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q068",
+      "lecture": 7,
+      "question": "Which experiment best illustrates systematic hypothesis testing?",
+      "options": [
+        "Change every factor together without recording it",
+        "Change one variable while keeping other relevant factors stable",
+        "Stop after the first guess regardless of results",
+        "Choose the expected answer without testing"
+      ],
+      "answer": 1,
+      "explanation": "A controlled comparison helps identify which factor affects the outcome. The classical pendulum task is used to discuss this kind of reasoning.",
+      "difficulty": "Core",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q069",
+      "lecture": 7,
+      "question": "What is the pendulum task commonly used to illustrate in Piagetian teaching?",
+      "options": [
+        "Systematic reasoning about possible causal factors",
+        "Primary tooth exfoliation",
+        "Attachment preference for a caregiver",
+        "Recognition of newborn reflexes"
+      ],
+      "answer": 0,
+      "explanation": "The task can test how a learner varies factors and evaluates effects. Its point is the reasoning strategy, not simply recalling a fact about pendulums.",
+      "difficulty": "Core",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q070",
+      "lecture": 7,
+      "question": "Why may an adolescent reason well in class but poorly under peer pressure?",
+      "options": [
+        "The classroom skill must be imaginary",
+        "Emotion and context can affect use of reasoning skills",
+        "Knowing one principle guarantees every decision",
+        "Reasoning is identical across every situation"
+      ],
+      "answer": 1,
+      "explanation": "Having a skill and applying it under pressure are different matters. Familiarity, emotional arousal and competing goals influence performance.",
+      "difficulty": "Applied",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q071",
+      "lecture": 7,
+      "question": "Which action best reflects consideration of consequences?",
+      "options": [
+        "Comparing likely outcomes before choosing",
+        "Assuming rewards have no relevance",
+        "Copying a peer without considering the situation",
+        "Acting on the first impulse without reflection"
+      ],
+      "answer": 0,
+      "explanation": "Comparing outcomes supports deliberate choice. It can be practised through manageable, realistic examples rather than only abstract lectures.",
+      "difficulty": "Core",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q072",
+      "lecture": 7,
+      "question": "What is a limitation of the slide's fixed percentage for formal operations?",
+      "options": [
+        "Percentages can never appear in research",
+        "All adults use it identically",
+        "Formal reasoning is impossible to study",
+        "Its source and definition do not justify a universal attainment rate"
+      ],
+      "answer": 3,
+      "explanation": "A theoretical category and a measured attainment rate need careful definitions. Do not present an unsupported slide figure as a timeless fact about everyone.",
+      "difficulty": "Analysis",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q073",
+      "lecture": 7,
+      "question": "Why should reasoning ability not be assigned to an individual based only on sex?",
+      "options": [
+        "Group generalizations cannot replace individual observation",
+        "Task experience has no influence",
+        "Sex determines every task outcome",
+        "All individuals of one sex reason identically"
+      ],
+      "answer": 0,
+      "explanation": "The relevant evidence is what the learner can do and under what conditions. Broad stereotypes cannot establish an individual's cognitive profile.",
+      "difficulty": "Analysis",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q074",
+      "lecture": 7,
+      "question": "How can an adolescent's personal values develop alongside cognitive change?",
+      "options": [
+        "Values become independent of all social experience",
+        "Abstract thinking ends all disagreements",
+        "Reflection can examine reasons, alternatives and consequences",
+        "Every adolescent adopts identical principles"
+      ],
+      "answer": 2,
+      "explanation": "Growing reflection can support examining beliefs and actions. Family, peers, culture and experience continue to shape the content of those values.",
+      "difficulty": "Applied",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    },
+    {
+      "id": "CD7Q075",
+      "lecture": 7,
+      "question": "A child says two clay balls still have equal amounts after one is rolled into a long shape. Which understanding is demonstrated?",
+      "options": [
+        "Conservation of mass",
+        "Habituation",
+        "Animism",
+        "Egocentrism"
+      ],
+      "answer": 0,
+      "explanation": "The amount of clay is unchanged despite a new appearance. Recognizing that transformation preserves quantity illustrates conservation in the classical cognitive account.",
+      "difficulty": "Applied",
+      "topicId": "L7T8",
+      "topic": "Adolescent reasoning",
+      "sourceSlides": "39–42"
+    }
+  ]
+}

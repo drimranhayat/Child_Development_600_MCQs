@@ -1,0 +1,1282 @@
+{
+  "lecture": 2,
+  "title": "Prenatal life & the newborn",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD2Q001",
+      "lecture": 2,
+      "question": "Why distinguish gestational age from age since fertilization?",
+      "options": [
+        "They use the same starting point with different units",
+        "They differ only after the first trimester",
+        "They use different starting points",
+        "Gestational age begins at fertilization and the other begins at birth"
+      ],
+      "answer": 2,
+      "explanation": "Gestational age is generally counted from the last menstrual period, about two weeks before fertilization. The dating convention changes the week label.",
+      "difficulty": "Core",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q002",
+      "lecture": 2,
+      "question": "Why can exposure timing matter during pregnancy?",
+      "options": [
+        "All organs have the same sensitive period",
+        "Only dose matters and timing never contributes",
+        "Exposure has identical effects throughout pregnancy",
+        "Different organs have sensitive periods of development"
+      ],
+      "answer": 3,
+      "explanation": "Developing organs are vulnerable at different times. Timing, dose and other circumstances affect risk.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q003",
+      "lecture": 2,
+      "question": "Which statement about fetal lungs is most accurate?",
+      "options": [
+        "They function exactly like adult lungs before birth",
+        "They are fully mature at 24 weeks in every fetus",
+        "They stop developing after the embryonic period",
+        "They continue maturing late in pregnancy"
+      ],
+      "answer": 3,
+      "explanation": "Lungs mature progressively. Reaching a particular week does not mean a fetus has mature lungs or no risk from early birth.",
+      "difficulty": "Core",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q004",
+      "lecture": 2,
+      "question": "Which newborn state is usually useful for face-to-face interaction?",
+      "options": [
+        "Deep sleep",
+        "Active sleep with closed eyes",
+        "Continuous crying",
+        "Quiet alertness"
+      ],
+      "answer": 3,
+      "explanation": "A quietly alert baby is awake and relatively settled. This can provide a good opportunity for gentle interaction.",
+      "difficulty": "Core",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q005",
+      "lecture": 2,
+      "question": "What does rooting primarily support?",
+      "options": [
+        "Grasping an object contacting the palm",
+        "Organizing an asymmetric fencing posture",
+        "Extending the arms protectively during a postural response",
+        "Orienting toward feeding-related stimulation"
+      ],
+      "answer": 3,
+      "explanation": "Rooting turns the face toward stimulation near the mouth. It helps a newborn find a feeding source.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q006",
+      "lecture": 2,
+      "question": "Which response describes palmar grasp?",
+      "options": [
+        "Trunk curvature toward stimulation near the spine",
+        "Face turning toward feeding-related stimulation",
+        "Finger flexion around stimulation of the palm",
+        "Asymmetric arm positioning following head orientation"
+      ],
+      "answer": 2,
+      "explanation": "Palmar means the palm of the hand. A grasp response closes the fingers around an object contacting the palm.",
+      "difficulty": "Applied",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q007",
+      "lecture": 2,
+      "question": "Why should plantar grasp and the Babinski response be distinguished?",
+      "options": [
+        "Both refer to the same toe-extension pattern",
+        "One concerns the hand and the other concerns the eye",
+        "Toe grasping differs from great-toe extension",
+        "Both are different names for the Galant response"
+      ],
+      "answer": 2,
+      "explanation": "Plantar grasp involves toe flexion; the infant plantar response may include great-toe extension. Similar body location does not mean the same reflex.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q008",
+      "lecture": 2,
+      "question": "Which statement best describes the parachute response?",
+      "options": [
+        "A primitive feeding response that fades in early infancy",
+        "A protective response that appears later and persists",
+        "An early grasping response inhibited with voluntary hand control",
+        "A trunk-curvature response present from the newborn period"
+      ],
+      "answer": 1,
+      "explanation": "Protective extension develops later than many primitive newborn responses and persists. It is assessed by trained clinicians.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q009",
+      "lecture": 2,
+      "question": "What is the safest learning approach to neonatal reflexes?",
+      "options": [
+        "Learn patterns and rely on trained clinical assessment",
+        "Assume all reflexes disappear at the same age",
+        "Diagnose from one home observation",
+        "Practise dropping a baby to elicit Moro"
+      ],
+      "answer": 0,
+      "explanation": "Reflex interpretation depends on the examination and age. Never create a fall or unsafe movement to test a response.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q010",
+      "lecture": 2,
+      "question": "A baby needs neonatal care and early contact is delayed. What follows?",
+      "options": [
+        "Delayed contact determines the entire attachment outcome",
+        "A close relationship can still develop through supported interaction",
+        "Only feeding frequency can establish a later close relationship",
+        "Later caregiver responsiveness cannot influence closeness"
+      ],
+      "answer": 1,
+      "explanation": "Relationships build through repeated care. Families can develop closeness even when medical circumstances delay initial contact.",
+      "difficulty": "Applied",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q011",
+      "lecture": 2,
+      "question": "Which sequence best represents the broad prenatal progression?",
+      "options": [
+        "Fetus, zygote, embryo",
+        "Zygote, embryo, fetus",
+        "Zygote, fetus, embryo",
+        "Embryo, fetus, zygote"
+      ],
+      "answer": 1,
+      "explanation": "The fertilized cell is the zygote. Embryonic organization is followed by the fetal period, during which growth and functional maturation continue.",
+      "difficulty": "Core",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q012",
+      "lecture": 2,
+      "question": "What is implantation?",
+      "options": [
+        "Separation of the placenta after birth",
+        "Fusion of two fetal organs",
+        "The first breath after delivery",
+        "Attachment and embedding in the uterine lining"
+      ],
+      "answer": 3,
+      "explanation": "Implantation establishes the early conceptus within the uterine lining. It is distinct from fertilization and from events surrounding delivery.",
+      "difficulty": "Core",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q013",
+      "lecture": 2,
+      "question": "Why is the embryonic period described as highly sensitive?",
+      "options": [
+        "Environmental exposures cannot reach the embryo",
+        "Every organ is already fully mature",
+        "Major body structures are being organized",
+        "No cells are dividing"
+      ],
+      "answer": 2,
+      "explanation": "Developing structures can be disrupted during their formation. The consequences of an exposure depend on timing and other factors, not just its name.",
+      "difficulty": "Analysis",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q014",
+      "lecture": 2,
+      "question": "Which germ layer is associated with formation of the nervous system?",
+      "options": [
+        "Ectoderm",
+        "Endoderm",
+        "The amniotic fluid",
+        "Mesoderm alone"
+      ],
+      "answer": 0,
+      "explanation": "The neural plate develops from ectoderm. Germ layers provide an early framework for understanding the origins of different tissues.",
+      "difficulty": "Core",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q015",
+      "lecture": 2,
+      "question": "Which structures are associated particularly with mesodermal development?",
+      "options": [
+        "Only the brain's outer surface",
+        "Only the outer skin layer",
+        "Only the intestinal lining",
+        "Muscles and much of the skeleton"
+      ],
+      "answer": 3,
+      "explanation": "Mesoderm contributes to structures including muscle and much of the skeleton. Germ layers differentiate into different tissue systems rather than remaining identical.",
+      "difficulty": "Core",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q016",
+      "lecture": 2,
+      "question": "How does the fetal period differ broadly from early organ formation?",
+      "options": [
+        "Growth and maturation of established structures become prominent",
+        "All development stops until birth",
+        "The fertilized cell first forms",
+        "Implantation occurs for the first time"
+      ],
+      "answer": 0,
+      "explanation": "The fetal period includes substantial growth and functional refinement. It does not imply that every organ has completed maturation.",
+      "difficulty": "Analysis",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q017",
+      "lecture": 2,
+      "question": "Why should a prenatal week be accompanied by its dating convention?",
+      "options": [
+        "The same event has different gestational and post-fertilization labels",
+        "All pregnancies begin on a known fertilization date",
+        "Gestational dating starts at the first newborn breath",
+        "Week numbers can never describe development"
+      ],
+      "answer": 0,
+      "explanation": "Dating conventions use different starting points. Specifying the convention prevents a roughly two-week discrepancy from becoming a false biological disagreement.",
+      "difficulty": "Analysis",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q018",
+      "lecture": 2,
+      "question": "A fetus shows increasing size after major structures have appeared. Which process is most prominent?",
+      "options": [
+        "Completion of all postnatal learning",
+        "The disappearance of organ systems",
+        "Growth alongside functional maturation",
+        "A return to the zygote stage"
+      ],
+      "answer": 2,
+      "explanation": "Fetal development includes increasing cell number and size together with maturation. Larger size does not mean every function is ready for independent life.",
+      "difficulty": "Applied",
+      "topicId": "L2T1",
+      "topic": "Embryonic and fetal development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD2Q019",
+      "lecture": 2,
+      "question": "Which early structure gives rise to the brain and spinal cord?",
+      "options": [
+        "Limb bud",
+        "Placental cord alone",
+        "Neural tube",
+        "Primitive gut alone"
+      ],
+      "answer": 2,
+      "explanation": "The neural tube is central to development of the central nervous system. It should not be confused with structures that mainly support nutrition or limb formation.",
+      "difficulty": "Core",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q020",
+      "lecture": 2,
+      "question": "Which set consists of major early brain divisions?",
+      "options": [
+        "Forebrain, midbrain and hindbrain",
+        "Endoderm, muscle and liver",
+        "Spinal cord, femur and retina",
+        "Cortex, placenta and diaphragm"
+      ],
+      "answer": 0,
+      "explanation": "The forebrain, midbrain and hindbrain organize early brain development. The lecture uses these divisions to trace nervous-system formation.",
+      "difficulty": "Core",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q021",
+      "lecture": 2,
+      "question": "What does myelination contribute to nervous-system function?",
+      "options": [
+        "More efficient signal transmission along many axons",
+        "Replacement of every neuron with bone",
+        "Elimination of all sensory input",
+        "Immediate adult-level reasoning"
+      ],
+      "answer": 0,
+      "explanation": "Myelin supports efficient transmission in neural pathways. Different systems mature over different periods, so one early age cannot mark universal completion.",
+      "difficulty": "Core",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q022",
+      "lecture": 2,
+      "question": "Why is 'brain structure is complete at birth' too broad?",
+      "options": [
+        "Organization and maturation continue after birth",
+        "All synapses form before implantation",
+        "The newborn has no brain structures",
+        "Brain development starts only at school"
+      ],
+      "answer": 0,
+      "explanation": "A newborn has an organized nervous system, but its pathways and functions continue changing. Experience contributes to later organization and learning.",
+      "difficulty": "Analysis",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q023",
+      "lecture": 2,
+      "question": "What is a dendrite's broad role?",
+      "options": [
+        "Receiving inputs from other cells",
+        "Transporting oxygen through the placenta",
+        "Forming the tooth crown",
+        "Storing urine in fetal life"
+      ],
+      "answer": 0,
+      "explanation": "Dendrites receive signals that contribute to a neuron's activity. Their development is part of the changing connectivity discussed in the lecture.",
+      "difficulty": "Core",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q024",
+      "lecture": 2,
+      "question": "Which term is another name for the doll's-eye response listed in the lecture?",
+      "options": [
+        "Plantar grasp",
+        "Galant response",
+        "Oculocephalic response",
+        "Asymmetric tonic neck response"
+      ],
+      "answer": 2,
+      "explanation": "The doll's-eye response is called the oculocephalic response. It concerns eye–head relationships and belongs to trained clinical examination; it is distinct from trunk curvature and grasping.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q025",
+      "lecture": 2,
+      "question": "Why can reduced oxygen supply matter during prenatal brain development?",
+      "options": [
+        "It always causes the same outcome",
+        "Oxygen has no role before birth",
+        "It affects only dental enamel",
+        "Developing neural tissue depends on adequate oxygen"
+      ],
+      "answer": 3,
+      "explanation": "Developing tissues need oxygen and nutrients. The effects of hypoxic circumstances depend on severity, timing and the wider clinical situation.",
+      "difficulty": "Analysis",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q026",
+      "lecture": 2,
+      "question": "In the lecture's early nervous-system sequence, what is associated with roughly the third developmental week?",
+      "options": [
+        "Mature independent air breathing",
+        "Completion of all brain connections",
+        "Completed adult myelination",
+        "The neural plate"
+      ],
+      "answer": 3,
+      "explanation": "The lecture places the neural plate in the early developmental sequence around week three. Prenatal week labels require a clear dating convention; the key relation is early neural organization.",
+      "difficulty": "Core",
+      "topicId": "L2T2",
+      "topic": "Developing nervous system",
+      "sourceSlides": "8–9"
+    },
+    {
+      "id": "CD2Q027",
+      "lecture": 2,
+      "question": "Which prenatal observation is behavioral rather than a body-size measure?",
+      "options": [
+        "A head-circumference measurement",
+        "An estimate of fetal weight",
+        "A measurement of femur length",
+        "A movement response to stimulation"
+      ],
+      "answer": 3,
+      "explanation": "Behavior includes observable activity such as movements or responses. Length and weight describe physical growth instead.",
+      "difficulty": "Core",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q028",
+      "lecture": 2,
+      "question": "What does fetal habituation mean?",
+      "options": [
+        "An increasing response to every repetition",
+        "A complete absence of sensory function",
+        "A reduced response to repeated stimulation",
+        "Proof of full spoken-language understanding"
+      ],
+      "answer": 2,
+      "explanation": "Habituation is a simple learning pattern. A repeated harmless stimulus may produce less response, but this alone does not establish complex conceptual understanding.",
+      "difficulty": "Core",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q029",
+      "lecture": 2,
+      "question": "Which inference from prenatal sound exposure is most cautious?",
+      "options": [
+        "Language acquisition is complete before birth",
+        "Experience may influence later recognition of familiar sound patterns",
+        "The fetus understands every spoken sentence",
+        "All languages are equally familiar at birth"
+      ],
+      "answer": 1,
+      "explanation": "Prenatal exposure can provide experience with sound patterns. Recognition or preference does not demonstrate adult-like comprehension of meanings or grammar.",
+      "difficulty": "Core",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q030",
+      "lecture": 2,
+      "question": "Why should fetal breathing movements not be equated with breathing air?",
+      "options": [
+        "They occur before air-based lung respiration begins",
+        "They eliminate placental oxygen exchange",
+        "They prove lungs are fully mature",
+        "They require the fetus to inhale room air"
+      ],
+      "answer": 0,
+      "explanation": "Prenatal breathing movements involve developing activity patterns. Oxygen is supplied through placental exchange rather than ordinary air breathing before birth.",
+      "difficulty": "Analysis",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q031",
+      "lecture": 2,
+      "question": "A fetus responds to a stimulus with a change in movement or heart rate. What does this show most directly?",
+      "options": [
+        "Reactivity to stimulation",
+        "A fixed future temperament diagnosis",
+        "Complete cortical maturity",
+        "Mastery of emotional vocabulary"
+      ],
+      "answer": 0,
+      "explanation": "Changes in activity or heart rate can indicate a response. They do not by themselves reveal an exact emotion or predict a whole developmental future.",
+      "difficulty": "Applied",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q032",
+      "lecture": 2,
+      "question": "Which activity does the lecture associate with about 14 developmental weeks as a course anchor?",
+      "options": [
+        "Adult-like lung maturity",
+        "The first independent steps",
+        "Full spoken-word comprehension",
+        "Breathing and swallowing movements"
+      ],
+      "answer": 3,
+      "explanation": "The slides associate breathing and swallowing motions with this prenatal period. These are developing activity patterns, not evidence of mature air breathing or safe independent feeding after an early birth.",
+      "difficulty": "Core",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q033",
+      "lecture": 2,
+      "question": "Why can maternal medication be relevant when interpreting fetal behavior?",
+      "options": [
+        "Every medication has identical effects",
+        "Medication can never reach fetal systems",
+        "Some substances can influence activity and development",
+        "Behavior is always independent of maternal circumstances"
+      ],
+      "answer": 2,
+      "explanation": "Substances differ in their effects and safety. Interpretation needs the specific exposure and clinical context rather than a blanket assumption about all medications.",
+      "difficulty": "Analysis",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q034",
+      "lecture": 2,
+      "question": "Which behavior appears earliest among these in the lecture's prenatal sequence?",
+      "options": [
+        "The listed fetal grasp response",
+        "A full range of neonatal-type movements",
+        "Eye opening later in pregnancy",
+        "Initial muscle contractions"
+      ],
+      "answer": 3,
+      "explanation": "The course places early muscle contractions before the later listed grasp and eye-opening milestones. The sequence is more robust for revision than treating every week label as an exact individual deadline.",
+      "difficulty": "Core",
+      "topicId": "L2T3",
+      "topic": "Fetal behavior and learning",
+      "sourceSlides": "10–11"
+    },
+    {
+      "id": "CD2Q035",
+      "lecture": 2,
+      "question": "Which issue belongs to the psychological transition to parenthood?",
+      "options": [
+        "Formation of the neural tube",
+        "Integration of a grasp reflex",
+        "Adapting expectations about caring for a baby",
+        "Eruption of a primary molar"
+      ],
+      "answer": 2,
+      "explanation": "Becoming a parent involves identity, expectations and feelings as well as practical preparation. These changes are distinct from the fetus's anatomical development.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q036",
+      "lecture": 2,
+      "question": "In the lecture's model, awareness of fetal movement can contribute to what?",
+      "options": [
+        "Completion of neonatal adaptation",
+        "The end of all parental anxiety",
+        "Immediate parenting competence",
+        "Recognizing the fetus as a separate developing individual"
+      ],
+      "answer": 3,
+      "explanation": "Perceived movement can make the developing baby feel more tangible to a parent. The model describes possible changes, not a compulsory emotional sequence.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q037",
+      "lecture": 2,
+      "question": "A pregnant parent expresses both happiness and fear of inadequacy. How should this be interpreted?",
+      "options": [
+        "Fear proves there can be no later attachment",
+        "Mixed feelings can accompany the transition",
+        "One feeling determines parenting quality",
+        "Happiness excludes any need for support"
+      ],
+      "answer": 1,
+      "explanation": "The transition can include hope and uncertainty together. Listening and support are more informative than judging future parenting from one feeling.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q038",
+      "lecture": 2,
+      "question": "What is a teratogenic exposure?",
+      "options": [
+        "A normal developmental stage",
+        "Any feeling reported during pregnancy",
+        "Any ordinary fetal movement",
+        "An exposure capable of disrupting prenatal development"
+      ],
+      "answer": 3,
+      "explanation": "Teratogenicity concerns potential developmental harm. Risk depends on the specific agent, dose, timing and other circumstances; it is not a guarantee of an outcome.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q039",
+      "lecture": 2,
+      "question": "The lecture places TORCH under which prenatal risk category?",
+      "options": [
+        "Chromosomal inheritance patterns",
+        "Infectious agents",
+        "Mechanical events during delivery",
+        "Family income classification"
+      ],
+      "answer": 1,
+      "explanation": "TORCH refers to a group of infections relevant to prenatal risk. The lecture lists infectious agents separately from drugs, smoking, chronic illness and social circumstances.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q040",
+      "lecture": 2,
+      "question": "Why should the slide's pregnancy-loss percentage be treated cautiously?",
+      "options": [
+        "The estimate depends on definitions and the population studied",
+        "Every pregnancy-risk percentage is meaningless",
+        "It directly predicts one individual's outcome",
+        "The percentage applies equally to every clinical situation"
+      ],
+      "answer": 0,
+      "explanation": "Population estimates vary with how pregnancies and losses are counted. A slide number without its source and context is not an individual prognosis.",
+      "difficulty": "Analysis",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q041",
+      "lecture": 2,
+      "question": "A family faces financial stress during pregnancy. What kind of pathway is relevant?",
+      "options": [
+        "An influence restricted to dental eruption",
+        "A guarantee of later language disorder",
+        "A direct proof of a genetic abnormality",
+        "Social circumstances influencing care and wellbeing"
+      ],
+      "answer": 3,
+      "explanation": "Financial stress can affect access, nutrition and emotional wellbeing. These pathways justify practical support without assuming an inevitable developmental outcome.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q042",
+      "lecture": 2,
+      "question": "Which response best addresses caregiver depression around birth?",
+      "options": [
+        "Blame the parent for every child outcome",
+        "Arrange appropriate support and care",
+        "Ignore it because only infant weight matters",
+        "Assume affection alone removes all symptoms"
+      ],
+      "answer": 1,
+      "explanation": "Caregiver wellbeing can affect the caregiving context and deserves attention in its own right. Appropriate support can help the family and the developing relationship.",
+      "difficulty": "Core",
+      "topicId": "L2T4",
+      "topic": "Transition to parenthood and prenatal risk",
+      "sourceSlides": "13–16"
+    },
+    {
+      "id": "CD2Q043",
+      "lecture": 2,
+      "question": "Which change is central to the transition at birth?",
+      "options": [
+        "Returning to implantation",
+        "Adapting to life outside the uterine environment",
+        "Beginning the embryonic period again",
+        "Completing all nervous-system maturation"
+      ],
+      "answer": 1,
+      "explanation": "Birth brings major physiological adaptations, including respiration and temperature regulation. The newborn must function in a substantially different environment.",
+      "difficulty": "Core",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q044",
+      "lecture": 2,
+      "question": "In this course, the neonatal period refers approximately to what?",
+      "options": [
+        "The preschool years",
+        "The entire first two years",
+        "The last trimester of pregnancy",
+        "The first month after birth"
+      ],
+      "answer": 3,
+      "explanation": "The lecture uses the first month as the newborn period. Development continues beyond it, but the immediate transition has distinctive physiological demands.",
+      "difficulty": "Core",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q045",
+      "lecture": 2,
+      "question": "Which group belongs in a newborn physical description?",
+      "options": [
+        "Peer status, identity and career plans",
+        "Weight, length and head circumference",
+        "Adult height, bone age and exam grades",
+        "Reading speed, spelling and handwriting"
+      ],
+      "answer": 1,
+      "explanation": "Weight, length and head circumference describe newborn size. They are interpreted alongside gestational age and the clinical examination.",
+      "difficulty": "Applied",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q046",
+      "lecture": 2,
+      "question": "What does spontaneous movement add to a newborn assessment?",
+      "options": [
+        "Information about activity and movement quality",
+        "A final intelligence score",
+        "Proof that every reflex is normal",
+        "A complete measure of later social functioning"
+      ],
+      "answer": 0,
+      "explanation": "Spontaneous movement offers useful behavioral and neurological observations. No single observation can stand for the full assessment or future outcome.",
+      "difficulty": "Applied",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q047",
+      "lecture": 2,
+      "question": "A newborn becomes unsettled when cold or wet. What is the best initial interpretation?",
+      "options": [
+        "The baby has mastered moral reasoning",
+        "Arousal can signal a bodily need",
+        "All distress reflects attachment failure",
+        "The baby is deliberately manipulative"
+      ],
+      "answer": 1,
+      "explanation": "Newborn arousal can reflect hunger, discomfort or other needs. Caregivers interpret several cues rather than assigning adult-like motives.",
+      "difficulty": "Applied",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q048",
+      "lecture": 2,
+      "question": "Why should response to sound be considered alongside other newborn observations?",
+      "options": [
+        "It adds information about sensory responsiveness",
+        "It establishes fluent language comprehension",
+        "It proves perfect lifelong hearing",
+        "It replaces all physical measurements"
+      ],
+      "answer": 0,
+      "explanation": "Sensory responses form one part of an overall picture. Turning or reacting to sound is not equivalent to demonstrating mature hearing or language.",
+      "difficulty": "Analysis",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q049",
+      "lecture": 2,
+      "question": "What does muscle tone describe broadly?",
+      "options": [
+        "A caregiver's spoken pitch",
+        "The colour of the baby's skin",
+        "Resistance and background muscle activity",
+        "The infant's emotional vocabulary"
+      ],
+      "answer": 2,
+      "explanation": "Tone concerns the neuromuscular system. It is evaluated with movement and other examination findings, not inferred from a personality description.",
+      "difficulty": "Core",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q050",
+      "lecture": 2,
+      "question": "Why is one quiet observation insufficient to conclude a newborn is unresponsive?",
+      "options": [
+        "A newborn should cry continuously",
+        "Quietness always means illness",
+        "Behavior depends partly on the infant's state",
+        "Sleep states have no physiological features"
+      ],
+      "answer": 2,
+      "explanation": "A sleeping or drowsy infant behaves differently from an alert one. State and clinical context influence what can be observed at a particular moment.",
+      "difficulty": "Applied",
+      "topicId": "L2T5",
+      "topic": "The newborn transition",
+      "sourceSlides": "18–23"
+    },
+    {
+      "id": "CD2Q051",
+      "lecture": 2,
+      "question": "Which state lies between sleeping and clear wakefulness?",
+      "options": [
+        "Drowsiness",
+        "Intense crying",
+        "Active alert fussiness",
+        "Quiet alertness"
+      ],
+      "answer": 0,
+      "explanation": "Drowsiness is a transition state. Recognizing it helps explain why an infant may not respond as they do during settled wakefulness.",
+      "difficulty": "Core",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q052",
+      "lecture": 2,
+      "question": "How does active sleep differ broadly from quiet sleep?",
+      "options": [
+        "More visible movement can occur during active sleep",
+        "Active sleep requires purposeful conversation",
+        "Active sleep means the infant is fully awake",
+        "Quiet sleep is always a sign of illness"
+      ],
+      "answer": 0,
+      "explanation": "Sleep states differ in activity and physiological patterns. Movements during sleep should not automatically be interpreted as an awake interaction.",
+      "difficulty": "Analysis",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q053",
+      "lecture": 2,
+      "question": "A parent tries face-to-face play while a baby is crying intensely. What adjustment is most appropriate?",
+      "options": [
+        "Help the baby settle before expecting sustained interaction",
+        "Increase the number of questions immediately",
+        "Continue stimulation regardless of cues",
+        "Assume the baby cannot form relationships"
+      ],
+      "answer": 0,
+      "explanation": "Intense distress can limit engagement. Attending to needs and helping the infant settle may create a better opportunity for interaction.",
+      "difficulty": "Applied",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q054",
+      "lecture": 2,
+      "question": "Why is neonatal state classification useful to caregivers?",
+      "options": [
+        "It replaces feeding and health assessment",
+        "It helps interpret changing readiness for interaction",
+        "It predicts exact school grades",
+        "It assigns a permanent personality rank"
+      ],
+      "answer": 1,
+      "explanation": "State describes a recurring pattern of behavior and physiology. It helps caregivers distinguish a need for rest from an opportunity to engage.",
+      "difficulty": "Analysis",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q055",
+      "lecture": 2,
+      "question": "Which exchange best illustrates cue-based newborn interaction?",
+      "options": [
+        "An adult ignores all changes in state",
+        "An adult notices turning away and reduces stimulation",
+        "An adult treats crying as a test of obedience",
+        "An adult insists on eye contact regardless of distress"
+      ],
+      "answer": 1,
+      "explanation": "Cue-based care adjusts to the infant's behavior. Turning away can prompt a pause rather than an automatic increase in stimulation.",
+      "difficulty": "Core",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q056",
+      "lecture": 2,
+      "question": "What does 'state' mean in the lecture's neonatal classification?",
+      "options": [
+        "A recurring cluster of behavior and physiological features",
+        "A fixed level of intellectual ability",
+        "A lifelong attachment pattern",
+        "A legal category of citizenship"
+      ],
+      "answer": 0,
+      "explanation": "Neonatal states recur and change. They concern the infant's current organization of sleep, alertness and activity rather than a permanent trait.",
+      "difficulty": "Core",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q057",
+      "lecture": 2,
+      "question": "A baby settles when held by a familiar caregiver. What developmental process may this support?",
+      "options": [
+        "Completion of formal reasoning",
+        "Learning a connection between the caregiver and comfort",
+        "Instant mastery of self-regulation",
+        "Loss of every primitive reflex"
+      ],
+      "answer": 1,
+      "explanation": "Repeated soothing interactions can associate the caregiver with relief and safety. The infant still needs continuing support with regulation.",
+      "difficulty": "Applied",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q058",
+      "lecture": 2,
+      "question": "Why should caregivers avoid expecting the same response in every interaction?",
+      "options": [
+        "Only one state exists after birth",
+        "Caregiver actions never matter",
+        "Infant state and needs fluctuate",
+        "Newborn behavior is entirely random"
+      ],
+      "answer": 2,
+      "explanation": "Sleep, hunger, alertness and discomfort change. Responsive care considers these variations instead of interpreting every difference as a relationship problem.",
+      "difficulty": "Analysis",
+      "topicId": "L2T6",
+      "topic": "States and caregiver interaction",
+      "sourceSlides": "24–27"
+    },
+    {
+      "id": "CD2Q059",
+      "lecture": 2,
+      "question": "Which pattern is associated with the Moro response?",
+      "options": [
+        "Isolated toe curling",
+        "A head turn toward the cheek",
+        "Arm opening followed by a return toward the body",
+        "A brief sucking rhythm alone"
+      ],
+      "answer": 2,
+      "explanation": "The Moro pattern involves upper-limb opening and return. Recognize the description; eliciting neonatal responses safely belongs to trained clinical assessment.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q060",
+      "lecture": 2,
+      "question": "Which response involves curving the trunk toward stimulation along one side of the back?",
+      "options": [
+        "Parachute response",
+        "Galant response",
+        "Rooting response",
+        "Palmar grasp"
+      ],
+      "answer": 1,
+      "explanation": "The Galant response concerns trunk curvature. Its body pattern distinguishes it from feeding orientation, grasping and protective arm extension.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q061",
+      "lecture": 2,
+      "question": "In an asymmetric tonic neck pattern, which arm is typically extended?",
+      "options": [
+        "The arm on the side toward which the face turns",
+        "Both arms equally in every case",
+        "Neither arm, because it is a foot response",
+        "Only the arm opposite the face"
+      ],
+      "answer": 0,
+      "explanation": "The described pattern resembles a fencer's posture: the face-side arm extends and the other flexes. Interpretation depends on the whole examination.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q062",
+      "lecture": 2,
+      "question": "What is the main distinction between sucking and rooting?",
+      "options": [
+        "Sucking concerns oral movements; rooting concerns orientation",
+        "Sucking is a visual reflex; rooting is a hand reflex",
+        "Both are names for the same arm movement",
+        "Rooting requires fluent language; sucking does not"
+      ],
+      "answer": 0,
+      "explanation": "Rooting helps orient toward a feeding source; sucking involves oral activity. Their related feeding functions do not make them identical responses.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q063",
+      "lecture": 2,
+      "question": "Why should reflex asymmetry be noted in a clinical examination?",
+      "options": [
+        "It is irrelevant if the infant is small",
+        "It proves advanced voluntary coordination",
+        "A difference between sides may need interpretation",
+        "It always establishes one specific disorder"
+      ],
+      "answer": 2,
+      "explanation": "Side-to-side differences can be clinically relevant. A clinician interprets them alongside age, state, movement and other findings rather than diagnosing from one reflex alone.",
+      "difficulty": "Analysis",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q064",
+      "lecture": 2,
+      "question": "What does inhibition of a primitive reflex broadly reflect?",
+      "options": [
+        "Loss of every voluntary movement",
+        "Changing control as the nervous system matures",
+        "A requirement that all reflexes vanish together",
+        "Failure of all sensory systems"
+      ],
+      "answer": 1,
+      "explanation": "Many primitive patterns become less prominent as control develops. Their expected course differs; protective responses are not simply another set that must all disappear.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q065",
+      "lecture": 2,
+      "question": "Which contrast is most appropriate?",
+      "options": [
+        "Every hand movement is a primitive reflex",
+        "Grasping cannot involve voluntary action later",
+        "Primitive grasp is automatic; purposeful release is voluntary control",
+        "Purposeful release appears before any hand movement"
+      ],
+      "answer": 2,
+      "explanation": "A similar body part can show reflexive and voluntary behavior at different times. Purposeful use develops beyond a response automatically elicited by stimulation.",
+      "difficulty": "Core",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q066",
+      "lecture": 2,
+      "question": "What should a student do when two slide sources give different reflex disappearance ages?",
+      "options": [
+        "Assume both apply exactly to every infant",
+        "Ignore the response pattern completely",
+        "Choose whichever age is smaller",
+        "Check authoritative context and avoid a rigid unsupported cutoff"
+      ],
+      "answer": 3,
+      "explanation": "Reflex timing varies with definitions and examination context. Learn the response and use appropriate clinical references rather than an isolated birthday rule.",
+      "difficulty": "Applied",
+      "topicId": "L2T7",
+      "topic": "Reflexes: recognize the response",
+      "sourceSlides": "28–39"
+    },
+    {
+      "id": "CD2Q067",
+      "lecture": 2,
+      "question": "How can rooming-in support early interaction when appropriate?",
+      "options": [
+        "It guarantees no feeding difficulty",
+        "It eliminates the need for caregiver rest",
+        "It determines every later attachment outcome",
+        "It creates more opportunities to notice infant cues"
+      ],
+      "answer": 3,
+      "explanation": "Proximity can help caregivers notice state and feeding cues. Benefits depend on the family's and infant's circumstances and appropriate support.",
+      "difficulty": "Analysis",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q068",
+      "lecture": 2,
+      "question": "What is a reasonable aim of early skin-to-skin support?",
+      "options": [
+        "Preventing every future emotional difficulty",
+        "Replacing all medical care",
+        "Proving attachment is complete",
+        "Facilitating contact and early regulation when clinically appropriate"
+      ],
+      "answer": 3,
+      "explanation": "Supported contact can help the early relationship and transition. It is one part of care, not a guarantee of all later developmental outcomes.",
+      "difficulty": "Core",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q069",
+      "lecture": 2,
+      "question": "A parent has a history of pregnancy loss and feels anxious after delivery. Which approach is best?",
+      "options": [
+        "Acknowledge the history and offer support",
+        "Treat anxiety as proof of poor parenting",
+        "Restrict information about the baby's care",
+        "Assume the new birth erases all distress"
+      ],
+      "answer": 0,
+      "explanation": "Past experiences can influence feelings during the new transition. Sensitive support can help without predicting a fixed relationship outcome.",
+      "difficulty": "Applied",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q070",
+      "lecture": 2,
+      "question": "Why should support include partners or other relevant caregivers?",
+      "options": [
+        "Only one person can ever comfort an infant",
+        "Other caregivers prevent any attachment",
+        "The infant develops within a caregiving network",
+        "Family relationships have no effect after delivery"
+      ],
+      "answer": 2,
+      "explanation": "Caregiving usually involves a wider network. Helping those involved can improve consistency and practical support while respecting the family's context.",
+      "difficulty": "Analysis",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q071",
+      "lecture": 2,
+      "question": "Which care plan best balances bonding and neonatal medical needs?",
+      "options": [
+        "Delay needed treatment to preserve one contact moment",
+        "Assume treatment prevents all relationships",
+        "Exclude caregivers from every appropriate interaction",
+        "Enable safe interaction alongside necessary treatment"
+      ],
+      "answer": 3,
+      "explanation": "Medical care and relationship support can coexist. Families can participate in safe, supported ways suited to the infant's condition.",
+      "difficulty": "Core",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q072",
+      "lecture": 2,
+      "question": "A baby gives subtle cues that a tired parent misses. What is a constructive response?",
+      "options": [
+        "Increase blame to improve confidence",
+        "Attribute permanent neglect from one episode",
+        "Help the parent recognize cues and obtain support",
+        "Assume the baby has no communicative capacity"
+      ],
+      "answer": 2,
+      "explanation": "Newborn cues can be difficult to interpret, especially under stress. Coaching and rest support learning more usefully than a sweeping judgment.",
+      "difficulty": "Applied",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q073",
+      "lecture": 2,
+      "question": "Which outcome best reflects successful early caregiving support?",
+      "options": [
+        "The family needs no future assistance",
+        "Caregivers become more able to respond to the baby's needs",
+        "All developmental milestones arrive early",
+        "The baby never cries again"
+      ],
+      "answer": 1,
+      "explanation": "The goal is sensitive, practical care, not a baby who never signals distress. Needs and learning continue to change after the newborn period.",
+      "difficulty": "Core",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q074",
+      "lecture": 2,
+      "question": "Why should prenatal, birth and postnatal influences be considered together?",
+      "options": [
+        "Only the delivery moment can matter",
+        "Postnatal support cannot change experience",
+        "They form a continuing context for the relationship",
+        "Earlier events always determine later outcomes"
+      ],
+      "answer": 2,
+      "explanation": "Relationships develop across time within several influences. Understanding continuity helps identify supports rather than treating one event as the entire explanation.",
+      "difficulty": "Analysis",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    },
+    {
+      "id": "CD2Q075",
+      "lecture": 2,
+      "question": "A newborn case includes prematurity, feeding support needs and caregiver anxiety. What is the strongest overall plan?",
+      "options": [
+        "Coordinate infant care and caregiver support",
+        "Ignore the family until feeding is fully independent",
+        "Focus only on a reflex timetable",
+        "Treat anxiety as the cause of every finding"
+      ],
+      "answer": 0,
+      "explanation": "The infant and caregivers have connected needs. Coordinated medical, feeding and relational support is more complete than focusing on one isolated feature.",
+      "difficulty": "Applied",
+      "topicId": "L2T8",
+      "topic": "Supporting the early relationship",
+      "sourceSlides": "19–20"
+    }
+  ]
+}

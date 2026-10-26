@@ -1,0 +1,1282 @@
+{
+  "lecture": 8,
+  "title": "Social & adaptive development",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD8Q001",
+      "lecture": 8,
+      "question": "What does adaptive functioning concern?",
+      "options": [
+        "Knowledge of facts without their everyday use",
+        "Physical maturity inferred from stature",
+        "Practical participation in everyday life",
+        "Maximum performance in a single unfamiliar test"
+      ],
+      "answer": 2,
+      "explanation": "Adaptive functioning includes daily living and communication used in context. Feeding or dressing with appropriate support are examples.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q002",
+      "lecture": 8,
+      "question": "Which example is prosocial behavior?",
+      "options": [
+        "Following a rule only to obtain a personal prize",
+        "Outperforming a peer to improve one's own rank",
+        "Helping a peer pick up dropped materials",
+        "Avoiding a consequence without regard to another person"
+      ],
+      "answer": 2,
+      "explanation": "Prosocial behavior benefits another person. Helping, sharing and comforting are common examples, although ability and context vary.",
+      "difficulty": "Applied",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q003",
+      "lecture": 8,
+      "question": "What is a sensible approach to toilet learning?",
+      "options": [
+        "Consider readiness, support and individual variation",
+        "Use one fixed age for day and night continence",
+        "Treat one accident as proof of intentional noncompliance",
+        "Assume knowing toileting words establishes full practical readiness"
+      ],
+      "answer": 0,
+      "explanation": "Toileting develops with readiness and practice; night dryness can follow a different course. A rigid birthday rule can mislead.",
+      "difficulty": "Core",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q004",
+      "lecture": 8,
+      "question": "Why do peer relationships matter in middle childhood?",
+      "options": [
+        "They provide opportunities for cooperation and belonging",
+        "They replace the continuing need for family relationships",
+        "They remove the influence of teachers and community settings",
+        "They guarantee wellbeing regardless of relationship quality"
+      ],
+      "answer": 0,
+      "explanation": "Friendships offer practice in negotiation, empathy and group participation. Family and adult relationships remain important.",
+      "difficulty": "Applied",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q005",
+      "lecture": 8,
+      "question": "Which response supports turn-taking?",
+      "options": [
+        "Expect independent turn-taking before any modelling",
+        "Model it and practise with manageable waits",
+        "Use explanation without an opportunity to practise",
+        "Lengthen waiting demands regardless of present ability"
+      ],
+      "answer": 1,
+      "explanation": "Short, supported turns provide practice. The adult can say “your turn, then mine” and gradually increase waiting.",
+      "difficulty": "Applied",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q006",
+      "lecture": 8,
+      "question": "What should a standardized adaptive assessment use?",
+      "options": [
+        "The appropriate edition and trained interpretation",
+        "Use the instrument's name without checking edition or form",
+        "Treat one self-care task as the total adaptive score",
+        "Apply one household's expectations without considering context"
+      ],
+      "answer": 0,
+      "explanation": "Tools such as Vineland have specific editions and procedures. A valid interpretation considers the person's context and multiple domains.",
+      "difficulty": "Core",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q007",
+      "lecture": 8,
+      "question": "Which statement about adolescent development is most appropriate?",
+      "options": [
+        "Independence requires ending all caregiver relationships",
+        "Privacy seeking directly establishes social maladjustment",
+        "Peer affiliation becomes the sole developmental influence",
+        "Growing independence can coexist with a need for support"
+      ],
+      "answer": 3,
+      "explanation": "Adolescents negotiate identity, privacy and relationships. Support can evolve while allowing greater responsibility.",
+      "difficulty": "Core",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q008",
+      "lecture": 8,
+      "question": "Why is cultural context important in self-care assessment?",
+      "options": [
+        "All culturally unfamiliar tasks should be treated as inability",
+        "One family's routines define independence for every child",
+        "Expectations and opportunities to practise differ",
+        "Knowledge of a task proves equal opportunity to practise it"
+      ],
+      "answer": 2,
+      "explanation": "Daily tasks are taught and valued differently across settings. Assessment should distinguish limited opportunity from difficulty performing a skill.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q009",
+      "lecture": 8,
+      "question": "What is the best way to interpret difficulty sharing at age three?",
+      "options": [
+        "Treat sharing as fully mastered at a fixed preschool birthday",
+        "Consider emerging regulation, context and support needs",
+        "Use a single conflict as a stable personality classification",
+        "Assume knowing a rule guarantees perfect regulation"
+      ],
+      "answer": 1,
+      "explanation": "Sharing draws on language, inhibition and perspective-taking, which are still developing. Adults can model and scaffold it.",
+      "difficulty": "Core",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q010",
+      "lecture": 8,
+      "question": "Which observation best reflects social participation?",
+      "options": [
+        "Explaining a social rule without joining any activity",
+        "Obtaining a body-size measurement in a clinic",
+        "Joining a group activity and responding to peers",
+        "Performing an isolated hand task without a social partner"
+      ],
+      "answer": 2,
+      "explanation": "Participation concerns involvement in meaningful activities with others. It depends on both the child's skills and the environment's support.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q011",
+      "lecture": 8,
+      "question": "Which pair best distinguishes social and adaptive functioning?",
+      "options": [
+        "Height gain; weight gain",
+        "Speech pitch; hearing threshold",
+        "Interacting with others; managing everyday demands",
+        "Bone age; tooth age"
+      ],
+      "answer": 2,
+      "explanation": "Social functioning concerns interaction, while adaptive functioning concerns practical participation in daily life. The areas often overlap in real activities.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q012",
+      "lecture": 8,
+      "question": "Which activity belongs most clearly to self-care?",
+      "options": [
+        "Washing hands before eating",
+        "Identifying a hidden object in a study",
+        "Copying an adult's accent",
+        "Explaining a scientific theory"
+      ],
+      "answer": 0,
+      "explanation": "Self-care concerns looking after daily personal needs. The level of independence expected depends on development, opportunity and appropriate support.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q013",
+      "lecture": 8,
+      "question": "What does community self-sufficiency concern?",
+      "options": [
+        "Only achieving a particular body weight",
+        "Always refusing help from others",
+        "Avoiding every public setting",
+        "Managing relevant community activities with suitable independence"
+      ],
+      "answer": 3,
+      "explanation": "Adaptive functioning extends beyond the home. A relevant example is following familiar safety routines in the community with the support appropriate to the child.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q014",
+      "lecture": 8,
+      "question": "What is personal-social responsibility?",
+      "options": [
+        "Winning social approval at any cost",
+        "Meeting appropriate responsibilities toward oneself and others",
+        "Performing every adult duty in childhood",
+        "Never expressing a personal preference"
+      ],
+      "answer": 1,
+      "explanation": "Responsibilities develop within age and cultural expectations. Tidying shared materials can be a manageable example for a young child.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q015",
+      "lecture": 8,
+      "question": "Why should adaptive independence not mean 'never needs help'?",
+      "options": [
+        "Help always prevents learning",
+        "Independence excludes relationships",
+        "Any assistance proves complete dependence",
+        "Seeking appropriate help is itself a useful skill"
+      ],
+      "answer": 3,
+      "explanation": "Effective functioning includes recognizing limits and requesting assistance. A child asking for help with a difficult fastening is participating adaptively.",
+      "difficulty": "Analysis",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q016",
+      "lecture": 8,
+      "question": "The slides use 'maladaptive behavior'. What should be described rather than morally judged?",
+      "options": [
+        "A child's height below the median",
+        "Any refusal of an unsafe request",
+        "Behavior that interferes with participation or learning",
+        "Any culturally unfamiliar preference"
+      ],
+      "answer": 2,
+      "explanation": "The term concerns functional interference, not a child's worth. Assessment asks what the behavior does, its context and what support or alternative is needed.",
+      "difficulty": "Core",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q017",
+      "lecture": 8,
+      "question": "Why can the same skill have different adaptive importance in different settings?",
+      "options": [
+        "Abilities have no functional meaning",
+        "Everyday expectations and environments differ",
+        "One culture's routine is a universal diagnostic item",
+        "All households use identical routines"
+      ],
+      "answer": 1,
+      "explanation": "A task's relevance depends on daily life. Assessment should identify meaningful participation rather than assume every family practises the same routine.",
+      "difficulty": "Analysis",
+      "topicId": "L8T1",
+      "topic": "Social and adaptive skills",
+      "sourceSlides": "4–11"
+    },
+    {
+      "id": "CD8Q018",
+      "lecture": 8,
+      "question": "Why can the human face be an important early social stimulus?",
+      "options": [
+        "Every expression has one certain meaning",
+        "It replaces all other sensory experience",
+        "It provides a direct measure of bone maturity",
+        "It carries changing signals within interaction"
+      ],
+      "answer": 3,
+      "explanation": "Faces provide gaze, expression and timing cues. Their significance develops through repeated interaction with people and situations.",
+      "difficulty": "Analysis",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q019",
+      "lecture": 8,
+      "question": "What does perceptual development concern in the lecture?",
+      "options": [
+        "Only learning to pronounce consonants",
+        "Interpreting and giving meaning to sensory information",
+        "Only increasing body size",
+        "Only following moral rules"
+      ],
+      "answer": 1,
+      "explanation": "Perception organizes sensory experience. An infant increasingly connects what is seen or heard with objects, events and social partners.",
+      "difficulty": "Core",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q020",
+      "lecture": 8,
+      "question": "A caregiver smiles encouragingly when a child approaches a new play area. What social information is offered?",
+      "options": [
+        "A fixed command to ignore all caution",
+        "A cue about how to interpret the unfamiliar situation",
+        "An exact measure of the child's emotional age",
+        "A guaranteed assessment of every physical hazard"
+      ],
+      "answer": 1,
+      "explanation": "Emotional signals can guide interpretation. They do not replace the adult's responsibility to assess actual safety and provide appropriate supervision.",
+      "difficulty": "Applied",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q021",
+      "lecture": 8,
+      "question": "Why should a caregiver's expression be interpreted in context?",
+      "options": [
+        "Every smile always has one identical cause",
+        "The surrounding event helps determine its meaning",
+        "Expressions operate without any situation",
+        "Context affects only spoken messages"
+      ],
+      "answer": 1,
+      "explanation": "A facial signal may reflect several experiences. Understanding the interaction is more informative than treating one movement as a perfect emotion label.",
+      "difficulty": "Applied",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q022",
+      "lecture": 8,
+      "question": "What is the infant's role in early social exchange?",
+      "options": [
+        "A mature interpreter of every adult motive",
+        "An independent regulator without support",
+        "A completely passive recipient",
+        "An active contributor through gaze, sound and movement"
+      ],
+      "answer": 3,
+      "explanation": "Infants influence the exchange through their cues. Adults respond and adjust, creating a reciprocal interaction rather than one-way stimulation.",
+      "difficulty": "Core",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q023",
+      "lecture": 8,
+      "question": "An adult follows a child's gaze toward a bird. What is the immediate social achievement?",
+      "options": [
+        "Assigning a formal adaptive score",
+        "Completing toilet learning",
+        "Establishing a shared focus",
+        "Proving independent reading"
+      ],
+      "answer": 2,
+      "explanation": "The adult and child attend to the same event. Shared focus creates opportunities to communicate and learn together.",
+      "difficulty": "Applied",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q024",
+      "lecture": 8,
+      "question": "A child approaches after seeing one adult smile but hesitates when another adult looks worried. What process is illustrated?",
+      "options": [
+        "Use of social-emotional cues in action",
+        "A guaranteed inability to decide",
+        "A change in skeletal age",
+        "A fixed reflex independent of context"
+      ],
+      "answer": 0,
+      "explanation": "The child's behavior changes with social information. This shows contextual guidance rather than a simple body-size or reflex explanation.",
+      "difficulty": "Applied",
+      "topicId": "L8T2",
+      "topic": "Faces and social referencing",
+      "sourceSlides": "6,12"
+    },
+    {
+      "id": "CD8Q025",
+      "lecture": 8,
+      "question": "Why is responding to a name socially useful?",
+      "options": [
+        "It helps coordinate attention with another person",
+        "It establishes all hearing thresholds",
+        "It guarantees independent self-care",
+        "It proves full sentence comprehension"
+      ],
+      "answer": 0,
+      "explanation": "A name can call the child's attention into an exchange. The response should still be interpreted alongside hearing, state and the situation.",
+      "difficulty": "Analysis",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q026",
+      "lecture": 8,
+      "question": "What does an infant's reaching up toward a caregiver often communicate?",
+      "options": [
+        "A mature abstract argument",
+        "A fixed proof of attachment classification",
+        "A request to be picked up or engaged",
+        "A written language response"
+      ],
+      "answer": 2,
+      "explanation": "A movement can carry a practical social intention. Context helps the caregiver understand and respond without requiring spoken words.",
+      "difficulty": "Applied",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q027",
+      "lecture": 8,
+      "question": "A baby smiles at a mirror image. What should not be concluded from that observation alone?",
+      "options": [
+        "A smile occurred",
+        "The image attracts interest",
+        "Full self-recognition is established",
+        "The baby attended visually"
+      ],
+      "answer": 2,
+      "explanation": "Enjoying a mirror is not the same as understanding the reflection as oneself. Stronger claims require different evidence.",
+      "difficulty": "Applied",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q028",
+      "lecture": 8,
+      "question": "Which routine most clearly offers practice in reciprocal social timing?",
+      "options": [
+        "A silent dental photograph",
+        "A body-length measurement alone",
+        "A continuous adult lecture without response space",
+        "A familiar gesture game with pauses for the child"
+      ],
+      "answer": 3,
+      "explanation": "Gesture games create predictable opportunities for each partner to act. The adult can adjust pace and wait for participation.",
+      "difficulty": "Core",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q029",
+      "lecture": 8,
+      "question": "An infant becomes frustrated when prevented from reaching an object. What is a suitable interpretation?",
+      "options": [
+        "All frustration is deliberate aggression",
+        "Any restriction destroys a relationship",
+        "The child has no intention or interest",
+        "Emerging goals can conflict with a necessary limit"
+      ],
+      "answer": 3,
+      "explanation": "The infant may be acting toward a goal. Adults can acknowledge frustration and maintain safety while offering an accessible alternative.",
+      "difficulty": "Applied",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q030",
+      "lecture": 8,
+      "question": "What is social imitation?",
+      "options": [
+        "A change in the number of teeth",
+        "An automatic plantar response",
+        "Copying an observed action within interaction",
+        "A measurement of weight gain"
+      ],
+      "answer": 2,
+      "explanation": "Imitation links another person's action with the child's own attempt. Waving back or joining a familiar action song are examples.",
+      "difficulty": "Core",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q031",
+      "lecture": 8,
+      "question": "Why does the phrase 'readable, predictable and responsive' matter in the newborn discussion?",
+      "options": [
+        "Infant cues can help adults organize caregiving",
+        "Caregivers never need to learn the infant's patterns",
+        "Newborns should follow adult rules without variation",
+        "Every signal has only one possible meaning"
+      ],
+      "answer": 0,
+      "explanation": "Recurring cues and responses allow partners to learn about one another. The phrase does not imply that every infant is easy to interpret at every moment.",
+      "difficulty": "Analysis",
+      "topicId": "L8T3",
+      "topic": "Early social interaction",
+      "sourceSlides": "14–19"
+    },
+    {
+      "id": "CD8Q032",
+      "lecture": 8,
+      "question": "A toddler holds a spoon but spills food. What is the best description?",
+      "options": [
+        "Independent mastery of every mealtime demand",
+        "Proof of a feeding diagnosis",
+        "Emerging self-feeding with developing control",
+        "Complete absence of adaptive ability"
+      ],
+      "answer": 2,
+      "explanation": "Participation can precede precision. Record the help and control needed instead of treating imperfect performance as no skill at all.",
+      "difficulty": "Applied",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q033",
+      "lecture": 8,
+      "question": "Why does cup use involve more than holding an object?",
+      "options": [
+        "It directly measures moral understanding",
+        "It depends only on vocabulary",
+        "It excludes posture and oral coordination",
+        "It combines coordination with a practical drinking routine"
+      ],
+      "answer": 3,
+      "explanation": "Drinking involves holding, orienting and coordinating the action. Context and safe equipment influence how independently the child can participate.",
+      "difficulty": "Analysis",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q034",
+      "lecture": 8,
+      "question": "What is an early form of dressing participation?",
+      "options": [
+        "Helping move an arm through a sleeve",
+        "Managing every fastening without teaching",
+        "Selecting adult-sized clothing alone",
+        "Reciting clothing names without acting"
+      ],
+      "answer": 0,
+      "explanation": "Adaptive routines develop through partial participation. Helping with one step can be meaningful progress toward a longer sequence.",
+      "difficulty": "Core",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q035",
+      "lecture": 8,
+      "question": "A toddler indicates wet clothing to a caregiver. What does this most directly show?",
+      "options": [
+        "Complete independent nighttime continence",
+        "Awareness and communication of a bodily-care need",
+        "A universal readiness date for all children",
+        "Mastery of every toileting step"
+      ],
+      "answer": 1,
+      "explanation": "Indicating a need is one part of toileting-related development. It should not be equated with independently managing the entire routine.",
+      "difficulty": "Applied",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q036",
+      "lecture": 8,
+      "question": "Why can dry days and dry nights follow different courses?",
+      "options": [
+        "Night dryness always precedes every daytime skill",
+        "They involve partly different control and physiological demands",
+        "Accidents necessarily reflect disobedience",
+        "All children attain both on one birthday"
+      ],
+      "answer": 1,
+      "explanation": "Toileting is not a single all-or-nothing event. Daytime routines and nighttime dryness may develop on different trajectories.",
+      "difficulty": "Analysis",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q037",
+      "lecture": 8,
+      "question": "Which response best supports learning a self-care sequence?",
+      "options": [
+        "Complete every step forever despite growing ability",
+        "Model steps, allow participation and reduce help gradually",
+        "Expect mastery without experience",
+        "Use shame after each error"
+      ],
+      "answer": 1,
+      "explanation": "Supported practice builds functional independence. Help can be adjusted to the child's current skills and the task's safety requirements.",
+      "difficulty": "Core",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q038",
+      "lecture": 8,
+      "question": "A toddler imitates sweeping with a small brush. What does this combine?",
+      "options": [
+        "Only an increase in height",
+        "A fully mature understanding of all household duties",
+        "Only a primitive grasp response",
+        "Social imitation and practical-role learning"
+      ],
+      "answer": 3,
+      "explanation": "Copying household activity can practise movement and familiar social roles. The child's participation is meaningful even before the task is efficient.",
+      "difficulty": "Applied",
+      "topicId": "L8T4",
+      "topic": "Toddler self-care",
+      "sourceSlides": "20–22"
+    },
+    {
+      "id": "CD8Q039",
+      "lecture": 8,
+      "question": "What distinguishes parallel play from cooperative play?",
+      "options": [
+        "Parallel play requires no toys",
+        "Cooperative play always lacks communication",
+        "Both necessarily involve identical roles",
+        "Playing alongside differs from organizing a shared activity"
+      ],
+      "answer": 3,
+      "explanation": "Children may be near one another while pursuing separate activities, or coordinate around a common scenario. Participation changes with development and context.",
+      "difficulty": "Analysis",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q040",
+      "lecture": 8,
+      "question": "Why might a preschooler interpret a game rule differently from an adult?",
+      "options": [
+        "Understanding rules and perspectives is still developing",
+        "Every difference is intentional cheating",
+        "The child has no capacity to learn rules",
+        "Language has no role in games"
+      ],
+      "answer": 0,
+      "explanation": "Rules involve comprehension, memory and social interpretation. Demonstration and guided practice can clarify the expected pattern.",
+      "difficulty": "Applied",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q041",
+      "lecture": 8,
+      "question": "Which adult action scaffolds cooperative play?",
+      "options": [
+        "Assign blame before understanding the disagreement",
+        "Expect adult negotiation immediately",
+        "Help children agree on roles and take manageable turns",
+        "Remove every opportunity to play together"
+      ],
+      "answer": 2,
+      "explanation": "Scaffolding supplies support for a task the children are learning. The adult can model a phrase or suggest a simple turn structure.",
+      "difficulty": "Core",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q042",
+      "lecture": 8,
+      "question": "A four-year-old tells an elaborate invented adventure. Which interpretation is most appropriate without other concerns?",
+      "options": [
+        "Imagination means the child cannot communicate",
+        "Imaginative storytelling should be distinguished from deliberate deception",
+        "Every invented detail proves a behavioral disorder",
+        "All stories must report events exactly"
+      ],
+      "answer": 1,
+      "explanation": "Preschool storytelling can mix experience and invention. Context and intention matter before labeling a story as a moral failure.",
+      "difficulty": "Core",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q043",
+      "lecture": 8,
+      "question": "Why can competitive games require support even when children know the rules?",
+      "options": [
+        "Losing and waiting add emotional-regulation demands",
+        "Winning is the only adaptive goal",
+        "Rule knowledge removes all frustration",
+        "Only muscle strength influences participation"
+      ],
+      "answer": 0,
+      "explanation": "Understanding what to do and managing disappointment are different demands. Adults can model fair play and coping alongside rule learning.",
+      "difficulty": "Analysis",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q044",
+      "lecture": 8,
+      "question": "Which observation shows growing awareness of family relationships?",
+      "options": [
+        "Only measuring a relative's height",
+        "Describing who belongs to a familiar family role",
+        "Naming one colour repeatedly",
+        "Responding to palm stimulation"
+      ],
+      "answer": 1,
+      "explanation": "Understanding family relationships organizes social knowledge. The relevant roles should reflect the child's actual family context.",
+      "difficulty": "Core",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q045",
+      "lecture": 8,
+      "question": "A child wants to help at home but cannot complete a whole chore. What is a suitable response?",
+      "options": [
+        "Exclude the child from every routine",
+        "Require adult efficiency before any participation",
+        "Treat help seeking as failure",
+        "Give a safe, manageable part of the task"
+      ],
+      "answer": 3,
+      "explanation": "A small meaningful role supports learning and belonging. Carrying safe materials or putting items in place can be an achievable starting point.",
+      "difficulty": "Applied",
+      "topicId": "L8T5",
+      "topic": "Preschool peers and play",
+      "sourceSlides": "23–25"
+    },
+    {
+      "id": "CD8Q046",
+      "lecture": 8,
+      "question": "Why should sleeping, eating and toileting concerns be assessed contextually?",
+      "options": [
+        "Development has no relevance to them",
+        "Only punishment changes these functions",
+        "Every concern has one behavioral cause",
+        "Physiology, routines, communication and stress can interact"
+      ],
+      "answer": 3,
+      "explanation": "Daily regulation involves several systems and experiences. A broad history is more informative than blaming the child for a difficult routine.",
+      "difficulty": "Analysis",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q047",
+      "lecture": 8,
+      "question": "Which bedtime approach emphasizes predictability?",
+      "options": [
+        "A consistent calming sequence suited to the child",
+        "More stimulation whenever the child looks tired",
+        "A different unexplained rule every night",
+        "No attention to sleep or comfort cues"
+      ],
+      "answer": 0,
+      "explanation": "A predictable routine can support settling. Persistent sleep concerns may still require further assessment rather than assuming every issue is solved by routine alone.",
+      "difficulty": "Core",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q048",
+      "lecture": 8,
+      "question": "A child repeatedly refuses one food texture. What is the strongest first approach?",
+      "options": [
+        "Infer a diagnosis from one refused bite",
+        "Assume deliberate defiance immediately",
+        "Force intake regardless of distress",
+        "Understand the pattern and consider appropriate assessment if needed"
+      ],
+      "answer": 3,
+      "explanation": "Texture responses can have different explanations. Observe the broader feeding pattern and seek appropriate help when concerns persist or affect wellbeing.",
+      "difficulty": "Applied",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q049",
+      "lecture": 8,
+      "question": "What is the problem with punishing a toileting accident as intentional misconduct?",
+      "options": [
+        "It proves the routine is fully learned",
+        "It accurately measures bladder maturity",
+        "It assumes intent without understanding readiness or causes",
+        "It removes all physiological influences"
+      ],
+      "answer": 2,
+      "explanation": "Accidents can reflect developmental, situational or medical factors. Support should focus on understanding needs and teaching routines rather than automatic blame.",
+      "difficulty": "Core",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q050",
+      "lecture": 8,
+      "question": "A child cannot reach the sink independently. What may improve self-care participation?",
+      "options": [
+        "More verbal criticism alone",
+        "Withholding all practice",
+        "Assuming lack of motivation",
+        "Suitable access and supervision"
+      ],
+      "answer": 3,
+      "explanation": "Environmental barriers can limit what a child demonstrates. Appropriate access allows the child to practise relevant skills safely.",
+      "difficulty": "Applied",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q051",
+      "lecture": 8,
+      "question": "Why should routines be adapted to family circumstances?",
+      "options": [
+        "Feasible support is more likely to be used consistently",
+        "All families have identical schedules",
+        "Adaptation means abandoning every developmental aim",
+        "Context cannot affect participation"
+      ],
+      "answer": 0,
+      "explanation": "A useful plan fits the setting while preserving the goal. Families differ in resources, space and caregiving arrangements.",
+      "difficulty": "Analysis",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q052",
+      "lecture": 8,
+      "question": "When should a persistent regulation concern prompt professional discussion?",
+      "options": [
+        "Only when the child can give a full written account",
+        "When its pattern or impact raises concern about functioning or wellbeing",
+        "Never, because routines always explain it",
+        "Only after every school year has passed"
+      ],
+      "answer": 1,
+      "explanation": "Repeated difficulties affecting health or daily life deserve attention. History and assessment help distinguish contributing factors and suitable support.",
+      "difficulty": "Core",
+      "topicId": "L8T6",
+      "topic": "Everyday regulation",
+      "sourceSlides": "26"
+    },
+    {
+      "id": "CD8Q053",
+      "lecture": 8,
+      "question": "What new social setting commonly becomes more prominent in middle childhood?",
+      "options": [
+        "Only the newborn feeding setting",
+        "The prenatal uterine environment",
+        "School-based teacher and peer relationships",
+        "Exclusive dependence on one social partner"
+      ],
+      "answer": 2,
+      "explanation": "School expands the network of relationships and expectations. Family relationships continue alongside these additional settings.",
+      "difficulty": "Core",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q054",
+      "lecture": 8,
+      "question": "Which action best illustrates inclusion?",
+      "options": [
+        "Leaving every conflict unresolved",
+        "Excluding a learner because they need an explanation",
+        "Adapting a group activity so a new child can participate",
+        "Choosing friends only by possessions"
+      ],
+      "answer": 2,
+      "explanation": "Inclusion concerns access and meaningful participation. A small change in rules or support can help a child join peers.",
+      "difficulty": "Core",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q055",
+      "lecture": 8,
+      "question": "Why is popularity not adequately explained by possessions alone?",
+      "options": [
+        "Objects fully determine every friendship",
+        "Friendship and peer standing have multiple influences",
+        "All cultures value the same possessions identically",
+        "Relationships are unrelated to behavior"
+      ],
+      "answer": 1,
+      "explanation": "The slide's statement is overly broad. Cooperation, shared interests, context and many other factors can influence peer relationships.",
+      "difficulty": "Analysis",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q056",
+      "lecture": 8,
+      "question": "What can gossip illustrate in peer-group life?",
+      "options": [
+        "A harmless activity in every circumstance",
+        "A direct measurement of body growth",
+        "Information-sharing that can affect belonging and relationships",
+        "A necessary sign of mature moral reasoning"
+      ],
+      "answer": 2,
+      "explanation": "Gossip can shape group dynamics and may harm others. Its role should be examined without treating it as a universal or desirable developmental requirement.",
+      "difficulty": "Core",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q057",
+      "lecture": 8,
+      "question": "How can neighbourhood conditions influence social participation?",
+      "options": [
+        "They replace the influence of family and school",
+        "They determine every child's character",
+        "Safety and available spaces affect opportunities",
+        "They matter only before birth"
+      ],
+      "answer": 2,
+      "explanation": "Access to safe play and community spaces changes what activities are possible. Development occurs within environmental opportunities and constraints.",
+      "difficulty": "Analysis",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q058",
+      "lecture": 8,
+      "question": "A child follows family values but encounters a different school expectation. What developmental issue is relevant?",
+      "options": [
+        "A change in dental age",
+        "An inevitable absence of all moral understanding",
+        "Negotiating norms across settings",
+        "The end of every family influence"
+      ],
+      "answer": 2,
+      "explanation": "Children encounter overlapping and sometimes differing expectations. Discussion can help them understand reasons and appropriate behavior in context.",
+      "difficulty": "Applied",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q059",
+      "lecture": 8,
+      "question": "Why should same-sex peer-group patterns not be treated as compulsory?",
+      "options": [
+        "Culture never affects peer relationships",
+        "Every mixed group indicates a problem",
+        "All children choose identical friends",
+        "Friendships vary across individuals and contexts"
+      ],
+      "answer": 3,
+      "explanation": "A common pattern in some contexts is not a universal rule. Assessment should focus on relationships and participation rather than enforcing a stereotype.",
+      "difficulty": "Analysis",
+      "topicId": "L8T7",
+      "topic": "Middle-childhood relationships and values",
+      "sourceSlides": "28–30"
+    },
+    {
+      "id": "CD8Q060",
+      "lecture": 8,
+      "question": "Why might body changes affect adolescent social experience?",
+      "options": [
+        "They can influence self-consciousness and how others respond",
+        "They eliminate the importance of culture",
+        "They make emotional support unnecessary",
+        "They determine every personality trait"
+      ],
+      "answer": 0,
+      "explanation": "Puberty occurs within a social setting. Appearance, comparison and others' reactions may contribute to a teenager's experience without fixing one outcome.",
+      "difficulty": "Analysis",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q061",
+      "lecture": 8,
+      "question": "Which approach respects increasing adolescent privacy?",
+      "options": [
+        "Assume privacy eliminates safety responsibilities",
+        "Agree on appropriate boundaries while maintaining support",
+        "Remove all communication with caregivers",
+        "Treat any privacy request as wrongdoing"
+      ],
+      "answer": 1,
+      "explanation": "Autonomy grows through negotiation and responsibility. Privacy can coexist with clear expectations and accessible support.",
+      "difficulty": "Core",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q062",
+      "lecture": 8,
+      "question": "How can media influence adolescent development?",
+      "options": [
+        "It affects only tooth development",
+        "It produces identical beliefs in every viewer",
+        "It replaces all peer and family relationships",
+        "It supplies models, comparisons and social messages"
+      ],
+      "answer": 3,
+      "explanation": "Media contributes to the information environment. Its influence depends on content, interpretation, context and other relationships.",
+      "difficulty": "Analysis",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q063",
+      "lecture": 8,
+      "question": "An adolescent begins questioning a family tradition. What response supports reflective development?",
+      "options": [
+        "Discuss reasons and listen to the adolescent's view",
+        "Assume questioning proves rejection of the family",
+        "Treat the question as a growth measurement",
+        "Forbid every explanation"
+      ],
+      "answer": 0,
+      "explanation": "Questioning can be part of identity and value formation. Dialogue allows reasoning while maintaining a relationship.",
+      "difficulty": "Applied",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q064",
+      "lecture": 8,
+      "question": "What distinguishes a realistic long-term plan from an unexamined aspiration?",
+      "options": [
+        "It avoids all available information",
+        "It guarantees the outcome",
+        "It considers steps, constraints and alternatives",
+        "It depends only on peer approval"
+      ],
+      "answer": 2,
+      "explanation": "Planning connects goals with feasible actions and possible obstacles. Adolescents can be supported to revise plans as information and circumstances change.",
+      "difficulty": "Analysis",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q065",
+      "lecture": 8,
+      "question": "Why should family conflict not be assumed inevitable in adolescence?",
+      "options": [
+        "No adolescent ever disagrees",
+        "Puberty removes individual differences",
+        "All peer influence is harmful",
+        "Relationships and contexts vary"
+      ],
+      "answer": 3,
+      "explanation": "Disagreement can occur, but there is no single compulsory relationship pattern. Support, communication and context influence adjustment.",
+      "difficulty": "Analysis",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q066",
+      "lecture": 8,
+      "question": "What is a suitable response to pressure to follow a risky peer trend?",
+      "options": [
+        "Treat all friendships as undesirable",
+        "Assume belonging requires every imitation",
+        "Ignore the adolescent's need for acceptance",
+        "Practise considering consequences and communicating a choice"
+      ],
+      "answer": 3,
+      "explanation": "The wish to belong is important, but choices can be discussed and rehearsed. Support can connect safety with realistic social pressures.",
+      "difficulty": "Core",
+      "topicId": "L8T8",
+      "topic": "Adolescent identity and relationships",
+      "sourceSlides": "31–33"
+    },
+    {
+      "id": "CD8Q067",
+      "lecture": 8,
+      "question": "Which domain concerns practical personal routines in an adaptive assessment?",
+      "options": [
+        "Purely abstract reasoning",
+        "Pubertal stage only",
+        "Daily living skills",
+        "Tooth eruption only"
+      ],
+      "answer": 2,
+      "explanation": "Daily living content examines practical functioning. It may include self-care and other routines depending on the tool and form used.",
+      "difficulty": "Core",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q068",
+      "lecture": 8,
+      "question": "Which domain examines exchanging and understanding messages?",
+      "options": [
+        "Skeletal maturity",
+        "Body composition",
+        "Communication",
+        "Dental mineralization"
+      ],
+      "answer": 2,
+      "explanation": "Adaptive communication concerns how messages are understood and used in everyday life. It should not be reduced to speech clarity alone.",
+      "difficulty": "Core",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q069",
+      "lecture": 8,
+      "question": "Which domain is most directly concerned with interpersonal participation?",
+      "options": [
+        "Socialization",
+        "Weight-for-length",
+        "Bone age",
+        "Voice pitch"
+      ],
+      "answer": 0,
+      "explanation": "Socialization concerns functioning with other people. Adaptive tools examine this alongside other domains rather than assuming one score describes everything.",
+      "difficulty": "Core",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q070",
+      "lecture": 8,
+      "question": "Why must a Vineland interpretation specify the edition and form?",
+      "options": [
+        "Every edition has identical items and norms",
+        "Content and administration can differ",
+        "The name alone defines every procedure",
+        "Forms are irrelevant to scores"
+      ],
+      "answer": 1,
+      "explanation": "Standardized instruments evolve. The appropriate manual and form determine what was assessed and how the results can be interpreted.",
+      "difficulty": "Analysis",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q071",
+      "lecture": 8,
+      "question": "Why can caregiver information be valuable in adaptive assessment?",
+      "options": [
+        "It describes functioning across familiar daily routines",
+        "It removes the need for careful questions",
+        "It is always sufficient without any other evidence",
+        "It directly measures every brain process"
+      ],
+      "answer": 0,
+      "explanation": "A caregiver can describe everyday performance that may not appear in a short clinic visit. Information still needs appropriate interpretation and corroboration where relevant.",
+      "difficulty": "Analysis",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q072",
+      "lecture": 8,
+      "question": "A child can explain handwashing but does not perform it without prompts. Which distinction matters?",
+      "options": [
+        "Primary versus permanent teeth",
+        "Knowing the steps versus using the skill in daily life",
+        "Reflexive versus social smiling",
+        "Height versus head circumference"
+      ],
+      "answer": 1,
+      "explanation": "Adaptive assessment concerns practical use, not only verbal knowledge. Prompting, opportunity and context help explain the difference.",
+      "difficulty": "Applied",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q073",
+      "lecture": 8,
+      "question": "Why should support level be recorded when describing independence?",
+      "options": [
+        "Any prompt proves no skill exists",
+        "Doing a task with prompts differs from doing it unaided",
+        "All assistance levels mean identical performance",
+        "Only the final result matters"
+      ],
+      "answer": 1,
+      "explanation": "A clear functional description specifies help. This makes progress and support needs more visible than a simple yes-or-no label.",
+      "difficulty": "Analysis",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q074",
+      "lecture": 8,
+      "question": "What should be done if an assessment task is culturally unfamiliar?",
+      "options": [
+        "Automatically score inability as a disorder",
+        "Consider opportunity and interpret within the tool's guidance",
+        "Invent a norm without documentation",
+        "Assume every child has practised it"
+      ],
+      "answer": 1,
+      "explanation": "An unfamiliar routine may reflect limited exposure. Interpret appropriately rather than treating one setting's expectations as universal developmental facts.",
+      "difficulty": "Core",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    },
+    {
+      "id": "CD8Q075",
+      "lecture": 8,
+      "question": "A learner has strong academic knowledge but needs substantial help with everyday routines. What does this show?",
+      "options": [
+        "The academic results must be incorrect",
+        "Academic and adaptive profiles can differ",
+        "Academic performance proves full independence",
+        "Daily functioning cannot be assessed"
+      ],
+      "answer": 1,
+      "explanation": "Knowledge and practical participation are related but distinct. An adaptive profile can identify needs that an academic test does not capture.",
+      "difficulty": "Applied",
+      "topicId": "L8T9",
+      "topic": "Adaptive assessment",
+      "sourceSlides": "34–36"
+    }
+  ]
+}

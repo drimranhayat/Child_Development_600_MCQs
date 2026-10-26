@@ -1,0 +1,1282 @@
+{
+  "lecture": 1,
+  "title": "Foundations of development",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD1Q001",
+      "lecture": 1,
+      "question": "Which observation measures growth most directly?",
+      "options": [
+        "Taking turns",
+        "An increase in height",
+        "Recognizing a familiar face",
+        "Using a new word"
+      ],
+      "answer": 1,
+      "explanation": "Growth refers to measurable physical change. For example, plotting height over time describes growth; taking turns describes social development.",
+      "difficulty": "Core",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q002",
+      "lecture": 1,
+      "question": "A child learns to dress independently. Which interpretation is best?",
+      "options": [
+        "Motor coordination alone",
+        "Understanding the task alone",
+        "Emotional regulation alone",
+        "Several developmental domains work together"
+      ],
+      "answer": 3,
+      "explanation": "Dressing combines coordination, understanding, sequencing and motivation. Developmental domains interact in everyday tasks.",
+      "difficulty": "Applied",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q003",
+      "lecture": 1,
+      "question": "What is central to a lifespan view of development?",
+      "options": [
+        "Development consists only of gains",
+        "Psychological development ends at physical maturity",
+        "Change continues throughout life",
+        "Historical context has the same influence at every age"
+      ],
+      "answer": 2,
+      "explanation": "Development includes gains, adjustments and losses across life. An adult learning a new skill is still developing.",
+      "difficulty": "Core",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q004",
+      "lecture": 1,
+      "question": "Which example best illustrates a contingent response?",
+      "options": [
+        "An adult names the object the baby points toward",
+        "An adult names a different toy while the baby points",
+        "An adult continues a fixed script without observing the baby",
+        "An adult asks unrelated questions without allowing a response"
+      ],
+      "answer": 0,
+      "explanation": "A contingent response connects to the child's signal. Naming a pointed-at toy supports shared attention.",
+      "difficulty": "Applied",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q005",
+      "lecture": 1,
+      "question": "What does temperament describe?",
+      "options": [
+        "A temporary mood during one illness",
+        "The quality of one particular attachment relationship",
+        "Characteristic patterns of responding",
+        "The number of learned words used in conversation"
+      ],
+      "answer": 2,
+      "explanation": "Temperament concerns typical responses such as approach, activity and reactivity. A cautious child may benefit from a gradual introduction.",
+      "difficulty": "Core",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q006",
+      "lecture": 1,
+      "question": "Which statement fits a transactional model?",
+      "options": [
+        "Children and caregivers influence one another",
+        "Caregivers shape children through one-way influence",
+        "Children shape caregivers without being influenced in return",
+        "Biological and social influences operate without interaction"
+      ],
+      "answer": 0,
+      "explanation": "Influence moves in both directions. A baby's signals shape adult responses, which then influence the baby's experience.",
+      "difficulty": "Core",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q007",
+      "lecture": 1,
+      "question": "Which example illustrates an ecological influence?",
+      "options": [
+        "Height increasing without any contextual influence",
+        "One test score determining the child's future",
+        "School and family routines affecting participation",
+        "A reflex occurring in isolation"
+      ],
+      "answer": 2,
+      "explanation": "Ecological models consider connected settings. Consistent support at home and school may improve participation.",
+      "difficulty": "Applied",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q008",
+      "lecture": 1,
+      "question": "What does resilience mean in development?",
+      "options": [
+        "Absence of exposure to adversity",
+        "An unchanging biological immunity to stress",
+        "High achievement regardless of whether adversity occurred",
+        "Positive adaptation in the presence of adversity"
+      ],
+      "answer": 3,
+      "explanation": "Resilience is adaptation despite challenges. A supportive adult can be a protective factor during family disruption.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q009",
+      "lecture": 1,
+      "question": "How should brain development be understood?",
+      "options": [
+        "Connection patterns remain fixed after birth",
+        "Connections continue to be reorganized through experience",
+        "Experience affects behavior without affecting developing connections",
+        "Pruning removes every pathway that is used frequently"
+      ],
+      "answer": 1,
+      "explanation": "Experience and maturation shape connections over time. Repeated language interaction provides practice for developing systems.",
+      "difficulty": "Core",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q010",
+      "lecture": 1,
+      "question": "What does the first 1,000 days emphasize?",
+      "options": [
+        "Birth through the first 1,000 postnatal days",
+        "Conception through roughly the first birthday",
+        "The period from conception through roughly the second birthday",
+        "Birth through approximately the third birthday"
+      ],
+      "answer": 2,
+      "explanation": "This period highlights early nutrition, health and responsive care. It is an important opportunity, not a claim that later support cannot help.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q011",
+      "lecture": 1,
+      "question": "A chart records a child's weight rising from 12 kg to 14 kg. What kind of evidence is this?",
+      "options": [
+        "Emotional regulation",
+        "Quantitative growth",
+        "Qualitative social change",
+        "Moral reasoning"
+      ],
+      "answer": 1,
+      "explanation": "Weight is a numerical body measurement. The change describes growth; it does not by itself tell us how the child communicates or relates to others.",
+      "difficulty": "Applied",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q012",
+      "lecture": 1,
+      "question": "Which change best demonstrates increased functional capacity?",
+      "options": [
+        "An increase in foot length",
+        "An increase in head circumference",
+        "Learning to fasten a coat",
+        "A rise in body weight"
+      ],
+      "answer": 2,
+      "explanation": "Development includes what a person can do. Fastening a coat shows a new functional skill, whereas the other options describe body measurements.",
+      "difficulty": "Core",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q013",
+      "lecture": 1,
+      "question": "How are growth and development best assessed together?",
+      "options": [
+        "Observe abilities but disregard health",
+        "Measure size and observe abilities over time",
+        "Use weight as the only indicator",
+        "Compare one measurement with a sibling"
+      ],
+      "answer": 1,
+      "explanation": "Physical measurements and functional observations answer different questions. Together they show how a child is growing and managing everyday tasks.",
+      "difficulty": "Analysis",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q014",
+      "lecture": 1,
+      "question": "Why does development include both qualitative and quantitative change?",
+      "options": [
+        "Only unmeasurable changes count",
+        "Every change can be reduced to height",
+        "Development excludes numerical information",
+        "Abilities can change in kind and amount"
+      ],
+      "answer": 3,
+      "explanation": "A child may use more words and also begin organizing them into sentences. There is a change in quantity and in the structure of communication.",
+      "difficulty": "Analysis",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q015",
+      "lecture": 1,
+      "question": "Two children have the same height but different language abilities. What follows?",
+      "options": [
+        "The shorter vocabulary proves poor nutrition",
+        "Height invalidates language observation",
+        "Their development must be identical",
+        "Equal size does not imply equal skills"
+      ],
+      "answer": 3,
+      "explanation": "Body size and language are related to different aspects of development. Similar growth measurements do not establish identical functional profiles.",
+      "difficulty": "Core",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q016",
+      "lecture": 1,
+      "question": "A study records both stable temperament and newly acquired skills. Why is it developmental?",
+      "options": [
+        "The field examines stability as well as change",
+        "Only changing traits belong in the field",
+        "A stable trait rules out later development",
+        "Stable traits cannot be observed scientifically"
+      ],
+      "answer": 0,
+      "explanation": "Human development investigates continuities and changes. A consistent cautious approach can coexist with gains in language and independence.",
+      "difficulty": "Core",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q017",
+      "lecture": 1,
+      "question": "Which observation would best complement a child's height record?",
+      "options": [
+        "How the child manages age-relevant tasks",
+        "The height of a classroom door",
+        "The manufacturer's scale label",
+        "One adult's unsupported prediction"
+      ],
+      "answer": 0,
+      "explanation": "Functional observation adds information beyond size. Watching communication, movement and self-care helps describe development more fully.",
+      "difficulty": "Applied",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q018",
+      "lecture": 1,
+      "question": "Which statement about cell number and cell size is sound?",
+      "options": [
+        "Both can contribute to physical growth",
+        "Only cell size can change body size",
+        "Cell division is a social process",
+        "Neither relates to physical growth"
+      ],
+      "answer": 0,
+      "explanation": "Growth may involve more cells, larger cells, or both. These mechanisms concern physical change rather than the entire developmental profile.",
+      "difficulty": "Core",
+      "topicId": "L1T1",
+      "topic": "Growth and development",
+      "sourceSlides": "3–6"
+    },
+    {
+      "id": "CD1Q019",
+      "lecture": 1,
+      "question": "A learner improves vocabulary while becoming slower at one physical task. Which lifespan principle applies?",
+      "options": [
+        "Loss cancels every gain",
+        "Development ends after the first loss",
+        "Development has one upward direction",
+        "Gains and losses can coexist"
+      ],
+      "answer": 3,
+      "explanation": "Different abilities can follow different trajectories. Progress in one area does not require equal improvement in every other area.",
+      "difficulty": "Applied",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q020",
+      "lecture": 1,
+      "question": "What does developmental modifiability imply for teaching?",
+      "options": [
+        "Any difficulty disappears without support",
+        "Abilities are completely fixed at birth",
+        "Teaching produces identical outcomes in everyone",
+        "Support and experience can change performance"
+      ],
+      "answer": 3,
+      "explanation": "Modifiability means change remains possible. Suitable practice can improve a skill, although outcomes and support needs differ.",
+      "difficulty": "Core",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q021",
+      "lecture": 1,
+      "question": "Which example best shows historical context affecting development?",
+      "options": [
+        "A single inherited blood group",
+        "A school closure changing learning opportunities",
+        "A grasp response during examination",
+        "A child growing one centimetre"
+      ],
+      "answer": 1,
+      "explanation": "Historical events alter the conditions in which children learn. A school closure can change peer contact, instruction and family routines.",
+      "difficulty": "Core",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q022",
+      "lecture": 1,
+      "question": "A child devotes more effort to learning new skills; an older adult focuses on maintaining independence. Which idea fits?",
+      "options": [
+        "Resource allocation changes across life",
+        "Maintenance is outside development",
+        "Only children have developmental goals",
+        "Resources are allocated identically at every age"
+      ],
+      "answer": 0,
+      "explanation": "People allocate time and effort differently across life. Development includes acquiring, maintaining and adapting abilities.",
+      "difficulty": "Applied",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q023",
+      "lecture": 1,
+      "question": "Why does culture belong in a lifespan account?",
+      "options": [
+        "It shapes expectations and learning opportunities",
+        "It determines every biological event",
+        "It removes individual variation",
+        "It affects adults but never children"
+      ],
+      "answer": 0,
+      "explanation": "Culture influences valued skills, routines and opportunities. For example, expectations about children's household responsibilities differ across communities.",
+      "difficulty": "Analysis",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q024",
+      "lecture": 1,
+      "question": "Which conclusion follows from lifelong development?",
+      "options": [
+        "All adult change is physical decline",
+        "Childhood experience becomes irrelevant",
+        "Adulthood guarantees psychological completion",
+        "Adults can continue adapting to new roles"
+      ],
+      "answer": 3,
+      "explanation": "Roles and demands continue changing in adulthood. Becoming a parent or learning a profession involves psychological adjustment and learning.",
+      "difficulty": "Core",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q025",
+      "lecture": 1,
+      "question": "A learner improves after task instructions are adapted. What does this most directly challenge?",
+      "options": [
+        "The influence of teaching methods",
+        "The possibility of individual differences",
+        "The assumption that observed performance is unchangeable",
+        "The importance of observing the task"
+      ],
+      "answer": 2,
+      "explanation": "Improvement after support shows why one performance should not be treated as a permanent limit. Instruction and context can reveal additional capacity.",
+      "difficulty": "Applied",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q026",
+      "lecture": 1,
+      "question": "In the lecture's lifespan overview, which band is labelled young adulthood?",
+      "options": [
+        "About 65 years onward",
+        "About 6–12 years",
+        "Birth to 2 years",
+        "About 20–40 years"
+      ],
+      "answer": 3,
+      "explanation": "The course overview labels roughly 20–40 years as young adulthood. These broad social-developmental periods organize the syllabus rather than define identical life events for everyone.",
+      "difficulty": "Core",
+      "topicId": "L1T2",
+      "topic": "A lifespan perspective",
+      "sourceSlides": "7"
+    },
+    {
+      "id": "CD1Q027",
+      "lecture": 1,
+      "question": "A child balances while explaining a game to peers. Which domains interact most clearly?",
+      "options": [
+        "Dental, skeletal and hormonal only",
+        "Motor without communication",
+        "Language without social participation",
+        "Motor, language and social"
+      ],
+      "answer": 3,
+      "explanation": "Balancing involves movement, explaining uses language, and coordinating with peers involves social participation. Everyday activities commonly combine domains.",
+      "difficulty": "Applied",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q028",
+      "lecture": 1,
+      "question": "In the lecture's period scheme, conception to birth is called what?",
+      "options": [
+        "The prenatal period",
+        "Toddlerhood",
+        "Early childhood",
+        "Middle childhood"
+      ],
+      "answer": 0,
+      "explanation": "Prenatal means before birth. It includes major physical and neurological changes and the prenatal context of later development.",
+      "difficulty": "Core",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q029",
+      "lecture": 1,
+      "question": "Which period follows infancy and toddlerhood in the course overview?",
+      "options": [
+        "Middle adulthood",
+        "Early childhood",
+        "The prenatal period",
+        "Late adulthood"
+      ],
+      "answer": 1,
+      "explanation": "The overview moves from prenatal life to infancy and toddlerhood, then early childhood. These categories organize study rather than impose identical birthdays for every skill.",
+      "difficulty": "Core",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q030",
+      "lecture": 1,
+      "question": "Why can a child's developmental profile be more useful than one overall label?",
+      "options": [
+        "It replaces all contextual information",
+        "It ranks the child's moral worth",
+        "It assumes every domain is identical",
+        "It shows strengths and needs across domains"
+      ],
+      "answer": 3,
+      "explanation": "A profile can show strong movement alongside language support needs. This helps select relevant opportunities and further assessment.",
+      "difficulty": "Applied",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q031",
+      "lecture": 1,
+      "question": "Which task most directly demonstrates gross motor participation?",
+      "options": [
+        "Describing a picture",
+        "Threading a large bead",
+        "Naming an emotion",
+        "Climbing onto a low step"
+      ],
+      "answer": 3,
+      "explanation": "Gross motor activities use larger movements and posture. Climbing requires balance and coordinated movement of the trunk and limbs.",
+      "difficulty": "Core",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q032",
+      "lecture": 1,
+      "question": "Which task most directly demonstrates adaptive independence?",
+      "options": [
+        "Managing a familiar handwashing routine",
+        "Increasing in body length",
+        "Showing a newborn reflex",
+        "Developing a permanent molar"
+      ],
+      "answer": 0,
+      "explanation": "Adaptive skills concern daily demands in context. Handwashing combines learned steps with practical self-care.",
+      "difficulty": "Core",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q033",
+      "lecture": 1,
+      "question": "A student assumes every 12-year-old enters the same psychological stage on their birthday. What is the error?",
+      "options": [
+        "Treating broad periods as fixed individual boundaries",
+        "Distinguishing childhood from adulthood",
+        "Considering physical and social change",
+        "Recognizing that age is relevant"
+      ],
+      "answer": 0,
+      "explanation": "Developmental periods are broad teaching categories. Puberty, reasoning and social transitions do not all change at one exact birthday.",
+      "difficulty": "Applied",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q034",
+      "lecture": 1,
+      "question": "In the lecture's lifespan overview, which band is labelled middle adulthood?",
+      "options": [
+        "Birth to 2 years",
+        "About 12–19 years",
+        "About 2–6 years",
+        "About 40–65 years"
+      ],
+      "answer": 3,
+      "explanation": "The supplied overview uses roughly 40–65 years for middle adulthood. Psychological adaptation and learning continue within and beyond this broad teaching period.",
+      "difficulty": "Core",
+      "topicId": "L1T3",
+      "topic": "Domains and developmental periods",
+      "sourceSlides": "8–14,31–36"
+    },
+    {
+      "id": "CD1Q035",
+      "lecture": 1,
+      "question": "What happens during synaptic pruning?",
+      "options": [
+        "Neuron numbers necessarily double each day",
+        "All learning-related connections vanish",
+        "Some connections are selectively reduced",
+        "The brain becomes independent of experience"
+      ],
+      "answer": 2,
+      "explanation": "Pruning is selective reorganization. Connections that are used and those that are less used can follow different developmental paths.",
+      "difficulty": "Core",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q036",
+      "lecture": 1,
+      "question": "Why is repeated, responsive play relevant to brain development?",
+      "options": [
+        "It guarantees a fixed intelligence score",
+        "It provides patterned opportunities to learn",
+        "It replaces nutrition and sleep",
+        "It finishes all brain maturation immediately"
+      ],
+      "answer": 1,
+      "explanation": "Repeated exchanges give the child practice in attention, prediction and interaction. They support learning alongside health, nutrition and maturation.",
+      "difficulty": "Analysis",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q037",
+      "lecture": 1,
+      "question": "Which combination best reflects the lecture's multiple-input view?",
+      "options": [
+        "Academic drilling without basic care",
+        "Stimulation without protection",
+        "Nutrition without interaction",
+        "Nutrition, health, responsive care and safety"
+      ],
+      "answer": 3,
+      "explanation": "The lecture emphasizes coordinated support. A child needs opportunities to learn together with adequate care, health and a safe environment.",
+      "difficulty": "Core",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q038",
+      "lecture": 1,
+      "question": "A well-fed child rarely receives responsive interaction. What is missing from the support plan?",
+      "options": [
+        "Every capacity for future improvement",
+        "All biological maturation",
+        "A guarantee of advanced academic ability",
+        "Opportunities for reciprocal learning"
+      ],
+      "answer": 3,
+      "explanation": "Nutrition supports the developing body, but interaction creates additional learning opportunities. Adequate feeding alone does not provide conversation or shared play.",
+      "difficulty": "Core",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q039",
+      "lecture": 1,
+      "question": "Why is the statement 'the number of synapses stays constant' misleading?",
+      "options": [
+        "Pruning affects only body height",
+        "Experience cannot affect connections",
+        "Connections are formed and reorganized over time",
+        "All connections disappear at school entry"
+      ],
+      "answer": 2,
+      "explanation": "Development includes connection formation and selective reorganization. The balance changes across regions and periods rather than remaining universally constant.",
+      "difficulty": "Analysis",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q040",
+      "lecture": 1,
+      "question": "What is the most appropriate interpretation of a sensitive period?",
+      "options": [
+        "Learning is impossible outside one short interval",
+        "Care after infancy has no value",
+        "Some experiences have especially strong effects at certain times",
+        "Every child has the same exact timetable"
+      ],
+      "answer": 2,
+      "explanation": "A sensitive period highlights timing-related opportunity or vulnerability. It does not justify abandoning support later in development.",
+      "difficulty": "Core",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q041",
+      "lecture": 1,
+      "question": "A child is repeatedly frightened during learning activities. Which lecture principle is most relevant?",
+      "options": [
+        "Health and protection are separate from development",
+        "Fear guarantees stronger learning",
+        "Safety and emotional support contribute to learning conditions",
+        "Only the number of worksheets matters"
+      ],
+      "answer": 2,
+      "explanation": "Children learn within bodily and emotional conditions. Predictable, supportive interaction can help them attend and participate.",
+      "difficulty": "Applied",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q042",
+      "lecture": 1,
+      "question": "Which statement best integrates nature and nurture?",
+      "options": [
+        "Experience replaces all biological processes",
+        "Only one influence can matter at a time",
+        "Experience acts within developing biological systems",
+        "Genes work without any environment"
+      ],
+      "answer": 2,
+      "explanation": "Biological readiness and experience interact. For example, a developing communication system benefits from opportunities to hear or see meaningful language.",
+      "difficulty": "Core",
+      "topicId": "L1T4",
+      "topic": "Brain development and experience",
+      "sourceSlides": "15–20"
+    },
+    {
+      "id": "CD1Q043",
+      "lecture": 1,
+      "question": "Which is a prenatal biological influence discussed in the slides?",
+      "options": [
+        "Exposure to a teratogen",
+        "A teacher's marking style",
+        "Classroom seating after school entry",
+        "Peer voting in adolescence"
+      ],
+      "answer": 0,
+      "explanation": "A teratogen is an exposure capable of disrupting prenatal development. Effects depend on factors such as timing and dose; exposure does not imply one inevitable outcome.",
+      "difficulty": "Core",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q044",
+      "lecture": 1,
+      "question": "What does maturation contribute to skill emergence?",
+      "options": [
+        "Readiness of relevant body systems",
+        "Proof that practice is unnecessary",
+        "Identical performance in every setting",
+        "Complete independence from experience"
+      ],
+      "answer": 0,
+      "explanation": "Maturation supports readiness, while practice and context influence expression. A child's developing postural control helps make new movement skills possible.",
+      "difficulty": "Core",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q045",
+      "lecture": 1,
+      "question": "A serious postnatal illness interrupts opportunities to play. Which account is most complete?",
+      "options": [
+        "Every missed opportunity causes permanent disability",
+        "Only genes can explain progress",
+        "Illness affects size but never participation",
+        "Health and experience may both influence progress"
+      ],
+      "answer": 3,
+      "explanation": "Illness can affect energy and opportunities as well as physical functioning. Development should be interpreted through several interacting influences.",
+      "difficulty": "Core",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q046",
+      "lecture": 1,
+      "question": "Why should a biological influence not be treated as destiny?",
+      "options": [
+        "Outcomes also depend on other influences and support",
+        "Biology has no role in development",
+        "Every exposure produces identical effects",
+        "Support erases all individual differences"
+      ],
+      "answer": 0,
+      "explanation": "A risk factor changes probabilities, not a person's entire future with certainty. Protective relationships and suitable support can also matter.",
+      "difficulty": "Analysis",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q047",
+      "lecture": 1,
+      "question": "Two siblings respond differently to the same noisy gathering. Which concept may help describe this?",
+      "options": [
+        "A difference in dental stage",
+        "Identical temperament",
+        "A universal loss of intelligence",
+        "Individual differences in reactivity"
+      ],
+      "answer": 3,
+      "explanation": "Children differ in how intensely they respond to stimulation. Understanding reactivity can guide practical adjustments without labeling one response as morally better.",
+      "difficulty": "Core",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q048",
+      "lecture": 1,
+      "question": "A caregiver calls a very active toddler 'bad' rather than adapting play opportunities. What is overlooked?",
+      "options": [
+        "The irrelevance of the environment",
+        "Temperament and goodness of fit",
+        "The child's tooth-eruption order",
+        "A guaranteed conduct diagnosis"
+      ],
+      "answer": 1,
+      "explanation": "Activity level is a characteristic that interacts with demands. Safe movement opportunities may fit an active toddler better than prolonged forced stillness.",
+      "difficulty": "Applied",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q049",
+      "lecture": 1,
+      "question": "How can hormonal influences be understood in the lecture?",
+      "options": [
+        "They determine every thought directly",
+        "They eliminate cultural influences",
+        "They help regulate biological and behavioral changes",
+        "They affect growth but no other process"
+      ],
+      "answer": 2,
+      "explanation": "Hormones participate in regulation and maturation. Their influence operates alongside nervous-system development, relationships and context.",
+      "difficulty": "Analysis",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q050",
+      "lecture": 1,
+      "question": "Which question best investigates an environmental hazard?",
+      "options": [
+        "Has the child been exposed to harmful substances?",
+        "Which sibling is tallest?",
+        "Which colour is used for the growth chart?",
+        "What is the child's favourite story?"
+      ],
+      "answer": 0,
+      "explanation": "Exposure history can identify relevant risks. It should be gathered carefully rather than inferring a specific exposure from one behavior.",
+      "difficulty": "Core",
+      "topicId": "L1T5",
+      "topic": "Biology and temperament",
+      "sourceSlides": "14,21–23"
+    },
+    {
+      "id": "CD1Q051",
+      "lecture": 1,
+      "question": "A distressed toddler seeks a familiar caregiver and then returns to play after comfort. What is illustrated?",
+      "options": [
+        "Complete absence of dependence",
+        "A fixed measure of intelligence",
+        "A failure of all self-regulation",
+        "A relationship supporting exploration"
+      ],
+      "answer": 3,
+      "explanation": "Comfort helps restore a sense of safety. A familiar relationship can function as a base from which the child explores again.",
+      "difficulty": "Core",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q052",
+      "lecture": 1,
+      "question": "What distinguishes reciprocity from one-way stimulation?",
+      "options": [
+        "The same message is repeated without adjustment",
+        "Both partners contribute responses",
+        "The child remains unobserved",
+        "Only the adult acts"
+      ],
+      "answer": 1,
+      "explanation": "Reciprocity is a back-and-forth exchange. A baby vocalizes, the adult responds, and the baby has another opportunity to participate.",
+      "difficulty": "Analysis",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q053",
+      "lecture": 1,
+      "question": "Why should an adult pause after commenting on a baby's interest?",
+      "options": [
+        "To allow the baby a turn",
+        "To end joint attention immediately",
+        "To test obedience silently",
+        "To prevent all vocalization"
+      ],
+      "answer": 0,
+      "explanation": "Pausing leaves room for a gaze, gesture or sound. The exchange becomes responsive rather than a continuous adult monologue.",
+      "difficulty": "Applied",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q054",
+      "lecture": 1,
+      "question": "Which response best builds shared attention after a child points at a cat?",
+      "options": [
+        "Continue naming unrelated objects",
+        "Turn the child away from the cat",
+        "Ignore the point until a full sentence appears",
+        "Look at the cat and comment on it"
+      ],
+      "answer": 3,
+      "explanation": "Following the point connects the adult's language with the child's focus. It is an opportunity to share meaning around the same event.",
+      "difficulty": "Applied",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q055",
+      "lecture": 1,
+      "question": "Which observation concerns attachment rather than general sociability?",
+      "options": [
+        "Enjoying a colourful mobile",
+        "Smiling equally at every picture",
+        "Reaching for every nearby object",
+        "Seeking a particular caregiver when distressed"
+      ],
+      "answer": 3,
+      "explanation": "Attachment concerns a relationship with a particular person. General interest or friendliness does not by itself show how that relationship functions under stress.",
+      "difficulty": "Core",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q056",
+      "lecture": 1,
+      "question": "What is the likely limitation of adult speech unrelated to a child's signals?",
+      "options": [
+        "It proves the child cannot attend",
+        "It always prevents any language learning",
+        "It guarantees stronger joint attention",
+        "It may miss opportunities for contingent interaction"
+      ],
+      "answer": 3,
+      "explanation": "Language can be more useful when it connects to the child's interest and response. Unrelated speech may miss those immediate learning opportunities.",
+      "difficulty": "Applied",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q057",
+      "lecture": 1,
+      "question": "A caregiver responds to a gesture before the child can speak. What principle supports this?",
+      "options": [
+        "Nonverbal signals can carry communicative meaning",
+        "Gestures must be ignored to promote speech",
+        "Only written symbols express a request",
+        "Communication starts only with full sentences"
+      ],
+      "answer": 0,
+      "explanation": "Gaze, gesture and vocalization can communicate before fluent speech. Responding acknowledges the child's intention and supports reciprocal interaction.",
+      "difficulty": "Applied",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q058",
+      "lecture": 1,
+      "question": "Why should attachment not be reduced to a single pleasant interaction?",
+      "options": [
+        "It is determined by one smile",
+        "It reflects a pattern across repeated experiences",
+        "It exists only during the newborn period",
+        "It can be measured from height"
+      ],
+      "answer": 1,
+      "explanation": "Attachment is an enduring relationship. Interpretation requires more than one isolated encounter or a brief moment of friendliness.",
+      "difficulty": "Analysis",
+      "topicId": "L1T6",
+      "topic": "Attachment and contingent interaction",
+      "sourceSlides": "24–26"
+    },
+    {
+      "id": "CD1Q059",
+      "lecture": 1,
+      "question": "In an ecological model, a child's immediate classroom is usually part of which system?",
+      "options": [
+        "Mesosystem",
+        "Exosystem",
+        "Macrosystem",
+        "Microsystem"
+      ],
+      "answer": 3,
+      "explanation": "The microsystem concerns settings the child directly participates in. The classroom is one example alongside family and other immediate relationships.",
+      "difficulty": "Applied",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q060",
+      "lecture": 1,
+      "question": "A parent and teacher coordinate support. Which ecological level is most directly illustrated?",
+      "options": [
+        "Chronosystem alone",
+        "Exosystem",
+        "Mesosystem",
+        "Microsystem alone"
+      ],
+      "answer": 2,
+      "explanation": "The mesosystem concerns links between immediate settings. Home–school communication connects two environments in the child's everyday life.",
+      "difficulty": "Applied",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q061",
+      "lecture": 1,
+      "question": "A parent's work schedule changes the time available at home. Which level captures this indirect workplace influence?",
+      "options": [
+        "Sensorimotor stage",
+        "Exosystem",
+        "Mesosystem",
+        "Microsystem of the child at work"
+      ],
+      "answer": 1,
+      "explanation": "The child need not attend the workplace to be affected by it. An exosystem influence can operate indirectly through caregiver circumstances.",
+      "difficulty": "Applied",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q062",
+      "lecture": 1,
+      "question": "Which example best represents the macrosystem?",
+      "options": [
+        "A single parent–teacher conversation",
+        "One child's grip on a pencil",
+        "A baby's momentary hunger cue",
+        "Societal values about education"
+      ],
+      "answer": 3,
+      "explanation": "The macrosystem concerns broad cultural values and institutions. These shape expectations and opportunities within more immediate settings.",
+      "difficulty": "Core",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q063",
+      "lecture": 1,
+      "question": "A child's difficult sleep changes parental routines, which then change the child's sleep opportunities. What is this?",
+      "options": [
+        "A measurement of bone age",
+        "A context-free reflex",
+        "A bidirectional transaction",
+        "A one-way genetic effect"
+      ],
+      "answer": 2,
+      "explanation": "The child and environment affect each other over time. Changing one part of the cycle may alter later interactions.",
+      "difficulty": "Applied",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q064",
+      "lecture": 1,
+      "question": "Why should intervention examine relationships between settings?",
+      "options": [
+        "A child has no role in adjusting",
+        "Inconsistent demands can affect participation",
+        "School and home cannot communicate",
+        "Only one setting can influence a child"
+      ],
+      "answer": 1,
+      "explanation": "Children move between settings with different expectations. Coordination can make support more coherent and realistic.",
+      "difficulty": "Analysis",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q065",
+      "lecture": 1,
+      "question": "Which example illustrates a chronosystem influence?",
+      "options": [
+        "The diameter of one tooth",
+        "The colour of a single worksheet",
+        "A hand grasping a toy",
+        "Family circumstances changing across a major life transition"
+      ],
+      "answer": 3,
+      "explanation": "Time and transitions matter in ecological accounts. A family move can alter relationships and routines across a period of development.",
+      "difficulty": "Core",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q066",
+      "lecture": 1,
+      "question": "What distinguishes ecological and transactional emphasis?",
+      "options": [
+        "Ecology maps contexts; transaction highlights reciprocal processes",
+        "Ecology excludes families; transaction excludes children",
+        "Ecology studies only genes; transaction only height",
+        "Both deny change over time"
+      ],
+      "answer": 0,
+      "explanation": "The frameworks can complement one another. One identifies connected environments; the other asks how child–environment exchanges shape the next interaction.",
+      "difficulty": "Analysis",
+      "topicId": "L1T7",
+      "topic": "Ecological and transactional models",
+      "sourceSlides": "27–30"
+    },
+    {
+      "id": "CD1Q067",
+      "lecture": 1,
+      "question": "Why can several modest risks matter together?",
+      "options": [
+        "Only the largest risk can matter",
+        "They create one inevitable diagnosis",
+        "They necessarily cancel one another",
+        "Their effects may accumulate"
+      ],
+      "answer": 3,
+      "explanation": "Risks can combine within a child's circumstances. For example, illness, poor nutrition and reduced learning opportunities may jointly restrict participation.",
+      "difficulty": "Analysis",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q068",
+      "lecture": 1,
+      "question": "Which factor is protective in a difficult family period?",
+      "options": [
+        "Complete social isolation",
+        "A reliable, responsive caregiver",
+        "Repeated unpredictable punishment",
+        "Absence of safe play opportunities"
+      ],
+      "answer": 1,
+      "explanation": "Protective relationships can buffer adversity and support adaptation. A dependable adult gives comfort and opportunities for learning during stress.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q069",
+      "lecture": 1,
+      "question": "Why is a historical percentage in a slide insufficient as a current prevalence estimate?",
+      "options": [
+        "Percentages never describe populations",
+        "The date, population and definition may differ",
+        "Every country has the same prevalence",
+        "All old findings are automatically false"
+      ],
+      "answer": 1,
+      "explanation": "An estimate applies to the conditions in which it was obtained. Preserve its year and denominator instead of presenting it as a timeless fact.",
+      "difficulty": "Analysis",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q070",
+      "lecture": 1,
+      "question": "Which interpretation of poverty is most appropriate?",
+      "options": [
+        "It proves low ability in each child",
+        "It can restrict resources without determining every outcome",
+        "It makes protective relationships impossible",
+        "It affects income but never development"
+      ],
+      "answer": 1,
+      "explanation": "Resource constraints can limit health, safety and learning opportunities. Individual development still reflects many risks, strengths and supports.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q071",
+      "lecture": 1,
+      "question": "Why is 'exclusive breastfeeding is a developmental risk' an inaccurate blanket statement?",
+      "options": [
+        "Every infant requires the same clinical feeding plan",
+        "Feeding has no developmental relevance",
+        "Exclusive breastfeeding always prevents illness",
+        "It confuses a recommended feeding practice with inadequate care"
+      ],
+      "answer": 3,
+      "explanation": "Exclusive breastfeeding for about six months is recommended guidance. Feeding difficulties or special medical needs require context; the practice itself is not a general developmental hazard.",
+      "difficulty": "Analysis",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q072",
+      "lecture": 1,
+      "question": "A programme provides food but ignores caregiver distress and stimulation. What would improve its developmental approach?",
+      "options": [
+        "Add only a height competition",
+        "Integrate nutrition with responsive care and support",
+        "Replace nutrition entirely with toys",
+        "Assume all domains improve equally from calories alone"
+      ],
+      "answer": 1,
+      "explanation": "Integrated support addresses several developmental needs. Better nutrition and responsive interaction contribute in different but complementary ways.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q073",
+      "lecture": 1,
+      "question": "Why should support continue after the second birthday?",
+      "options": [
+        "The first 1,000 days have no importance",
+        "Development remains open to learning and adaptation",
+        "Later environments cannot influence abilities",
+        "Every early difficulty resolves by age two"
+      ],
+      "answer": 1,
+      "explanation": "Early life is important, but later experiences also shape development. Preschool interaction and school support remain meaningful opportunities.",
+      "difficulty": "Analysis",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q074",
+      "lecture": 1,
+      "question": "What is the best response to a developmental risk factor without a confirmed difficulty?",
+      "options": [
+        "Ignore the factor completely",
+        "Monitor progress and strengthen relevant supports",
+        "Assign a diagnosis from risk alone",
+        "Predict inevitable long-term failure"
+      ],
+      "answer": 1,
+      "explanation": "Risk is not the same as an established outcome. Follow-up and practical support can identify needs without making deterministic predictions.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    },
+    {
+      "id": "CD1Q075",
+      "lecture": 1,
+      "question": "An exam case combines poor nutrition, limited play and a responsive grandparent. What should the student analyse?",
+      "options": [
+        "Only the child's body weight",
+        "Only the family's income label",
+        "Interacting risks and protective resources",
+        "A certain outcome from the first risk listed"
+      ],
+      "answer": 2,
+      "explanation": "A developmental account considers both constraints and strengths. The grandparent's responsive care may provide protection while nutrition and learning opportunities also need attention.",
+      "difficulty": "Core",
+      "topicId": "L1T8",
+      "topic": "Risk, resilience and the first 1,000 days",
+      "sourceSlides": "9–11,16–18,30"
+    }
+  ]
+}

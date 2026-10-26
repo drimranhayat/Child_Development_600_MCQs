@@ -1,0 +1,69 @@
+CD1Q002~Motor coordination alone~Understanding the task alone~Emotional regulation alone
+CD1Q003~Development consists only of gains~Psychological development ends at physical maturity~Historical context has the same influence at every age
+CD1Q004~An adult names a different toy while the baby points~An adult continues a fixed script without observing the baby~An adult asks unrelated questions without allowing a response
+CD1Q005~A temporary mood during one illness~The quality of one particular attachment relationship~The number of learned words used in conversation
+CD1Q006~Caregivers shape children through one-way influence~Children shape caregivers without being influenced in return~Biological and social influences operate without interaction
+CD1Q008~Absence of exposure to adversity~An unchanging biological immunity to stress~High achievement regardless of whether adversity occurred
+CD1Q009~Connection patterns remain fixed after birth~Experience affects behavior without affecting developing connections~Pruning removes every pathway that is used frequently
+CD1Q010~Birth through the first 1,000 postnatal days~Conception through roughly the first birthday~Birth through approximately the third birthday
+CD2Q001~They use the same starting point with different units~They differ only after the first trimester~Gestational age begins at fertilization and the other begins at birth
+CD2Q002~All organs have the same sensitive period~Only dose matters and timing never contributes~Exposure has identical effects throughout pregnancy
+CD2Q005~Grasping an object contacting the palm~Organizing an asymmetric fencing posture~Extending the arms protectively during a postural response
+CD2Q006~Trunk curvature toward stimulation near the spine~Face turning toward feeding-related stimulation~Asymmetric arm positioning following head orientation
+CD2Q007~Both refer to the same toe-extension pattern~One concerns the hand and the other concerns the eye~Both are different names for the Galant response
+CD2Q008~A primitive feeding response that fades in early infancy~An early grasping response inhibited with voluntary hand control~A trunk-curvature response present from the newborn period
+CD2Q010~Delayed contact determines the entire attachment outcome~Only feeding frequency can establish a later close relationship~Later caregiver responsiveness cannot influence closeness
+CD3Q001~Walking up a step~Maintaining standing balance~Jumping with both feet
+CD3Q002~Broadly from lower limbs toward the head~From general responses toward specific responses~From one practiced side toward the other side
+CD3Q003~Cruising means unsupported steps between two adults~Cruising means moving on hands and knees~Cruising means walking up steps with alternating feet
+CD3Q004~Holding a block mainly against the palm~Transferring a toy between two hands~Releasing an object onto a surface
+CD3Q006~A slower rate across every domain to a similar degree~Loss of skills that had already been established~An unusual quality of movement within one task
+CD3Q007~An uneven pattern between developmental domains~Slower acquisition of a skill not previously mastered~Atypical movement quality without demonstrated skill loss
+CD3Q008~Select the writing hand based only on the child's age~Use practice to establish the adult's preferred hand~Interpret switching hands as a diagnosis by itself
+CD3Q009~The use of technology only for a shared learning activity~The total number of devices regardless of interaction~A child's fine motor manipulation of a touch screen
+CD3Q010~Screening establishes the cause of every difficulty~Screening and diagnostic assessment are interchangeable~Screening replaces further assessment whenever a score is obtained
+CD4Q002~As an individual pass–fail growth threshold~As a substitute for age-appropriate growth standards~As a rule that takes priority over serial measurements
+CD4Q004~Chronological age from bone images~Dental maturation from eruption patterns~General maturity across all developmental domains
+CD4Q005~Permanent premolars as the first usual school-age molars~Third permanent molars as the usual six-year teeth~A replacement set of primary molars
+CD4Q006~Chronological age since birth~Dental maturity from visible teeth~The stage of pubic-hair development
+CD4Q008~Height can stand in for direct language assessment~Weight alone measures every developmental domain~Physical maturity establishes social and adaptive independence
+CD4Q009~All myelination is complete by the early school years~Connection patterns become fixed when walking begins~Brain maturation is complete when primary teeth erupt
+CD5Q001~Naming a pictured object aloud~Explaining a request using signs~Writing a short message
+CD5Q002~Understanding a familiar direction~Interpreting a written message silently~Recognizing the meaning of a spoken word
+CD5Q003~Speech is the whole system of linguistic meaning~Speech and language refer only to vocabulary~Language is restricted to spoken sound production
+CD5Q004~The longest sentence produced in the sample~The total number of different words in a sample~The child's chronological age expressed in months
+CD5Q006~A language concern necessarily originates in hearing loss~Sound detection alone rules out every hearing-related concern~Hearing assessment directly measures expressive grammar
+CD5Q007~Looking at an object without involving another person~Repeating a partner's movement without a shared focus~Following an instruction without attending to the same event
+CD5Q008~Combining two meaningful spoken words~Retelling a short event using sentences~Explaining a reason in a conversation
+CD5Q009~As fixed cutoffs independent of language exposure~As sufficient evidence for a diagnosis without other observations~As interchangeable measures of receptive and expressive language
+CD5Q010~Speech clarity alone establishes reading comprehension~Knowing letter shapes establishes full language understanding~Conversational fluency guarantees every form of written expression
+CD6Q001~Managing feelings without any external support~Obeying a rule solely to obtain a reward~Suppressing every outward sign of emotion
+CD6Q002~A characteristic pattern of reactivity across situations~A temporary feeling during one interaction~General friendliness toward any available adult
+CD6Q003~Use identical introductions regardless of the child's responses~Interpret initial caution as a fixed social deficit~Require immediate participation before allowing observation
+CD6Q004~Joint attention to the toy without use of emotional cues~Imitation of the caregiver's exact motor action~Recognition of an object's location without a social partner
+CD6Q005~Focus only on immediate obedience during peak distress~Remove every limit to avoid future frustration~Treat the episode's duration as a diagnosis by itself
+CD6Q006~As a direct measure of the security of one attachment~As an identical response at the same age in every infant~As a stable personality judgment based on one encounter
+CD6Q007~Let the child choose whether any safety limit applies~Make every harmless decision without child participation~Expect the child to manage all frustration independently
+CD6Q008~They establish a universal timetable of moral attainment~They infer reasoning level from the chosen action alone~They classify a person's entire moral worth from one dilemma
+CD6Q009~Directing a child to stop without naming a feeling~Asking only which rule was broken~Naming the desired behavior without discussing the emotion
+CD6Q010~A facial display alone identifies its cause with certainty~The same expression always has one emotional meaning~Context is unnecessary once an expression is recognized
+CD7Q001~Retaining knowledge across long periods~Recognizing a previously encountered event~Knowing the meanings of familiar words
+CD7Q002~Remembering the name of an object~Recognizing only a currently visible object~Tracking movement without representing a hidden object
+CD7Q003~Modifying a scheme to accommodate a mismatch~Mentally reversing an observed transformation~Recognizing a quantity despite changed appearance
+CD7Q004~Using an unchanged scheme to interpret a new event~Repeating a sensory action for its interesting effect~Ignoring new information that conflicts with an existing scheme
+CD7Q005~Inspecting a block's texture without pretending~Stacking a block for its actual physical support~Dropping a block to explore the sound it produces
+CD7Q006~Object permanence~Habituation~Assimilation into an existing animal category
+CD7Q007~Restricting conclusions to what is directly visible~Repeating a familiar solution without testing alternatives~Using only one perceptually salient feature
+CD7Q008~A global judgment of personal worth~Interest in an activity regardless of expected competence~Compliance motivated only by an external reward
+CD7Q009~Each stage begins at an exact universal birthday~Every ability changes synchronously across all settings~A single task provides a context-free stage diagnosis
+CD7Q010~Expertise produces equally superior recall in every domain~Prior knowledge removes all working-memory demands~Familiar material has the same organization as unfamiliar material
+CD8Q001~Knowledge of facts without their everyday use~Physical maturity inferred from stature~Maximum performance in a single unfamiliar test
+CD8Q002~Following a rule only to obtain a personal prize~Outperforming a peer to improve one's own rank~Avoiding a consequence without regard to another person
+CD8Q003~Use one fixed age for day and night continence~Treat one accident as proof of intentional noncompliance~Assume knowing toileting words establishes full practical readiness
+CD8Q004~They replace the continuing need for family relationships~They remove the influence of teachers and community settings~They guarantee wellbeing regardless of relationship quality
+CD8Q005~Expect independent turn-taking before any modelling~Use explanation without an opportunity to practise~Lengthen waiting demands regardless of present ability
+CD8Q006~Use the instrument's name without checking edition or form~Treat one self-care task as the total adaptive score~Apply one household's expectations without considering context
+CD8Q007~Independence requires ending all caregiver relationships~Privacy seeking directly establishes social maladjustment~Peer affiliation becomes the sole developmental influence
+CD8Q008~All culturally unfamiliar tasks should be treated as inability~One family's routines define independence for every child~Knowledge of a task proves equal opportunity to practise it
+CD8Q009~Treat sharing as fully mastered at a fixed preschool birthday~Use a single conflict as a stable personality classification~Assume knowing a rule guarantees perfect regulation
+CD8Q010~Explaining a social rule without joining any activity~Obtaining a body-size measurement in a clinic~Performing an isolated hand task without a social partner

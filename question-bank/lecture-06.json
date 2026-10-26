@@ -1,0 +1,1282 @@
+{
+  "lecture": 6,
+  "title": "Emotional development",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD6Q001",
+      "lecture": 6,
+      "question": "What is co-regulation?",
+      "options": [
+        "Managing feelings without any external support",
+        "An adult helping a child manage arousal and feelings",
+        "Obeying a rule solely to obtain a reward",
+        "Suppressing every outward sign of emotion"
+      ],
+      "answer": 1,
+      "explanation": "Young children rely on another person's calm and support. Naming a feeling and helping a child settle provides a foundation for later self-regulation.",
+      "difficulty": "Core",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q002",
+      "lecture": 6,
+      "question": "What does attachment primarily concern?",
+      "options": [
+        "A characteristic pattern of reactivity across situations",
+        "An enduring emotional relationship",
+        "A temporary feeling during one interaction",
+        "General friendliness toward any available adult"
+      ],
+      "answer": 1,
+      "explanation": "Attachment involves the child's relationship with a caregiver, including seeking comfort and using that relationship to support exploration.",
+      "difficulty": "Core",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q003",
+      "lecture": 6,
+      "question": "Which response is sensitive to temperament?",
+      "options": [
+        "Use identical introductions regardless of the child's responses",
+        "Interpret initial caution as a fixed social deficit",
+        "Introduce a cautious child gradually to a new setting",
+        "Require immediate participation before allowing observation"
+      ],
+      "answer": 2,
+      "explanation": "Temperament describes characteristic responses. Gradual introductions can help a cautious child participate without assigning a negative label.",
+      "difficulty": "Applied",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q004",
+      "lecture": 6,
+      "question": "A toddler looks at a caregiver before approaching an unfamiliar toy. What is this?",
+      "options": [
+        "Social referencing",
+        "Joint attention to the toy without use of emotional cues",
+        "Imitation of the caregiver's exact motor action",
+        "Recognition of an object's location without a social partner"
+      ],
+      "answer": 0,
+      "explanation": "Social referencing uses another person's emotional cues to guide behavior. A calm caregiver response may help the toddler approach.",
+      "difficulty": "Applied",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q005",
+      "lecture": 6,
+      "question": "What is a constructive response to a tantrum?",
+      "options": [
+        "Provide safety, calm support and consistent limits",
+        "Focus only on immediate obedience during peak distress",
+        "Remove every limit to avoid future frustration",
+        "Treat the episode's duration as a diagnosis by itself"
+      ],
+      "answer": 0,
+      "explanation": "A distressed child often needs help settling before reasoning. Afterward, simple language and consistent routines can support learning.",
+      "difficulty": "Core",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q006",
+      "lecture": 6,
+      "question": "How should stranger wariness be interpreted?",
+      "options": [
+        "In relation to age, temperament and context",
+        "As a direct measure of the security of one attachment",
+        "As an identical response at the same age in every infant",
+        "As a stable personality judgment based on one encounter"
+      ],
+      "answer": 0,
+      "explanation": "Wariness varies. A child may need time with an unfamiliar person, especially when tired or in a new setting.",
+      "difficulty": "Core",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q007",
+      "lecture": 6,
+      "question": "Which behavior supports emerging autonomy?",
+      "options": [
+        "Let the child choose whether any safety limit applies",
+        "Make every harmless decision without child participation",
+        "Expect the child to manage all frustration independently",
+        "Offer two acceptable choices"
+      ],
+      "answer": 3,
+      "explanation": "Limited choices let a child practise agency within safe boundaries. Choosing between two shirts supports independence without removing structure.",
+      "difficulty": "Core",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q008",
+      "lecture": 6,
+      "question": "What is a limitation of Kohlberg's stages?",
+      "options": [
+        "They are a theory of moral reasoning rather than a fixed timetable for every person",
+        "They establish a universal timetable of moral attainment",
+        "They infer reasoning level from the chosen action alone",
+        "They classify a person's entire moral worth from one dilemma"
+      ],
+      "answer": 0,
+      "explanation": "The theory organizes types of justification for moral choices. Culture, context and the limits of the model matter when applying it.",
+      "difficulty": "Core",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q009",
+      "lecture": 6,
+      "question": "Which example illustrates emotion labeling?",
+      "options": [
+        "Saying “You feel disappointed because playtime ended”",
+        "Directing a child to stop without naming a feeling",
+        "Asking only which rule was broken",
+        "Naming the desired behavior without discussing the emotion"
+      ],
+      "answer": 0,
+      "explanation": "Naming feelings connects experience with language. A caregiver can validate disappointment while keeping the bedtime limit.",
+      "difficulty": "Applied",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q010",
+      "lecture": 6,
+      "question": "Can one facial expression establish an infant's exact emotion?",
+      "options": [
+        "No, behavior and context must be considered",
+        "A facial display alone identifies its cause with certainty",
+        "The same expression always has one emotional meaning",
+        "Context is unnecessary once an expression is recognized"
+      ],
+      "answer": 0,
+      "explanation": "Expressions are clues rather than perfect readouts. Crying may accompany hunger, fatigue, discomfort or distress.",
+      "difficulty": "Core",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q011",
+      "lecture": 6,
+      "question": "Which set matches the lecture's three components of emotion?",
+      "options": [
+        "Grasp, release and wrist rotation",
+        "Height, weight and head circumference",
+        "Subjective feeling, physiological change and overt behavior",
+        "Vocabulary, spelling and handwriting"
+      ],
+      "answer": 2,
+      "explanation": "Emotion includes felt experience, bodily changes and observable behavior. These are related aspects, not three separate diagnoses.",
+      "difficulty": "Core",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q012",
+      "lecture": 6,
+      "question": "A child feels frightened, has a racing heart and clings to an adult. Which component is clinging?",
+      "options": [
+        "The subjective feeling itself",
+        "Overt behavior",
+        "A linguistic unit",
+        "A body-size measure"
+      ],
+      "answer": 1,
+      "explanation": "Clinging is an observable action. Fear is the subjective experience, while changes such as a racing heart concern physiology.",
+      "difficulty": "Applied",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q013",
+      "lecture": 6,
+      "question": "Which ability most directly reflects emotional understanding?",
+      "options": [
+        "Recognizing why a friend might feel disappointed",
+        "Copying a square accurately",
+        "Measuring a friend's height",
+        "Repeating a word without meaning"
+      ],
+      "answer": 0,
+      "explanation": "Emotional understanding links feelings with situations and perspectives. It involves more than simply recognizing a facial shape or repeating an emotion word.",
+      "difficulty": "Core",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q014",
+      "lecture": 6,
+      "question": "What is empathy concerned with?",
+      "options": [
+        "Copying every action automatically",
+        "Experiencing no personal emotion",
+        "Winning every disagreement",
+        "Understanding and responding to another person's feelings"
+      ],
+      "answer": 3,
+      "explanation": "Empathy involves awareness of another person's experience and an appropriate response. Comforting an upset peer can be one expression of it.",
+      "difficulty": "Core",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q015",
+      "lecture": 6,
+      "question": "Why should emotion and behavior be distinguished?",
+      "options": [
+        "Feelings have no influence on action",
+        "Behavior reveals every private thought",
+        "A feeling can be expressed through different actions",
+        "One feeling always produces one exact action"
+      ],
+      "answer": 2,
+      "explanation": "A disappointed child might cry, ask for help or withdraw. Supporting a better response does not require denying the feeling.",
+      "difficulty": "Analysis",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q016",
+      "lecture": 6,
+      "question": "What additional capacity is especially relevant to self-conscious emotions?",
+      "options": [
+        "Independent stair climbing alone",
+        "Awareness of oneself and social evaluation",
+        "A specific tooth count",
+        "A newborn grasp reflex"
+      ],
+      "answer": 1,
+      "explanation": "Pride, shame and guilt involve how the self or one's actions relate to standards and others' responses. They require more than basic bodily arousal.",
+      "difficulty": "Core",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q017",
+      "lecture": 6,
+      "question": "A child is angry after losing a game. Which response separates feeling from action?",
+      "options": [
+        "Acknowledge anger while preventing hitting",
+        "Punish the existence of anger itself",
+        "Allow any action because anger is real",
+        "Insist that the child must feel happy"
+      ],
+      "answer": 0,
+      "explanation": "Adults can validate a feeling and maintain a behavioral boundary together. The child then has a chance to learn a safer way to express distress.",
+      "difficulty": "Applied",
+      "topicId": "L6T1",
+      "topic": "Emotions and emotional development",
+      "sourceSlides": "3–7"
+    },
+    {
+      "id": "CD6Q018",
+      "lecture": 6,
+      "question": "How does a reflexive smile differ from a social smile?",
+      "options": [
+        "It need not be a response to a social partner",
+        "It proves a fully developed attachment pattern",
+        "It always conveys a deliberate joke",
+        "It requires spoken conversation"
+      ],
+      "answer": 0,
+      "explanation": "A spontaneous early smile need not follow a face or voice. A socially responsive smile occurs within interaction.",
+      "difficulty": "Analysis",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q019",
+      "lecture": 6,
+      "question": "Why can a social smile strengthen caregiver engagement?",
+      "options": [
+        "It proves that strangers are always preferred",
+        "It completes every aspect of emotional regulation",
+        "It eliminates all later crying",
+        "It creates a rewarding reciprocal exchange"
+      ],
+      "answer": 3,
+      "explanation": "A caregiver may feel responded to and continue the exchange. Such repeated mutual participation contributes to the developing relationship.",
+      "difficulty": "Analysis",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q020",
+      "lecture": 6,
+      "question": "What does increasing contextual sensitivity of emotion mean?",
+      "options": [
+        "Only physical size affects emotion",
+        "Responses become more related to the meaning of a situation",
+        "Feelings become unrelated to experience",
+        "Every situation produces an identical expression"
+      ],
+      "answer": 1,
+      "explanation": "As cognition and experience develop, the significance of an event matters increasingly. An unfamiliar situation may produce a different response from a familiar one.",
+      "difficulty": "Core",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q021",
+      "lecture": 6,
+      "question": "A baby distinguishes two facial displays in a study. What remains uncertain without further evidence?",
+      "options": [
+        "Whether the baby understands their emotional significance",
+        "Whether a stimulus was presented",
+        "Whether the displays look different",
+        "Whether visual attention occurred"
+      ],
+      "answer": 0,
+      "explanation": "Discriminating appearances and understanding emotions are different claims. A looking response alone should not be stretched into adult-like emotional knowledge.",
+      "difficulty": "Applied",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q022",
+      "lecture": 6,
+      "question": "Why should exact crying-duration figures not be used alone to judge health?",
+      "options": [
+        "Every baby has the same daily pattern",
+        "Crying varies and must be interpreted with other signs",
+        "Crying has no relation to needs",
+        "Any crying proves an attachment disorder"
+      ],
+      "answer": 1,
+      "explanation": "Duration can be one observation, but feeding, behavior, age and clinical circumstances also matter. A slide average cannot replace assessment of a concern.",
+      "difficulty": "Analysis",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q023",
+      "lecture": 6,
+      "question": "Which statement about the onset of fear is most cautious?",
+      "options": [
+        "Every child develops identical fears simultaneously",
+        "Fear-related responses develop with variation and context",
+        "No infant can show fear before one fixed month",
+        "Fear appears only after fluent language"
+      ],
+      "answer": 1,
+      "explanation": "The slide's exact-month claims are too rigid. Responses to threat, novelty and unfamiliar people should be interpreted in developmental context.",
+      "difficulty": "Core",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q024",
+      "lecture": 6,
+      "question": "What is the main problem with inferring 'anger at a particular person' from newborn crying?",
+      "options": [
+        "A facial display supplies a complete explanation",
+        "Crying is always deliberate punishment",
+        "The inference exceeds what crying alone establishes",
+        "Newborns never experience distress"
+      ],
+      "answer": 2,
+      "explanation": "Newborn distress can be observed without establishing a sophisticated attribution of blame. Behavior should not be assigned adult-like reasoning without evidence.",
+      "difficulty": "Core",
+      "topicId": "L6T2",
+      "topic": "Early emotional expression",
+      "sourceSlides": "8–12,25–26"
+    },
+    {
+      "id": "CD6Q025",
+      "lecture": 6,
+      "question": "Which sequence matches Bowlby's four-phase teaching model?",
+      "options": [
+        "Clear-cut attachment, pre-attachment, reciprocal relationship, attachment-in-the-making",
+        "Reciprocal relationship, clear-cut attachment, pre-attachment, attachment-in-the-making",
+        "Pre-attachment, attachment-in-the-making, clear-cut attachment, reciprocal relationship",
+        "Attachment-in-the-making, reciprocal relationship, clear-cut attachment, pre-attachment"
+      ],
+      "answer": 2,
+      "explanation": "The model moves from early signaling toward selective relationships and later partnership. Phases are approximate descriptions rather than compulsory deadlines.",
+      "difficulty": "Core",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q026",
+      "lecture": 6,
+      "question": "What is characteristic of the pre-attachment phase in the model?",
+      "options": [
+        "Adult-like negotiation about a separation",
+        "A requirement to identify only one possible caregiver",
+        "Signals that bring caregivers into contact",
+        "An abstract account of relationship rights"
+      ],
+      "answer": 2,
+      "explanation": "Early signals such as crying and clinging attract care. The model does not require an already mature selective relationship at that point.",
+      "difficulty": "Core",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q027",
+      "lecture": 6,
+      "question": "What change is central to attachment-in-the-making?",
+      "options": [
+        "Exclusive interest in objects instead of people",
+        "Completion of formal reasoning",
+        "Loss of all response to caregivers",
+        "Increasing preference for familiar people"
+      ],
+      "answer": 3,
+      "explanation": "Familiarity and repeated care become increasingly important. The infant begins to form expectations within these interactions.",
+      "difficulty": "Core",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q028",
+      "lecture": 6,
+      "question": "What is meant by a caregiver acting as a secure base?",
+      "options": [
+        "A reason to prevent all exploration",
+        "A trusted point from which the child can explore",
+        "A score based only on feeding frequency",
+        "A guarantee that the child never leaves the caregiver"
+      ],
+      "answer": 1,
+      "explanation": "Security supports exploration as well as comfort seeking. A toddler may play independently while checking back with a familiar adult.",
+      "difficulty": "Applied",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q029",
+      "lecture": 6,
+      "question": "Which ability helps the later reciprocal phase?",
+      "options": [
+        "The return of newborn head lag",
+        "The disappearance of every emotion",
+        "A fixed adult height",
+        "Growing language and understanding of others' goals"
+      ],
+      "answer": 3,
+      "explanation": "Better communication and perspective-taking can support simple negotiation. For example, a toddler can understand a brief explanation about a caregiver's return.",
+      "difficulty": "Core",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q030",
+      "lecture": 6,
+      "question": "A child asks when a parent will return and agrees on a goodbye routine. Which phase does this most resemble?",
+      "options": [
+        "A purely reflexive feeding pattern",
+        "Absence of all attachment",
+        "Pre-attachment signaling alone",
+        "A more reciprocal relationship"
+      ],
+      "answer": 3,
+      "explanation": "The child is participating more actively in managing separation. This fits the model's emphasis on growing partnership rather than only immediate contact seeking.",
+      "difficulty": "Applied",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q031",
+      "lecture": 6,
+      "question": "Why should the phases not be used as exact diagnostic age cutoffs?",
+      "options": [
+        "Every child follows an identical day-by-day schedule",
+        "They are broad descriptions within a theoretical model",
+        "All phases are directly measured by height",
+        "Later relationships are unaffected by experience"
+      ],
+      "answer": 1,
+      "explanation": "Development and circumstances vary. The framework organizes patterns but cannot establish a diagnosis merely from one age label.",
+      "difficulty": "Analysis",
+      "topicId": "L6T3",
+      "topic": "Attachment phases",
+      "sourceSlides": "13–20"
+    },
+    {
+      "id": "CD6Q032",
+      "lecture": 6,
+      "question": "Which pattern best supports trust in a caregiving relationship?",
+      "options": [
+        "Perfect performance on a vocabulary test",
+        "Repeated sensitive responses to needs",
+        "One gift followed by persistent unresponsiveness",
+        "Unpredictable punishment for every signal"
+      ],
+      "answer": 1,
+      "explanation": "Relationships build through repeated experience. Predictable, responsive care helps a child learn what to expect from a caregiver.",
+      "difficulty": "Core",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q033",
+      "lecture": 6,
+      "question": "Why should early-deprivation studies not be interpreted as proving later support is useless?",
+      "options": [
+        "Evidence of vulnerability does not establish impossibility of later change",
+        "Support always guarantees complete recovery",
+        "Early experience has no importance",
+        "Animal findings automatically predict every human outcome"
+      ],
+      "answer": 0,
+      "explanation": "Early conditions can have lasting influence, but later experiences and support can still matter. Avoid turning vulnerability into an absolute claim about every child.",
+      "difficulty": "Analysis",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q034",
+      "lecture": 6,
+      "question": "A child is friendly with many adults. What would better inform attachment assessment?",
+      "options": [
+        "The number of people greeted once",
+        "A preference for colourful toys",
+        "Only the child's height percentile",
+        "Patterns of comfort seeking and relationship use"
+      ],
+      "answer": 3,
+      "explanation": "General friendliness is not the whole attachment relationship. How the child uses familiar people during stress and exploration provides different information.",
+      "difficulty": "Applied",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q035",
+      "lecture": 6,
+      "question": "Can a child have meaningful attachment relationships with more than one caregiver?",
+      "options": [
+        "Only a biological parent can matter",
+        "Only the first person after delivery can matter",
+        "No, every additional caregiver prevents attachment",
+        "Yes, repeated care can support multiple relationships"
+      ],
+      "answer": 3,
+      "explanation": "Person-specific bonds can develop with more than one trusted caregiver. Their quality depends on repeated interactions and the child's circumstances.",
+      "difficulty": "Applied",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q036",
+      "lecture": 6,
+      "question": "What should be inferred from one difficult separation?",
+      "options": [
+        "The attachment must be insecure",
+        "The child cannot tolerate any later change",
+        "More context is needed to understand the relationship",
+        "The caregiver has caused a permanent disorder"
+      ],
+      "answer": 2,
+      "explanation": "Fatigue, novelty and the situation can affect separation behavior. One episode does not establish a full relationship classification.",
+      "difficulty": "Core",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q037",
+      "lecture": 6,
+      "question": "Why is caregiver wellbeing relevant to responsive care?",
+      "options": [
+        "Wellbeing guarantees every response is ideal",
+        "Stress and health can affect available attention and support",
+        "Only the infant's characteristics influence interaction",
+        "Caregiver distress has no need for care itself"
+      ],
+      "answer": 1,
+      "explanation": "Caregivers also need support. Addressing their needs can improve the practical conditions for repeated sensitive interaction.",
+      "difficulty": "Analysis",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q038",
+      "lecture": 6,
+      "question": "Which approach is best when a child enters a new caregiving arrangement?",
+      "options": [
+        "Avoid comfort so independence develops faster",
+        "Build predictable routines and responsive relationships",
+        "Treat all distress as defiance",
+        "Assume trust must be instant"
+      ],
+      "answer": 1,
+      "explanation": "Trust can grow through consistent experience. Gradual, responsive support respects both the child's history and capacity for later relationship development.",
+      "difficulty": "Applied",
+      "topicId": "L6T4",
+      "topic": "Relationships and responsive care",
+      "sourceSlides": "14–21,33"
+    },
+    {
+      "id": "CD6Q039",
+      "lecture": 6,
+      "question": "What is goodness of fit in temperament?",
+      "options": [
+        "A body-mass calculation",
+        "A ranking of children by obedience",
+        "The match between a child's characteristics and environmental demands",
+        "The absence of individual differences"
+      ],
+      "answer": 2,
+      "explanation": "A good fit adapts expectations and support to the child. It does not require every child to have the same temperament.",
+      "difficulty": "Core",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q040",
+      "lecture": 6,
+      "question": "A highly active toddler struggles during a long quiet wait. Which adjustment improves fit?",
+      "options": [
+        "Interpret activity as a moral defect",
+        "Provide safe movement breaks and realistic expectations",
+        "Remove all opportunities for movement",
+        "Expect unlimited stillness immediately"
+      ],
+      "answer": 1,
+      "explanation": "The child's characteristics interact with the demand. Adjusting the environment can support participation while appropriate limits remain.",
+      "difficulty": "Core",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q041",
+      "lecture": 6,
+      "question": "A child is slow to approach unfamiliar adults. What is a supportive interpretation?",
+      "options": [
+        "A single encounter proves an attachment diagnosis",
+        "The child is necessarily hostile",
+        "The child has no capacity for friendship",
+        "A cautious style may require time to warm up"
+      ],
+      "answer": 3,
+      "explanation": "Cautious approach is an individual response pattern. Familiarity and patient introduction may help without assigning a fixed negative label.",
+      "difficulty": "Applied",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q042",
+      "lecture": 6,
+      "question": "What does reactivity refer to broadly?",
+      "options": [
+        "The number of primary teeth",
+        "The length of a written sentence",
+        "The intensity or pattern of response to stimulation",
+        "A measure of adult height"
+      ],
+      "answer": 2,
+      "explanation": "Reactivity concerns how a person responds to events or stimulation. It can vary alongside developing regulation and experience.",
+      "difficulty": "Core",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q043",
+      "lecture": 6,
+      "question": "Why is 'difficult child' a limited temperament description?",
+      "options": [
+        "It is a complete standardized diagnosis",
+        "It explains every possible behavior",
+        "It replaces observation of context",
+        "It can confuse a poor fit with a defect in the child"
+      ],
+      "answer": 3,
+      "explanation": "The same characteristic may work differently in different settings. Describe specific responses and demands rather than treating the child as the entire problem.",
+      "difficulty": "Analysis",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q044",
+      "lecture": 6,
+      "question": "Which observation helps distinguish a characteristic response from a single mood?",
+      "options": [
+        "One brief reaction when ill",
+        "One adult's first impression",
+        "A single school photograph",
+        "A recurring pattern across relevant situations"
+      ],
+      "answer": 3,
+      "explanation": "Temperament refers to relatively characteristic patterns. Repeated observation provides stronger evidence than an isolated reaction influenced by temporary circumstances.",
+      "difficulty": "Core",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q045",
+      "lecture": 6,
+      "question": "Why should biologically influenced temperament not be called completely unchangeable behavior?",
+      "options": [
+        "Every child eventually becomes identical",
+        "Expression is shaped by maturation, experience and fit",
+        "Biological influences are imaginary",
+        "Context cannot alter participation"
+      ],
+      "answer": 1,
+      "explanation": "Underlying differences can be meaningful without fixing every future response. Support and changing demands influence how characteristics are expressed.",
+      "difficulty": "Analysis",
+      "topicId": "L6T5",
+      "topic": "Temperament and goodness of fit",
+      "sourceSlides": "22–24"
+    },
+    {
+      "id": "CD6Q046",
+      "lecture": 6,
+      "question": "How does separation distress differ from stranger wariness?",
+      "options": [
+        "Both always mean exactly the same event",
+        "Stranger wariness requires written language",
+        "One concerns caregiver departure; the other concerns unfamiliar people",
+        "Separation distress is a dental process"
+      ],
+      "answer": 2,
+      "explanation": "The situations differ even when both involve uncertainty. Clear descriptions avoid merging all fearful behavior into one category.",
+      "difficulty": "Analysis",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q047",
+      "lecture": 6,
+      "question": "Why might growing mobility increase the relevance of caregiver checking?",
+      "options": [
+        "Crawling proves adult-like risk judgment",
+        "Movement removes the need for relationships",
+        "The child can explore farther from a familiar base",
+        "Attachment exists only before any movement"
+      ],
+      "answer": 2,
+      "explanation": "Mobility creates new opportunities for distance and novelty. Checking back can help the child manage exploration and uncertainty.",
+      "difficulty": "Analysis",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q048",
+      "lecture": 6,
+      "question": "A child hesitates at a noisy toy and watches a parent's reaction. Which information is being sought?",
+      "options": [
+        "A written command to repeat",
+        "An exact calculation of bone age",
+        "An emotional cue about the situation",
+        "A measure of the toy's weight"
+      ],
+      "answer": 2,
+      "explanation": "Social referencing uses another person's reaction as information. It is particularly relevant when the meaning or safety of an event is uncertain.",
+      "difficulty": "Applied",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q049",
+      "lecture": 6,
+      "question": "Why is social referencing not equivalent to a full theory of mind?",
+      "options": [
+        "Using an emotional cue is narrower than reasoning about mental states",
+        "Theory of mind means identifying body size",
+        "Social referencing requires no other person",
+        "Both concepts refer only to facial muscles"
+      ],
+      "answer": 0,
+      "explanation": "The abilities are related but not identical. Looking to a caregiver for guidance does not establish every aspect of understanding beliefs or perspectives.",
+      "difficulty": "Analysis",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q050",
+      "lecture": 6,
+      "question": "Which goodbye routine may support a child facing separation?",
+      "options": [
+        "An unexplained disappearance every time",
+        "A predictable, reassuring departure suited to the situation",
+        "Promises that are repeatedly not kept",
+        "Punishment for seeking comfort"
+      ],
+      "answer": 1,
+      "explanation": "Predictability can make the event easier to understand. Support should reflect the child's age and circumstances rather than requiring immediate absence of distress.",
+      "difficulty": "Applied",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q051",
+      "lecture": 6,
+      "question": "What should be considered when stranger wariness appears stronger in one setting?",
+      "options": [
+        "The assumption that every setting is equivalent",
+        "A certain diagnosis from one encounter",
+        "Familiarity, fatigue and interaction context",
+        "Only the child's birth weight"
+      ],
+      "answer": 2,
+      "explanation": "Behavior can vary with the demands and state of the child. A crowded unfamiliar room differs from gradual contact in a familiar place.",
+      "difficulty": "Core",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q052",
+      "lecture": 6,
+      "question": "Which conclusion about separation distress is most responsible?",
+      "options": [
+        "It prevents every form of exploration",
+        "It always proves poor caregiving",
+        "It can occur within otherwise supportive relationships",
+        "It means object recognition is absent"
+      ],
+      "answer": 2,
+      "explanation": "Distress at separation is not automatically pathology. Consider intensity, persistence, context and everyday functioning when a concern is raised.",
+      "difficulty": "Core",
+      "topicId": "L6T6",
+      "topic": "Wariness, separation and social referencing",
+      "sourceSlides": "27–34"
+    },
+    {
+      "id": "CD6Q053",
+      "lecture": 6,
+      "question": "Why can autonomy create conflict in toddlerhood?",
+      "options": [
+        "Independence eliminates all need for help",
+        "Wishes may outpace language and inhibitory control",
+        "Every refusal is a deliberate moral violation",
+        "Toddlers have adult-level self-control"
+      ],
+      "answer": 1,
+      "explanation": "A toddler can want control while still needing co-regulation and communication support. This mismatch can contribute to frustration.",
+      "difficulty": "Analysis",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q054",
+      "lecture": 6,
+      "question": "What does delaying gratification require?",
+      "options": [
+        "Recognizing only a colour difference",
+        "Growing a first permanent tooth",
+        "Waiting for a desired outcome instead of acting immediately",
+        "Repeating a vowel with no delay"
+      ],
+      "answer": 2,
+      "explanation": "Waiting draws on regulation and understanding. A toddler may need short waits, clear routines and adult support while practising it.",
+      "difficulty": "Core",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q055",
+      "lecture": 6,
+      "question": "A toddler says 'no' to dressing. Which response combines autonomy with structure?",
+      "options": [
+        "Treat the word no as proof of disorder",
+        "Offer a choice between two suitable outfits",
+        "Remove every limit for the day",
+        "Ask whether dressing is ever necessary again"
+      ],
+      "answer": 1,
+      "explanation": "Bounded choices allow participation within a necessary routine. Autonomy does not require abandoning the adult's responsibility for safety and care.",
+      "difficulty": "Applied",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q056",
+      "lecture": 6,
+      "question": "Why is complex reasoning often ineffective during peak distress?",
+      "options": [
+        "All language skills disappear permanently",
+        "The child may be less able to attend and process it",
+        "The child can never learn any rule",
+        "Only punishment can change behavior"
+      ],
+      "answer": 1,
+      "explanation": "High arousal can limit immediate processing. Help the child settle, then revisit the problem in simple language.",
+      "difficulty": "Analysis",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q057",
+      "lecture": 6,
+      "question": "What is an example of external behavioral support?",
+      "options": [
+        "An adult calmly guiding the next step",
+        "A child silently checking a self-made plan",
+        "An adolescent evaluating an abstract principle",
+        "A child independently planning an entire routine"
+      ],
+      "answer": 0,
+      "explanation": "External regulation comes from another person or structure. It can support the gradual development of internal control.",
+      "difficulty": "Core",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q058",
+      "lecture": 6,
+      "question": "Why should tantrum frequency or duration not be a standalone diagnosis?",
+      "options": [
+        "Duration can never be observed",
+        "Patterns must be considered with context, harm and functioning",
+        "Every tantrum is a disorder",
+        "Only the child's shoe size matters"
+      ],
+      "answer": 1,
+      "explanation": "Repeated severe difficulties may deserve assessment, but a numerical rule alone is insufficient. Consider development, triggers and the impact on everyday life.",
+      "difficulty": "Analysis",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q059",
+      "lecture": 6,
+      "question": "Which response best supports learning after a child has calmed?",
+      "options": [
+        "Repeat blame without teaching an alternative",
+        "Assume no later discussion can help",
+        "Promise that frustration will never recur",
+        "Practise a simple alternative way to request help"
+      ],
+      "answer": 3,
+      "explanation": "A calm period allows modelling and practice. For example, the adult can teach help please or a gesture for assistance.",
+      "difficulty": "Applied",
+      "topicId": "L6T7",
+      "topic": "Autonomy and tantrums",
+      "sourceSlides": "35–38"
+    },
+    {
+      "id": "CD6Q060",
+      "lecture": 6,
+      "question": "What does internalization of a behavioral rule mean?",
+      "options": [
+        "The adult must repeat every step forever",
+        "The child no longer experiences emotion",
+        "A rule becomes physically stored in a tooth",
+        "The child increasingly uses the rule without immediate adult direction"
+      ],
+      "answer": 3,
+      "explanation": "Internalization concerns growing self-guidance. A child may begin putting materials away because the routine is understood, not only after an immediate instruction.",
+      "difficulty": "Core",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q061",
+      "lecture": 6,
+      "question": "Which response models emotional vocabulary in peer conflict?",
+      "options": [
+        "Good children never feel upset",
+        "Your feelings do not matter here",
+        "You seem upset that your turn ended",
+        "Crying means you are always wrong"
+      ],
+      "answer": 2,
+      "explanation": "Naming a feeling connects language with experience. The adult can then guide a suitable action while maintaining the rule.",
+      "difficulty": "Core",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q062",
+      "lecture": 6,
+      "question": "How can overly rigid limits affect developing initiative?",
+      "options": [
+        "They are identical to predictable boundaries",
+        "They can reduce opportunities for appropriate choice",
+        "They make all emotions disappear",
+        "They always produce independent reasoning"
+      ],
+      "answer": 1,
+      "explanation": "Children need structure and room to participate. Predictable limits differ from controlling every harmless decision.",
+      "difficulty": "Analysis",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q063",
+      "lecture": 6,
+      "question": "Why can very inconsistent boundaries be difficult for a preschooler?",
+      "options": [
+        "The child cannot reliably predict expectations",
+        "They eliminate all uncertainty",
+        "They automatically teach mature self-control",
+        "They make adult guidance unnecessary"
+      ],
+      "answer": 0,
+      "explanation": "Consistency helps a child learn what to expect and practise an alternative behavior. Unpredictable responses can make that learning harder.",
+      "difficulty": "Applied",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q064",
+      "lecture": 6,
+      "question": "Which example shows a developing empathic response?",
+      "options": [
+        "Offering comfort when a peer is upset",
+        "Taking every desired toy immediately",
+        "Repeating an emotion word without attending to anyone",
+        "Ignoring another child solely to win"
+      ],
+      "answer": 0,
+      "explanation": "The action responds to the other person's experience. Empathy develops through interaction, modelling and opportunities to understand feelings.",
+      "difficulty": "Core",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q065",
+      "lecture": 6,
+      "question": "How should an imaginary playmate be interpreted without other concerns?",
+      "options": [
+        "As evidence that language has stopped developing",
+        "As a diagnosis by itself",
+        "As proof of failed attachment",
+        "As potentially ordinary imaginative play"
+      ],
+      "answer": 3,
+      "explanation": "Imaginative activity can be part of preschool play. Its meaning depends on the broader pattern rather than the presence of one pretend companion.",
+      "difficulty": "Analysis",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q066",
+      "lecture": 6,
+      "question": "A teacher helps children name feelings and negotiate turns. Which domains are being supported together?",
+      "options": [
+        "Only physical growth",
+        "Reflex integration alone",
+        "Emotional, social and language development",
+        "Only dental and skeletal maturation"
+      ],
+      "answer": 2,
+      "explanation": "Negotiating uses communication, perspective and regulation. This illustrates how classroom interaction can support several developmental domains at once.",
+      "difficulty": "Applied",
+      "topicId": "L6T8",
+      "topic": "Preschool regulation and empathy",
+      "sourceSlides": "39–43"
+    },
+    {
+      "id": "CD6Q067",
+      "lecture": 6,
+      "question": "A child says, 'I will not take it because I will be punished.' Which Kohlberg orientation is illustrated?",
+      "options": [
+        "Maintaining social order",
+        "Obedience and punishment",
+        "Universal principles",
+        "Social contract and rights"
+      ],
+      "answer": 1,
+      "explanation": "The justification focuses on avoiding punishment, characteristic of stage 1 in the model. Kohlberg analyses the reason, not merely whether the action is approved.",
+      "difficulty": "Applied",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q068",
+      "lecture": 6,
+      "question": "A child says, 'I will help if you help me later.' Which orientation is illustrated?",
+      "options": [
+        "Avoiding all consequences",
+        "Law and social order",
+        "Universal principles",
+        "Individual exchange"
+      ],
+      "answer": 3,
+      "explanation": "The reasoning emphasizes reciprocal personal benefit. In Kohlberg's account this differs from acting from approval, law or abstract principles.",
+      "difficulty": "Applied",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q069",
+      "lecture": 6,
+      "question": "A student says, 'I should help because a good friend would.' Which orientation is most relevant?",
+      "options": [
+        "Instrumental exchange only",
+        "Universal principles",
+        "Punishment avoidance",
+        "Interpersonal approval"
+      ],
+      "answer": 3,
+      "explanation": "The justification focuses on being a good person in a relationship and meeting social expectations. It illustrates conventional interpersonal reasoning in the theory.",
+      "difficulty": "Applied",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q070",
+      "lecture": 6,
+      "question": "A student says, 'Rules should be followed because they maintain an orderly society.' Which orientation fits?",
+      "options": [
+        "Purely reflexive behavior",
+        "Immediate punishment avoidance",
+        "Maintaining social order",
+        "Individual reward exchange"
+      ],
+      "answer": 2,
+      "explanation": "The explanation appeals to the functioning of the social system. That differs from obeying only to avoid a personal consequence.",
+      "difficulty": "Applied",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q071",
+      "lecture": 6,
+      "question": "Which justification best illustrates social-contract reasoning?",
+      "options": [
+        "A rule matters only when a teacher is watching",
+        "Every familiar custom is beyond discussion",
+        "Rules can be revised when they fail to protect people's rights",
+        "A rule is right only because I receive a prize"
+      ],
+      "answer": 2,
+      "explanation": "Social-contract reasoning considers rights and the purpose of shared rules. It can evaluate whether a law serves the people it governs.",
+      "difficulty": "Core",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q072",
+      "lecture": 6,
+      "question": "What is distinctive about reasoning from universal ethical principles in Kohlberg's model?",
+      "options": [
+        "Appeal to consistent principles beyond particular rewards or approval",
+        "Obedience only when punishment is immediate",
+        "Imitation without any stated reason",
+        "Preference for whichever choice brings the largest personal gift"
+      ],
+      "answer": 0,
+      "explanation": "The highest proposed stage concerns principled justification. It is a theoretical category, not a claim that every adult reaches it.",
+      "difficulty": "Core",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q073",
+      "lecture": 6,
+      "question": "Two students choose the same moral action for different reasons. What does Kohlberg's approach examine?",
+      "options": [
+        "Only the number of words they speak",
+        "Their underlying justifications",
+        "Only their physical age",
+        "Only whether their final answers match"
+      ],
+      "answer": 1,
+      "explanation": "Identical actions can reflect different reasoning. Avoiding punishment and protecting rights may lead to the same decision through different arguments.",
+      "difficulty": "Core",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q074",
+      "lecture": 6,
+      "question": "Why might belonging become emotionally important near adolescence?",
+      "options": [
+        "Peer relationships and identity gain prominence",
+        "Biological maturation removes the need for support",
+        "All adolescents adopt identical values",
+        "Caregivers become irrelevant to every adolescent"
+      ],
+      "answer": 0,
+      "explanation": "Peer acceptance can matter strongly during changing roles and identity. The importance of friends can coexist with continuing family relationships.",
+      "difficulty": "Analysis",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    },
+    {
+      "id": "CD6Q075",
+      "lecture": 6,
+      "question": "An adolescent rejects a family opinion but seeks parental advice about an exam. What is the best interpretation?",
+      "options": [
+        "All attachment has necessarily ended",
+        "The behavior proves emotional disorder",
+        "Peer influence has become the only influence",
+        "Independence and connection can coexist"
+      ],
+      "answer": 3,
+      "explanation": "Adolescents may negotiate their own views while still using trusted relationships for support. A developmental account need not treat autonomy as complete separation.",
+      "difficulty": "Applied",
+      "topicId": "L6T9",
+      "topic": "Moral reasoning and adolescence",
+      "sourceSlides": "44–48"
+    }
+  ]
+}

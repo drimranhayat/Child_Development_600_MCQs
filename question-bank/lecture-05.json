@@ -1,0 +1,1282 @@
+{
+  "lecture": 5,
+  "title": "Speech, language & hearing",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD5Q001",
+      "lecture": 5,
+      "question": "Which example is receptive language?",
+      "options": [
+        "Understanding an instruction",
+        "Naming a pictured object aloud",
+        "Explaining a request using signs",
+        "Writing a short message"
+      ],
+      "answer": 0,
+      "explanation": "Receptive language concerns understanding. Following “put the cup on the table” shows comprehension rather than spoken expression.",
+      "difficulty": "Applied",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q002",
+      "lecture": 5,
+      "question": "Which example is expressive language?",
+      "options": [
+        "Using words or signs to communicate an idea",
+        "Understanding a familiar direction",
+        "Interpreting a written message silently",
+        "Recognizing the meaning of a spoken word"
+      ],
+      "answer": 0,
+      "explanation": "Expression conveys meaning through spoken, signed or written forms. A child signing “more” communicates expressively.",
+      "difficulty": "Applied",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q003",
+      "lecture": 5,
+      "question": "How does speech differ from language?",
+      "options": [
+        "Speech is the whole system of linguistic meaning",
+        "Speech and language refer only to vocabulary",
+        "Speech is one means of producing a language message",
+        "Language is restricted to spoken sound production"
+      ],
+      "answer": 2,
+      "explanation": "Speech concerns sound production and related processes; language is a system for meaning. A child can use language through signs without speech.",
+      "difficulty": "Core",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q004",
+      "lecture": 5,
+      "question": "What does mean length of utterance summarize?",
+      "options": [
+        "Average utterance length in specified linguistic units",
+        "The longest sentence produced in the sample",
+        "The total number of different words in a sample",
+        "The child's chronological age expressed in months"
+      ],
+      "answer": 0,
+      "explanation": "MLU averages units such as morphemes or words across utterances. It is not simply another name for age.",
+      "difficulty": "Core",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q005",
+      "lecture": 5,
+      "question": "Which caregiver action supports early communication?",
+      "options": [
+        "Follow the child's interest and take conversational turns",
+        "Avoid gestures until speech is perfect",
+        "Correct every sound immediately",
+        "Speak continuously without pausing"
+      ],
+      "answer": 0,
+      "explanation": "Responsive turns connect words with attention and meaning. Naming a toy, pausing and responding creates a useful learning exchange.",
+      "difficulty": "Applied",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q006",
+      "lecture": 5,
+      "question": "Why does hearing assessment matter when language is delayed?",
+      "options": [
+        "A language concern necessarily originates in hearing loss",
+        "Sound detection alone rules out every hearing-related concern",
+        "Access to sound can affect communication learning",
+        "Hearing assessment directly measures expressive grammar"
+      ],
+      "answer": 2,
+      "explanation": "Hearing differences are one possible influence on communication. Assessment helps distinguish contributing factors without assuming a single cause.",
+      "difficulty": "Core",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q007",
+      "lecture": 5,
+      "question": "What is joint attention?",
+      "options": [
+        "Looking at an object without involving another person",
+        "Sharing attention to an object or event with another person",
+        "Repeating a partner's movement without a shared focus",
+        "Following an instruction without attending to the same event"
+      ],
+      "answer": 1,
+      "explanation": "A child looks between an adult and an interesting toy or follows a point. Shared attention supports opportunities to connect meaning and communication.",
+      "difficulty": "Core",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q008",
+      "lecture": 5,
+      "question": "Which is a prelinguistic communication behavior?",
+      "options": [
+        "Using a gesture to request something",
+        "Combining two meaningful spoken words",
+        "Retelling a short event using sentences",
+        "Explaining a reason in a conversation"
+      ],
+      "answer": 0,
+      "explanation": "Gestures, gaze and early vocalizations communicate before fluent words. Reaching toward a caregiver can express a request.",
+      "difficulty": "Core",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q009",
+      "lecture": 5,
+      "question": "How should vocabulary counts at a specific age be interpreted?",
+      "options": [
+        "As fixed cutoffs independent of language exposure",
+        "As sufficient evidence for a diagnosis without other observations",
+        "As interchangeable measures of receptive and expressive language",
+        "As context-dependent indicators alongside other information"
+      ],
+      "answer": 3,
+      "explanation": "Language exposure, measurement and individual variation matter. A useful assessment considers understanding, gestures, progress and everyday function as well as words.",
+      "difficulty": "Core",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q010",
+      "lecture": 5,
+      "question": "How are language and literacy connected?",
+      "options": [
+        "Speech clarity alone establishes reading comprehension",
+        "Spoken or signed language skills support later reading and writing",
+        "Knowing letter shapes establishes full language understanding",
+        "Conversational fluency guarantees every form of written expression"
+      ],
+      "answer": 1,
+      "explanation": "Vocabulary, narrative and sound or language awareness support literacy. Reading also requires specific instruction and practice.",
+      "difficulty": "Core",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q011",
+      "lecture": 5,
+      "question": "Which example is nonlinguistic communication?",
+      "options": [
+        "Reading a written instruction",
+        "Leaning away and frowning to signal discomfort",
+        "Signing a sentence in a signed language",
+        "Writing a grammatical sentence"
+      ],
+      "answer": 1,
+      "explanation": "Posture and facial expression can communicate without a linguistic structure. Signed languages, unlike simple body signals, are full language systems.",
+      "difficulty": "Core",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q012",
+      "lecture": 5,
+      "question": "Which example is paralinguistic information?",
+      "options": [
+        "The dictionary meaning of a noun",
+        "The number of letters in a name",
+        "The spelling of a written word",
+        "A change in vocal tone conveying irritation"
+      ],
+      "answer": 3,
+      "explanation": "Tone can modify how a message is interpreted. The same words may sound reassuring or impatient depending on their delivery.",
+      "difficulty": "Core",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q013",
+      "lecture": 5,
+      "question": "Why is a signed language not simply a collection of nonlinguistic gestures?",
+      "options": [
+        "It has organized linguistic structures and meanings",
+        "It contains no grammar",
+        "It is only an emotional facial display",
+        "It cannot express abstract ideas"
+      ],
+      "answer": 0,
+      "explanation": "Signed languages are linguistic systems. The visual modality does not make their structured messages less linguistic than speech.",
+      "difficulty": "Analysis",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q014",
+      "lecture": 5,
+      "question": "What is a communicative modality?",
+      "options": [
+        "The age at the first permanent tooth",
+        "The number of words in one textbook",
+        "A channel or form used to convey a message",
+        "A guaranteed level of intelligence"
+      ],
+      "answer": 2,
+      "explanation": "Messages can be communicated through speech, signs, writing and other channels. Modality concerns the form used, not the total developmental ability.",
+      "difficulty": "Core",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q015",
+      "lecture": 5,
+      "question": "A child says 'fine' while sounding upset. What explains the listener's interpretation?",
+      "options": [
+        "All messages require writing",
+        "Words and paralinguistic cues are considered together",
+        "The word's meaning alone proves contentment",
+        "Tone cannot contribute to meaning"
+      ],
+      "answer": 1,
+      "explanation": "Listeners use tone and context alongside words. A mismatch between verbal content and emotional delivery may prompt clarification.",
+      "difficulty": "Applied",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q016",
+      "lecture": 5,
+      "question": "Which description best captures communication as an exchange?",
+      "options": [
+        "A message is produced and interpreted within interaction",
+        "A message must always be a complete sentence",
+        "Only one person's vocabulary size matters",
+        "Only sound production matters"
+      ],
+      "answer": 0,
+      "explanation": "Communication includes expressing and understanding information. A meaningful request can be conveyed by a word, gesture or other accessible signal.",
+      "difficulty": "Core",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q017",
+      "lecture": 5,
+      "question": "Which situation demonstrates a communicative function beyond requesting?",
+      "options": [
+        "Reaching only to obtain a drink",
+        "Pushing a cup forward only for a refill",
+        "Pointing to share interest in a passing train",
+        "Pulling an adult's hand only to open a box"
+      ],
+      "answer": 2,
+      "explanation": "Communication can share attention and experience, not just obtain things. Pointing at a train can invite another person to notice it together.",
+      "difficulty": "Core",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q018",
+      "lecture": 5,
+      "question": "Why is context important when interpreting a gesture?",
+      "options": [
+        "Every gesture has one universal meaning",
+        "Gesture meaning depends only on hand strength",
+        "Context changes body size immediately",
+        "The same movement can serve different purposes"
+      ],
+      "answer": 3,
+      "explanation": "A raised hand could request a turn, greet someone or signal stopping. The interaction helps determine the intended message.",
+      "difficulty": "Analysis",
+      "topicId": "L5T1",
+      "topic": "Communication has several channels",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD5Q019",
+      "lecture": 5,
+      "question": "Which component is primarily concerned with producing speech sounds?",
+      "options": [
+        "Narrative organization",
+        "Articulation",
+        "Lexical meaning",
+        "Reading comprehension"
+      ],
+      "answer": 1,
+      "explanation": "Articulation involves movements used to form speech sounds. Clear articulation and understanding language are related but distinct areas.",
+      "difficulty": "Core",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q020",
+      "lecture": 5,
+      "question": "What does phonation involve?",
+      "options": [
+        "Generating voice through vocal-fold activity",
+        "Interpreting a written paragraph",
+        "Organizing a story plot",
+        "Choosing a conversational topic"
+      ],
+      "answer": 0,
+      "explanation": "Phonation concerns voice production. Speech also requires coordinated articulation and other processes beyond generating voice.",
+      "difficulty": "Core",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q021",
+      "lecture": 5,
+      "question": "A child follows 'bring your shoes' but does not yet say those words. What does this show?",
+      "options": [
+        "Understanding requires identical spoken output",
+        "Comprehension can exceed spoken expression",
+        "Only articulation has been observed",
+        "The child has no language ability"
+      ],
+      "answer": 1,
+      "explanation": "Receptive and expressive skills can differ. Understanding an instruction may appear before the child produces an equivalent phrase.",
+      "difficulty": "Applied",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q022",
+      "lecture": 5,
+      "question": "Which pair correctly matches a written-language process?",
+      "options": [
+        "Reading with comprehension; writing with expression",
+        "Reading with motor balance; writing with sound localization",
+        "Reading with phonation; writing with rooting",
+        "Reading with articulation; writing with hearing detection"
+      ],
+      "answer": 0,
+      "explanation": "Reading involves interpreting written language, while writing produces it. The slide's repeated phrase about understanding should not define written production.",
+      "difficulty": "Core",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q023",
+      "lecture": 5,
+      "question": "A child knows what to say but a speech movement is unclear. Which distinction is relevant?",
+      "options": [
+        "Message formulation versus speech production",
+        "Moral reasoning versus attachment",
+        "Weight versus height",
+        "Tooth eruption versus bone age"
+      ],
+      "answer": 0,
+      "explanation": "Language formulation and spoken execution are distinguishable. Difficulty with speech clarity does not by itself show absent understanding of the message.",
+      "difficulty": "Applied",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q024",
+      "lecture": 5,
+      "question": "What does vocabulary refer to in language assessment?",
+      "options": [
+        "Words or lexical items understood or used",
+        "The speed of walking",
+        "The loudness of every utterance",
+        "The exact length of a vocal fold"
+      ],
+      "answer": 0,
+      "explanation": "Vocabulary may be considered receptively or expressively. Knowing a word's meaning and using it appropriately provide different evidence.",
+      "difficulty": "Core",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q025",
+      "lecture": 5,
+      "question": "Which observation mainly concerns grammar?",
+      "options": [
+        "Maintaining sitting balance",
+        "Turning toward a bell",
+        "Combining words with tense and agreement patterns",
+        "Detecting a faint tone"
+      ],
+      "answer": 2,
+      "explanation": "Grammar concerns how language is organized. Tense, pronouns and combinations can show developing structures beyond a list of isolated words.",
+      "difficulty": "Core",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q026",
+      "lecture": 5,
+      "question": "Why should language production include more than speech sounds?",
+      "options": [
+        "It also involves expressing organized meanings",
+        "Expression excludes signs and writing",
+        "Only pronunciation carries a message",
+        "Speech sounds alone establish comprehension"
+      ],
+      "answer": 0,
+      "explanation": "Producing language requires meaningful organization, not merely making sounds. A signed or written message can also demonstrate expression.",
+      "difficulty": "Analysis",
+      "topicId": "L5T2",
+      "topic": "Speech, comprehension and expression",
+      "sourceSlides": "9–11,19–21"
+    },
+    {
+      "id": "CD5Q027",
+      "lecture": 5,
+      "question": "How does auditory detection differ from sound localization?",
+      "options": [
+        "Detection notices sound; localization identifies where it comes from",
+        "Both mean producing a speech sound",
+        "Localization is possible only through reading",
+        "Detection interprets stories; localization measures vocabulary"
+      ],
+      "answer": 0,
+      "explanation": "The abilities answer different questions: whether a sound occurred and where it originated. A child may detect a sound without locating it accurately.",
+      "difficulty": "Analysis",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q028",
+      "lecture": 5,
+      "question": "What does auditory discrimination concern?",
+      "options": [
+        "Reading all printed words",
+        "Maintaining visual balance",
+        "Producing every consonant perfectly",
+        "Distinguishing differences between sounds"
+      ],
+      "answer": 3,
+      "explanation": "Discrimination involves noticing differences, such as two speech sounds. Detection alone does not establish that the sounds can be distinguished.",
+      "difficulty": "Core",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q029",
+      "lecture": 5,
+      "question": "Why is listening more than hearing a sound?",
+      "options": [
+        "It draws on attention, memory and interpretation",
+        "It is identical to ear size",
+        "It always requires spoken repetition",
+        "It excludes cognition"
+      ],
+      "answer": 0,
+      "explanation": "Listening involves selecting and interpreting acoustic information. A child may hear words but struggle to retain a long instruction.",
+      "difficulty": "Analysis",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q030",
+      "lecture": 5,
+      "question": "A child responds to a bell but cannot find its source. Which ability is demonstrated most clearly?",
+      "options": [
+        "Accurate localization",
+        "Sound detection",
+        "Narrative recall",
+        "Sentence comprehension"
+      ],
+      "answer": 1,
+      "explanation": "The response shows that the sound was noticed. Locating the source is a separate demand and has not yet been demonstrated.",
+      "difficulty": "Applied",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q031",
+      "lecture": 5,
+      "question": "What is an auditory feedback loop in early sound play?",
+      "options": [
+        "Learning a hand movement without sensory input",
+        "Seeing another child's written work",
+        "Hearing one's own vocal output and adjusting it",
+        "A measurement of head circumference"
+      ],
+      "answer": 2,
+      "explanation": "Infants can hear their own sounds while experimenting. This feedback is one contributor to developing vocal control and learning.",
+      "difficulty": "Core",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q032",
+      "lecture": 5,
+      "question": "Why can background noise make a spoken classroom task harder?",
+      "options": [
+        "It increases demands on selecting the relevant signal",
+        "It guarantees a permanent hearing disorder",
+        "It makes vocabulary knowledge irrelevant",
+        "It changes the child's chronological age"
+      ],
+      "answer": 0,
+      "explanation": "Listening in noise can demand more attention and processing. Improving the environment may support access without establishing any particular diagnosis.",
+      "difficulty": "Analysis",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q033",
+      "lecture": 5,
+      "question": "Which statement about infant auditory ability is most appropriate?",
+      "options": [
+        "Early responsiveness coexists with continuing maturation",
+        "Newborn hearing is identical to adult processing in every respect",
+        "Auditory experience has no later relevance",
+        "No sound is processed before school entry"
+      ],
+      "answer": 0,
+      "explanation": "Responding to sound early does not equal fully mature processing. The lecture describes continuing development in perception and higher pathways.",
+      "difficulty": "Core",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q034",
+      "lecture": 5,
+      "question": "Why can listener expectations influence auditory interpretation?",
+      "options": [
+        "A listener never uses context",
+        "Expectations replace all acoustic evidence",
+        "Prior knowledge helps make sense of incoming sound",
+        "Only sound intensity contributes to comprehension"
+      ],
+      "answer": 2,
+      "explanation": "Listening integrates signal and knowledge. In a familiar routine, context can help interpret a partly unclear spoken message.",
+      "difficulty": "Analysis",
+      "topicId": "L5T3",
+      "topic": "Hearing and listening",
+      "sourceSlides": "12–18"
+    },
+    {
+      "id": "CD5Q035",
+      "lecture": 5,
+      "question": "What is cooing most closely associated with?",
+      "options": [
+        "A mature explanation of a story",
+        "A stable adult consonant inventory",
+        "Fully organized written sentences",
+        "Early vowel-like vocal play"
+      ],
+      "answer": 3,
+      "explanation": "Cooing is early vocal activity often described as vowel-like. It is an important developmental behavior without being equivalent to meaningful words.",
+      "difficulty": "Core",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q036",
+      "lecture": 5,
+      "question": "Which sequence is an example of repeated consonant–vowel babbling?",
+      "options": [
+        "A written paragraph",
+        "A silent point",
+        "A single breath without voicing",
+        "Ba-ba-ba"
+      ],
+      "answer": 3,
+      "explanation": "Repeated syllable patterns combine consonant-like and vowel-like elements. Babbling is distinguished from the consistent use of a word with meaning.",
+      "difficulty": "Core",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q037",
+      "lecture": 5,
+      "question": "A baby produces 'mama' during sound play without directing it to anyone. What should be established before calling it a word?",
+      "options": [
+        "The ability to spell the sequence",
+        "Consistent communicative meaning in context",
+        "The presence of every adult consonant",
+        "Perfect adult pronunciation"
+      ],
+      "answer": 1,
+      "explanation": "A recognizable sound sequence is not automatically a meaningful word. How it is used matters more than similarity to an adult form alone.",
+      "difficulty": "Applied",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q038",
+      "lecture": 5,
+      "question": "What are suprasegmental aspects of early vocalization?",
+      "options": [
+        "The size of printed letters",
+        "Only the child's finger movements",
+        "Only the number of teeth",
+        "Patterns of pitch, rhythm and stress"
+      ],
+      "answer": 3,
+      "explanation": "Suprasegmentals extend across individual sounds. Early vocal play may vary in pitch and intonation before clear words emerge.",
+      "difficulty": "Core",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q039",
+      "lecture": 5,
+      "question": "What is a protoconversational exchange?",
+      "options": [
+        "A fully grammatical adult debate",
+        "A silent standardized hearing score",
+        "A test of permanent tooth growth",
+        "An early back-and-forth using gaze, sound or gesture"
+      ],
+      "answer": 3,
+      "explanation": "Early exchanges resemble conversational turn-taking without requiring words. A caregiver can answer a coo and pause for another response.",
+      "difficulty": "Core",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q040",
+      "lecture": 5,
+      "question": "A child waves when a familiar person says goodbye. What is demonstrated?",
+      "options": [
+        "A measure of vocal-fold vibration",
+        "A complete reading system",
+        "Proof of fluent sentence production",
+        "A learned social gesture linked with a routine"
+      ],
+      "answer": 3,
+      "explanation": "Gestural participation can show understanding of a familiar routine. It remains meaningful communication even before fluent speech.",
+      "difficulty": "Applied",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q041",
+      "lecture": 5,
+      "question": "Why is pointing a useful behavior to describe precisely?",
+      "options": [
+        "It may request an object or share attention",
+        "It cannot involve another person's attention",
+        "It always means the same intention",
+        "It is purely a grasp reflex"
+      ],
+      "answer": 0,
+      "explanation": "Pointing can serve different functions. Observing whether the child seeks an object or shares interest helps interpret the exchange.",
+      "difficulty": "Analysis",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q042",
+      "lecture": 5,
+      "question": "What distinguishes imitation from spontaneous initiation?",
+      "options": [
+        "Both terms mean following written instructions",
+        "Imitation follows a model; initiation begins the exchange",
+        "Initiation requires adult grammar",
+        "Imitation always involves speech"
+      ],
+      "answer": 1,
+      "explanation": "A child copying a sound and a child beginning an exchange demonstrate different interaction conditions. Both can contribute to learning.",
+      "difficulty": "Analysis",
+      "topicId": "L5T4",
+      "topic": "Prelinguistic foundations",
+      "sourceSlides": "6–8,22–29"
+    },
+    {
+      "id": "CD5Q043",
+      "lecture": 5,
+      "question": "A toddler says 'juice' to request a drink. What makes it meaningful communication?",
+      "options": [
+        "It appears in a printed book",
+        "The word is used intentionally in a relevant situation",
+        "It contains two syllables",
+        "It is pronounced without any error"
+      ],
+      "answer": 1,
+      "explanation": "Meaningful use depends on intention and context. A first word need not have adult-perfect pronunciation to communicate successfully.",
+      "difficulty": "Applied",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q044",
+      "lecture": 5,
+      "question": "Which expression most clearly combines two meanings?",
+      "options": [
+        "More water",
+        "A startled cry",
+        "A single unchanging hum",
+        "Water repeated during unrelated babbling"
+      ],
+      "answer": 0,
+      "explanation": "More water combines a request for additional quantity with the object requested. Early combinations extend beyond naming one thing alone.",
+      "difficulty": "Core",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q045",
+      "lecture": 5,
+      "question": "What does following a one-step instruction mainly demonstrate?",
+      "options": [
+        "Adult-level auditory memory",
+        "Independent reading comprehension",
+        "Understanding a simple directed message",
+        "Perfect speech clarity"
+      ],
+      "answer": 2,
+      "explanation": "The task shows comprehension within its context. Gestures, familiarity and attention can also influence whether the instruction is followed.",
+      "difficulty": "Core",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q046",
+      "lecture": 5,
+      "question": "Why are two related instructions more demanding than one?",
+      "options": [
+        "They test only voice production",
+        "They require no comprehension",
+        "They remove every memory demand",
+        "The child must retain and sequence additional information"
+      ],
+      "answer": 3,
+      "explanation": "Remembering more than one action increases processing and memory requirements. Familiarity and how the instruction is presented also matter.",
+      "difficulty": "Analysis",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q047",
+      "lecture": 5,
+      "question": "Which example is a question conveyed partly through intonation?",
+      "options": [
+        "A rising 'More?' while offering an empty cup",
+        "A written full stop",
+        "A random toe movement",
+        "A silent reflexive hand grasp"
+      ],
+      "answer": 0,
+      "explanation": "Pitch pattern can help convey a question before complex grammar is available. The interaction and gesture help clarify the intended request.",
+      "difficulty": "Core",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q048",
+      "lecture": 5,
+      "question": "A child labels a cow as 'moo'. How should this be examined?",
+      "options": [
+        "Reject it solely because it is not the adult noun",
+        "Consider its consistent meaningful use in the child's system",
+        "Assume it is only a hearing test response",
+        "Treat it as proof of a language disorder"
+      ],
+      "answer": 1,
+      "explanation": "Early forms can be meaningful despite differing from adult vocabulary. Consistency, intention and development over time guide interpretation.",
+      "difficulty": "Applied",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q049",
+      "lecture": 5,
+      "question": "Why is a single vocabulary count insufficient for a bilingual toddler's full profile?",
+      "options": [
+        "Every language has identical naming opportunities",
+        "Bilingualism eliminates the need for comprehension assessment",
+        "Only one language can contain meaningful words",
+        "Knowledge and use may be distributed across languages"
+      ],
+      "answer": 3,
+      "explanation": "Assessment should consider the child's languages and exposure. One count in only one setting can miss relevant knowledge and communication.",
+      "difficulty": "Analysis",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q050",
+      "lecture": 5,
+      "question": "What change is illustrated when a toddler uses words to ask for help instead of only pulling an adult?",
+      "options": [
+        "Completion of every language skill",
+        "A loss of all nonverbal communication",
+        "An exclusively auditory reflex",
+        "An expansion of expressive strategies"
+      ],
+      "answer": 3,
+      "explanation": "The child has added a linguistic way to communicate a need. Gestures may still remain useful alongside words.",
+      "difficulty": "Applied",
+      "topicId": "L5T5",
+      "topic": "First words and toddler communication",
+      "sourceSlides": "30–35"
+    },
+    {
+      "id": "CD5Q051",
+      "lecture": 5,
+      "question": "What does increasing use of pronouns show most directly?",
+      "options": [
+        "A complete measure of hearing sensitivity",
+        "A change in body proportions",
+        "Developing grammatical and referential language",
+        "The onset of permanent dentition"
+      ],
+      "answer": 2,
+      "explanation": "Pronouns help refer to people and things within interaction. Their use develops alongside other grammatical and conversational abilities.",
+      "difficulty": "Core",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q052",
+      "lecture": 5,
+      "question": "Which utterance most clearly marks past time?",
+      "options": [
+        "Can we play?",
+        "We played yesterday",
+        "We play now",
+        "Please play here"
+      ],
+      "answer": 1,
+      "explanation": "Played and yesterday locate the event in the past. Learning tense contributes to talking about events beyond the immediate moment.",
+      "difficulty": "Core",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q053",
+      "lecture": 5,
+      "question": "Four utterances contain 2, 3, 3 and 4 words. What is their mean length in words?",
+      "options": [
+        "3 words",
+        "12 words",
+        "4 words",
+        "2 words"
+      ],
+      "answer": 0,
+      "explanation": "Add the words: 2 + 3 + 3 + 4 = 12. Divide by four utterances to obtain a mean of three words; this is not the child's age.",
+      "difficulty": "Core",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q054",
+      "lecture": 5,
+      "question": "Why must an MLU report specify words or morphemes?",
+      "options": [
+        "The counting unit changes the calculation",
+        "MLU measures only loudness",
+        "Morphemes are units of body length",
+        "The units are always identical"
+      ],
+      "answer": 0,
+      "explanation": "An inflected word can contain more than one morpheme. Word-based and morpheme-based averages therefore need clearly stated units and methods.",
+      "difficulty": "Analysis",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q055",
+      "lecture": 5,
+      "question": "What is intelligibility?",
+      "options": [
+        "The strength of the jaw alone",
+        "The child's total receptive vocabulary",
+        "How understandable speech is to a listener",
+        "The number of written pages read"
+      ],
+      "answer": 2,
+      "explanation": "Intelligibility concerns listener understanding of spoken output. Familiarity, context, language and the speech sample can influence judgments.",
+      "difficulty": "Core",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q056",
+      "lecture": 5,
+      "question": "Why may a parent understand a child more easily than an unfamiliar listener?",
+      "options": [
+        "The child must be using two unrelated languages",
+        "The parent knows the child's patterns and context",
+        "Familiarity proves a hearing disorder",
+        "Unfamiliar listeners cannot assess speech at all"
+      ],
+      "answer": 1,
+      "explanation": "Familiar listeners can use routines and known speech patterns. This is why the identity of the listener matters when reporting intelligibility.",
+      "difficulty": "Applied",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q057",
+      "lecture": 5,
+      "question": "Which task assesses narrative organization more directly than isolated vocabulary?",
+      "options": [
+        "Retelling an event in a coherent sequence",
+        "Naming one familiar object",
+        "Reacting to a loud bell",
+        "Repeating one vowel"
+      ],
+      "answer": 0,
+      "explanation": "A narrative links events and relationships into a message. It requires organization beyond knowing individual words.",
+      "difficulty": "Core",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q058",
+      "lecture": 5,
+      "question": "A preschooler takes an idiom literally. What is most appropriate?",
+      "options": [
+        "Infer an intellectual diagnosis from one response",
+        "Explain the intended meaning using a suitable example",
+        "Stop all storytelling",
+        "Assume literal meanings are never useful"
+      ],
+      "answer": 1,
+      "explanation": "Figurative language adds demands beyond literal vocabulary. A clear example can make the intended meaning accessible without overinterpreting one response.",
+      "difficulty": "Applied",
+      "topicId": "L5T6",
+      "topic": "Preschool language",
+      "sourceSlides": "36–40"
+    },
+    {
+      "id": "CD5Q059",
+      "lecture": 5,
+      "question": "What is a synonym?",
+      "options": [
+        "A word with a similar meaning",
+        "A word with an opposite meaning",
+        "A sentence with no verb",
+        "A sound without any meaning"
+      ],
+      "answer": 0,
+      "explanation": "Synonyms have similar meanings, such as big and large in many contexts. The exact fit still depends on how the word is used.",
+      "difficulty": "Core",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q060",
+      "lecture": 5,
+      "question": "What is an antonym?",
+      "options": [
+        "A word with an opposite meaning",
+        "A repeated syllable",
+        "A familiar caregiver's name",
+        "A word with the same spelling only"
+      ],
+      "answer": 0,
+      "explanation": "Antonyms contrast meanings, such as hot and cold. The lecture includes these relationships in later language refinement.",
+      "difficulty": "Core",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q061",
+      "lecture": 5,
+      "question": "Why can a child manage everyday conversation yet struggle with a textbook explanation?",
+      "options": [
+        "Conversation proves mastery of every genre",
+        "Textbook learning requires no language",
+        "Academic tasks place different language demands",
+        "The child must lack all comprehension"
+      ],
+      "answer": 2,
+      "explanation": "Academic language may use unfamiliar vocabulary, dense sentences and explanation structures. Conversational competence does not guarantee ease with every school task.",
+      "difficulty": "Applied",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q062",
+      "lecture": 5,
+      "question": "Which sentence shows a causal link in a narrative?",
+      "options": [
+        "The match stopped because it rained",
+        "The match was outside",
+        "The players wore blue",
+        "There was a ball"
+      ],
+      "answer": 0,
+      "explanation": "Because links an event with its reason. Coherent narratives increasingly explain connections rather than only list observations.",
+      "difficulty": "Core",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q063",
+      "lecture": 5,
+      "question": "What makes a story cohesive for a listener?",
+      "options": [
+        "Only perfect pronunciation of one sound",
+        "The greatest possible number of unrelated words",
+        "Constantly changing names without explanation",
+        "Clear links and references between its parts"
+      ],
+      "answer": 3,
+      "explanation": "Cohesion helps listeners follow who or what is being discussed and how events connect. Pronouns and connecting words can contribute when used clearly.",
+      "difficulty": "Core",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q064",
+      "lecture": 5,
+      "question": "How can oral-language difficulty affect literacy?",
+      "options": [
+        "It affects only handwriting pressure",
+        "It guarantees every reading outcome",
+        "It can create challenges with meaning, narratives and written expression",
+        "It makes instruction irrelevant"
+      ],
+      "answer": 2,
+      "explanation": "Language supports understanding and organizing written messages. Literacy outcomes also depend on instruction, experience and other relevant abilities.",
+      "difficulty": "Analysis",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q065",
+      "lecture": 5,
+      "question": "What distinguishes decoding print from understanding a text?",
+      "options": [
+        "Decoding proves full understanding of every sentence",
+        "Both are always identical in every reader",
+        "Reading word forms is not the same as grasping the message",
+        "Comprehension concerns only pencil movement"
+      ],
+      "answer": 2,
+      "explanation": "A learner may read words aloud without fully understanding the passage. Meaning requires vocabulary, language processing and relevant knowledge as well.",
+      "difficulty": "Analysis",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q066",
+      "lecture": 5,
+      "question": "Why does later understanding of idioms require more than word-by-word interpretation?",
+      "options": [
+        "Every idiom is a literal physical instruction",
+        "Only speech loudness changes the meaning",
+        "Idioms have no communicative function",
+        "The phrase can carry a conventional figurative meaning"
+      ],
+      "answer": 3,
+      "explanation": "An expression such as break the ice usually refers to easing social tension. Understanding its intended sense goes beyond interpreting each word literally.",
+      "difficulty": "Analysis",
+      "topicId": "L5T7",
+      "topic": "School language and literacy",
+      "sourceSlides": "43–47"
+    },
+    {
+      "id": "CD5Q067",
+      "lecture": 5,
+      "question": "Which adult response is an expansion of 'dog run'?",
+      "options": [
+        "Yes, the dog is running",
+        "Ignore the message entirely",
+        "Say the alphabet instead",
+        "No, never speak until it is perfect"
+      ],
+      "answer": 0,
+      "explanation": "An expansion preserves the child's meaning while offering a richer form. It models language without turning every attempt into a correction test.",
+      "difficulty": "Core",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q068",
+      "lecture": 5,
+      "question": "What is a benefit of shared picture-book reading?",
+      "options": [
+        "It creates meaningful opportunities for talk about shared material",
+        "It replaces all real-life conversation",
+        "It guarantees every child reads independently at once",
+        "It is useful only when the child stays silent"
+      ],
+      "answer": 0,
+      "explanation": "Pictures provide a shared focus for naming, commenting and storytelling. The quality of interaction matters alongside exposure to print.",
+      "difficulty": "Core",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q069",
+      "lecture": 5,
+      "question": "Why should an adult allow time after asking a question?",
+      "options": [
+        "The adult should answer every question immediately",
+        "Silence always proves lack of understanding",
+        "Faster adult talk guarantees better learning",
+        "The child needs space to process and respond"
+      ],
+      "answer": 3,
+      "explanation": "A pause gives the child a turn. Constantly filling the gap can prevent the learner from showing what they can communicate.",
+      "difficulty": "Analysis",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q070",
+      "lecture": 5,
+      "question": "Which routine offers a natural chance for language learning?",
+      "options": [
+        "Testing isolated words without meaningful interaction only",
+        "Talking together while preparing a familiar snack",
+        "Keeping every daily task silent",
+        "Playing unrelated speech continuously in the background"
+      ],
+      "answer": 1,
+      "explanation": "Daily routines connect words with actions and needs. The adult can name, respond and expand around an experience both participants understand.",
+      "difficulty": "Core",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q071",
+      "lecture": 5,
+      "question": "How can language help emotional regulation?",
+      "options": [
+        "It provides ways to describe feelings and plan actions",
+        "It eliminates every feeling of frustration",
+        "It makes all physical cues irrelevant",
+        "It replaces the need for supportive adults immediately"
+      ],
+      "answer": 0,
+      "explanation": "Words can help children express distress or remind themselves of steps. Support and practice are still needed as regulation develops.",
+      "difficulty": "Analysis",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q072",
+      "lecture": 5,
+      "question": "What is private speech?",
+      "options": [
+        "A synonym for complete silence",
+        "Speech directed toward oneself to guide activity",
+        "A parent's confidential medical history",
+        "Speech that exists only in written examinations"
+      ],
+      "answer": 1,
+      "explanation": "A child may say first this, then that while working. Such self-directed language can help organize attention and behavior.",
+      "difficulty": "Core",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q073",
+      "lecture": 5,
+      "question": "Why is varied, responsive input more useful than counting adult words alone?",
+      "options": [
+        "Children learn nothing from familiar routines",
+        "A larger word count guarantees understanding",
+        "Only the loudest words are learned",
+        "Meaning, engagement and opportunities to respond matter"
+      ],
+      "answer": 3,
+      "explanation": "Amount is only one feature of experience. Interaction that connects to a child's focus provides opportunities to interpret and use language.",
+      "difficulty": "Analysis",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q074",
+      "lecture": 5,
+      "question": "What should a caregiver do when concerned about communication progress?",
+      "options": [
+        "Diagnose from one vocabulary number",
+        "Discuss the concern and seek appropriate assessment",
+        "Wait indefinitely because variation exists",
+        "Assume all difficulties are deliberate"
+      ],
+      "answer": 1,
+      "explanation": "Variation does not mean concerns should be ignored. Assessment can examine hearing, comprehension, expression and the child's language context.",
+      "difficulty": "Applied",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    },
+    {
+      "id": "CD5Q075",
+      "lecture": 5,
+      "question": "A child hears instructions but struggles to remember, explain and write them. What is the best next focus?",
+      "options": [
+        "Separate auditory access, language and task-memory demands",
+        "Assume hearing a sound proves every processing skill",
+        "Use height as the main explanatory measure",
+        "Judge only the child's pronunciation"
+      ],
+      "answer": 0,
+      "explanation": "Detection, comprehension, memory and expression are different demands. Understanding the task helps identify where support or further assessment is needed.",
+      "difficulty": "Applied",
+      "topicId": "L5T8",
+      "topic": "A language-supportive environment",
+      "sourceSlides": "48–52"
+    }
+  ]
+}

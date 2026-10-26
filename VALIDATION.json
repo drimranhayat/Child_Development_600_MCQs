@@ -1,0 +1,33 @@
+{
+  "total_questions": 600,
+  "questions_per_lecture": {
+    "1": 75,
+    "2": 75,
+    "3": 75,
+    "4": 75,
+    "5": 75,
+    "6": 75,
+    "7": 75,
+    "8": 75
+  },
+  "major_topics_covered": 66,
+  "source_slide_sections": 404,
+  "duplicate_ids": 0,
+  "duplicate_stems": 0,
+  "missing_topic_mappings": 0,
+  "invalid_answer_indexes": 0,
+  "invalid_option_sets": 0,
+  "answer_position_counts": {
+    "B": 157,
+    "D": 154,
+    "C": 139,
+    "A": 150
+  },
+  "question_types": {
+    "Core": 326,
+    "Applied": 130,
+    "Analysis": 144
+  },
+  "content_sha256": "c8d0c0516cb100ecbee79927bffb920750a1e9f1c46188347f74e8534f02f6af",
+  "scope": "Structural checks; source-aligned editorial review is separate from automated validation."
+}

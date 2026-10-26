@@ -1,0 +1,1282 @@
+{
+  "lecture": 4,
+  "title": "Physical growth & maturation",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD4Q001",
+      "lecture": 4,
+      "question": "Why are serial growth measurements useful?",
+      "options": [
+        "They show the child's trajectory over time",
+        "They diagnose every developmental disorder",
+        "They eliminate measurement error",
+        "They replace nutrition history"
+      ],
+      "answer": 0,
+      "explanation": "A pattern across visits is more informative than one point. An unexpected change should be checked and interpreted with the clinical context.",
+      "difficulty": "Core",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q002",
+      "lecture": 4,
+      "question": "How should an infant weight-doubling rule be used?",
+      "options": [
+        "As an individual pass–fail growth threshold",
+        "As an approximate teaching heuristic",
+        "As a substitute for age-appropriate growth standards",
+        "As a rule that takes priority over serial measurements"
+      ],
+      "answer": 1,
+      "explanation": "Doubling rules summarize typical patterns but do not fit every infant. Appropriate growth standards and the clinical picture are more useful.",
+      "difficulty": "Core",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q003",
+      "lecture": 4,
+      "question": "A newborn has substantial weight loss. What is the best response?",
+      "options": [
+        "Stop all feeding",
+        "Assess feeding, hydration and clinical circumstances",
+        "Assume any loss is harmless",
+        "Diagnose a lifelong growth disorder from one weight"
+      ],
+      "answer": 1,
+      "explanation": "Early weight loss needs context. A concerning amount or associated symptoms requires assessment rather than automatic reassurance.",
+      "difficulty": "Core",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q004",
+      "lecture": 4,
+      "question": "What do Tanner stages describe?",
+      "options": [
+        "Chronological age from bone images",
+        "Dental maturation from eruption patterns",
+        "Patterns of pubertal physical maturation",
+        "General maturity across all developmental domains"
+      ],
+      "answer": 2,
+      "explanation": "Tanner staging describes features such as breast or genital development and pubic hair. It is not an intelligence or school achievement scale.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q005",
+      "lecture": 4,
+      "question": "Which teeth commonly appear around early school age?",
+      "options": [
+        "First permanent molars",
+        "Permanent premolars as the first usual school-age molars",
+        "Third permanent molars as the usual six-year teeth",
+        "A replacement set of primary molars"
+      ],
+      "answer": 0,
+      "explanation": "First permanent molars commonly erupt around six to seven years. Dental timing varies and should not be confused with premolar eruption.",
+      "difficulty": "Core",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q006",
+      "lecture": 4,
+      "question": "What is bone age used to estimate?",
+      "options": [
+        "Chronological age since birth",
+        "Skeletal maturation",
+        "Dental maturity from visible teeth",
+        "The stage of pubic-hair development"
+      ],
+      "answer": 1,
+      "explanation": "Bone age assesses skeletal maturity, often using an appropriate radiograph. It is interpreted alongside growth and other clinical information.",
+      "difficulty": "Core",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q007",
+      "lecture": 4,
+      "question": "Why can measurement technique matter?",
+      "options": [
+        "Poor positioning can distort height or length",
+        "One instrument fits every measurement",
+        "Weight and height are interchangeable",
+        "Technique never changes the result"
+      ],
+      "answer": 0,
+      "explanation": "Accurate positioning and calibrated equipment support valid measurements. An apparent growth change can sometimes reflect measurement error.",
+      "difficulty": "Core",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q008",
+      "lecture": 4,
+      "question": "Can physical growth alone represent all development?",
+      "options": [
+        "Height can stand in for direct language assessment",
+        "No, functional and contextual information is also needed",
+        "Weight alone measures every developmental domain",
+        "Physical maturity establishes social and adaptive independence"
+      ],
+      "answer": 1,
+      "explanation": "Growth is one important dimension. Communication, learning, relationships and daily functioning require their own observations.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q009",
+      "lecture": 4,
+      "question": "Which statement about brain maturation is appropriate?",
+      "options": [
+        "All myelination is complete by the early school years",
+        "Connection patterns become fixed when walking begins",
+        "Brain maturation is complete when primary teeth erupt",
+        "It continues beyond the early school years"
+      ],
+      "answer": 3,
+      "explanation": "Brain systems mature over an extended period. One early-childhood age cannot mark completion of every process.",
+      "difficulty": "Core",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q010",
+      "lecture": 4,
+      "question": "What is a sound approach to a growth concern?",
+      "options": [
+        "Diagnose solely from comparison with a sibling",
+        "Ignore a persistent downward change",
+        "Verify measurements and assess the pattern and context",
+        "Use a single unreferenced age rule"
+      ],
+      "answer": 2,
+      "explanation": "Check technique, plot appropriate measurements and consider health, feeding and family history. One comparison cannot supply the full explanation.",
+      "difficulty": "Core",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q011",
+      "lecture": 4,
+      "question": "Why is a newborn's head relatively prominent compared with later childhood?",
+      "options": [
+        "The face is always larger than the skull",
+        "Limb length reaches its adult value at birth",
+        "The trunk never grows after birth",
+        "Body proportions change with development"
+      ],
+      "answer": 3,
+      "explanation": "Infants and older children have different body proportions. Later growth changes the relative contribution of the head, trunk and limbs.",
+      "difficulty": "Applied",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q012",
+      "lecture": 4,
+      "question": "Which set best describes measurements used to follow infant growth?",
+      "options": [
+        "Weight, recumbent length and head circumference",
+        "Peer ratings, copying skill and sleep state",
+        "Puberty stage, exam score and grip style",
+        "Vocabulary, gestures and sentence length"
+      ],
+      "answer": 0,
+      "explanation": "These measures follow different physical dimensions. Their trajectories should be interpreted using appropriate standards and accurate technique.",
+      "difficulty": "Core",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q013",
+      "lecture": 4,
+      "question": "What does subcutaneous fat refer to?",
+      "options": [
+        "The coating around a neural axon",
+        "The central cavity of a bone",
+        "The mineralized outer layer of a tooth",
+        "Fat beneath the skin"
+      ],
+      "answer": 3,
+      "explanation": "Subcutaneous means under the skin. It is part of body composition and should not be confused with dental enamel or neural myelin.",
+      "difficulty": "Core",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q014",
+      "lecture": 4,
+      "question": "Why can a smaller infant's single weight not establish poor development?",
+      "options": [
+        "Weight is never useful",
+        "Gestational age, growth pattern and function also matter",
+        "Small infants cannot learn new skills",
+        "All infants should have identical weight"
+      ],
+      "answer": 1,
+      "explanation": "One measurement lacks the full context. Interpretation includes age, previous growth, health, feeding and developmental observations.",
+      "difficulty": "Analysis",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q015",
+      "lecture": 4,
+      "question": "A student's notes say 'birth weight triples by one year'. How should this be presented?",
+      "options": [
+        "A substitute for all growth charts",
+        "An approximate infant-growth rule",
+        "An exact diagnostic requirement",
+        "A prediction applying to every infant"
+      ],
+      "answer": 1,
+      "explanation": "The rule summarizes a broad pattern. It should not override serial measurements or be used as an individual pass–fail threshold.",
+      "difficulty": "Applied",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q016",
+      "lecture": 4,
+      "question": "Why is regaining weight after early newborn loss assessed over time?",
+      "options": [
+        "Every loss has the same cause",
+        "The direction and context of change are important",
+        "Later measurements add no information",
+        "One day always determines the entire trajectory"
+      ],
+      "answer": 1,
+      "explanation": "Monitoring shows whether weight is recovering and how feeding is going. A concerning pattern needs assessment rather than reliance on one number.",
+      "difficulty": "Analysis",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q017",
+      "lecture": 4,
+      "question": "What does deceleration of growth rate mean?",
+      "options": [
+        "Growth continues but the increase per unit time becomes smaller",
+        "Body measurements become impossible",
+        "The child necessarily loses height",
+        "All physical development has stopped"
+      ],
+      "answer": 0,
+      "explanation": "A slower rate does not mean no growth. For example, weight can continue increasing while the amount gained each month decreases.",
+      "difficulty": "Core",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q018",
+      "lecture": 4,
+      "question": "Which interpretation of head growth is most appropriate?",
+      "options": [
+        "One large reading proves hydrocephalus",
+        "It is identical to vocabulary growth",
+        "Its trajectory adds information distinct from weight",
+        "It replaces assessment of all other body dimensions"
+      ],
+      "answer": 2,
+      "explanation": "Head circumference follows a different dimension from weight or length. Accurate repeated measurement and context are needed when a pattern is unusual.",
+      "difficulty": "Core",
+      "topicId": "L4T1",
+      "topic": "Infant growth patterns",
+      "sourceSlides": "4–7"
+    },
+    {
+      "id": "CD4Q019",
+      "lecture": 4,
+      "question": "Why may appetite become less striking after rapid infant growth?",
+      "options": [
+        "Energy demands and growth rate change",
+        "Nutrition no longer matters",
+        "Reduced appetite always proves disease",
+        "All toddlers need identical portions"
+      ],
+      "answer": 0,
+      "explanation": "Growth slows after infancy, and appetite may fluctuate. The overall growth and feeding pattern helps distinguish variation from a concern needing assessment.",
+      "difficulty": "Analysis",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q020",
+      "lecture": 4,
+      "question": "Which body-proportion change is described across preschool years?",
+      "options": [
+        "All limb proportions remain identical to birth",
+        "Legs become longer relative to the trunk",
+        "The trunk permanently stops growing",
+        "The head becomes the entire body length"
+      ],
+      "answer": 1,
+      "explanation": "Changing proportions contribute to the preschool child's appearance and movement. This is a broad developmental pattern rather than an exact body-shape rule.",
+      "difficulty": "Core",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q021",
+      "lecture": 4,
+      "question": "What does genu valgum describe?",
+      "options": [
+        "An enlarged dental crown",
+        "An outward curvature commonly called bow legs",
+        "A reduced head circumference",
+        "An inward knee alignment commonly called knock knees"
+      ],
+      "answer": 3,
+      "explanation": "Genu valgum refers to knee alignment. Its interpretation depends on age, symmetry, degree and associated symptoms.",
+      "difficulty": "Core",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q022",
+      "lecture": 4,
+      "question": "What does genu varum describe?",
+      "options": [
+        "Delayed eruption of incisors",
+        "Knock-kneed alignment",
+        "Bow-legged alignment",
+        "Forward curvature of the neck alone"
+      ],
+      "answer": 2,
+      "explanation": "Varum and valgum describe different alignment patterns. Age-related variation should be distinguished from persistent or symptomatic concerns.",
+      "difficulty": "Core",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q023",
+      "lecture": 4,
+      "question": "Which finding makes a simple 'normal age variation' explanation less sufficient?",
+      "options": [
+        "A changing appetite with steady growth",
+        "Persistent marked asymmetry or pain",
+        "A broad range of comfortable activities",
+        "A proportion change without other concern"
+      ],
+      "answer": 1,
+      "explanation": "Symptoms or marked asymmetry warrant closer assessment. A broad developmental trend should not be used to dismiss every individual presentation.",
+      "difficulty": "Core",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q024",
+      "lecture": 4,
+      "question": "What typically becomes more developed during middle-childhood motor activity?",
+      "options": [
+        "Only primitive feeding reflexes",
+        "Strength, stamina and trained coordination",
+        "A universal adult level of endurance",
+        "Only the capacity for passive movement"
+      ],
+      "answer": 1,
+      "explanation": "School-age children can practise increasingly complex activities. Training, opportunity and individual differences affect performance alongside maturation.",
+      "difficulty": "Core",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q025",
+      "lecture": 4,
+      "question": "A child grows steadily but is shorter than one classmate. Which comparison is most useful?",
+      "options": [
+        "The child's own trajectory and appropriate reference",
+        "One sibling's shoe size",
+        "A teacher's unmeasured impression",
+        "The tallest child alone"
+      ],
+      "answer": 0,
+      "explanation": "Classmates differ in age, family background and maturation. Serial measurements provide a more meaningful basis for interpretation.",
+      "difficulty": "Applied",
+      "topicId": "L4T2",
+      "topic": "Toddler, preschool and school growth",
+      "sourceSlides": "8–16"
+    },
+    {
+      "id": "CD4Q026",
+      "lecture": 4,
+      "question": "What contributes to voice changes during puberty in the lecture?",
+      "options": [
+        "A decrease in all respiratory structures",
+        "Eruption of the first primary incisor",
+        "Loss of the palmar grasp response",
+        "Growth of the larynx and related structures"
+      ],
+      "answer": 3,
+      "explanation": "Pubertal changes in the larynx and vocal apparatus affect the voice. Physical maturation should not be confused with developing language comprehension or academic reasoning.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q027",
+      "lecture": 4,
+      "question": "Which physical change is a key early sign of gonadal puberty in boys?",
+      "options": [
+        "First primary tooth eruption",
+        "Development of a pincer grasp",
+        "Loss of newborn head lag",
+        "Testicular enlargement"
+      ],
+      "answer": 3,
+      "explanation": "Testicular enlargement is a key pubertal sign in this pathway. Pubic hair alone reflects a different hormonal process and should be considered separately.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q028",
+      "lecture": 4,
+      "question": "Which physical change is a key early sign of puberty in girls?",
+      "options": [
+        "Breast budding",
+        "Loss of the rooting response",
+        "First permanent molar eruption",
+        "Independent walking"
+      ],
+      "answer": 0,
+      "explanation": "Breast budding is an important early pubertal change. Chronological timing varies and should not be inferred from another developmental domain.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q029",
+      "lecture": 4,
+      "question": "How does adrenarche differ from gonadal maturation?",
+      "options": [
+        "It concerns adrenal androgen-related changes",
+        "It is another name for tooth shedding",
+        "It means the onset of all adult reasoning",
+        "It is identical to breast development in every case"
+      ],
+      "answer": 0,
+      "explanation": "Adrenal hormones contribute to changes such as body hair and odor. These changes should not be treated as identical to all gonadal pubertal events.",
+      "difficulty": "Analysis",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q030",
+      "lecture": 4,
+      "question": "Which Tanner stage represents the prepubertal pattern?",
+      "options": [
+        "Stage 2",
+        "Stage 1",
+        "Stage 4",
+        "Stage 5"
+      ],
+      "answer": 1,
+      "explanation": "The Tanner framework begins with a prepubertal stage and proceeds through developing secondary sexual characteristics toward an adult pattern.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q031",
+      "lecture": 4,
+      "question": "In the lecture's Tanner table for boys, which change characterizes stage 3 penile development?",
+      "options": [
+        "No change from the prepubertal pattern",
+        "Increasing length",
+        "Mature adult size",
+        "A complete return to stage 1"
+      ],
+      "answer": 1,
+      "explanation": "The table describes lengthening at stage 3, followed by greater size and breadth later. These are feature-based clinical descriptions, not exact age labels.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q032",
+      "lecture": 4,
+      "question": "Why can breast and pubic-hair ratings be recorded separately?",
+      "options": [
+        "Only pubic hair is observable",
+        "Different features may not progress in exact synchrony",
+        "Both features directly measure chronological age",
+        "One feature automatically defines all others"
+      ],
+      "answer": 1,
+      "explanation": "Separate ratings preserve information about different aspects of maturation. A single assumed global stage can hide differences between features.",
+      "difficulty": "Analysis",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q033",
+      "lecture": 4,
+      "question": "In breast staging, what distinguishes the description of stage 4?",
+      "options": [
+        "No breast development",
+        "A secondary mound of areola and papilla",
+        "A return to the prepubertal pattern",
+        "Initial small breast budding only"
+      ],
+      "answer": 1,
+      "explanation": "The lecture's stage-4 description includes a second mound. These are clinical descriptions, not instructions for untrained self-diagnosis or age estimation.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q034",
+      "lecture": 4,
+      "question": "Which sequence describes the lecture's broad distal-to-trunk pubertal growth pattern?",
+      "options": [
+        "Trunk and chest, then hands and feet, then limbs",
+        "Hands and feet stop growing before puberty starts",
+        "Hands and feet, then limbs, then trunk and chest",
+        "All growth occurs only in the trunk"
+      ],
+      "answer": 2,
+      "explanation": "The slides describe growth becoming noticeable distally before later trunk changes. This is a broad pattern; individual timing and growth velocity vary.",
+      "difficulty": "Core",
+      "topicId": "L4T3",
+      "topic": "Adolescence and sexual maturation",
+      "sourceSlides": "17–24,45–47"
+    },
+    {
+      "id": "CD4Q035",
+      "lecture": 4,
+      "question": "How many teeth are in the complete primary dentition?",
+      "options": [
+        "16",
+        "32",
+        "20",
+        "28"
+      ],
+      "answer": 2,
+      "explanation": "Primary dentition has 20 teeth. The complete permanent set may include 32 when third molars are present, so the two dentitions should be distinguished.",
+      "difficulty": "Analysis",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q036",
+      "lecture": 4,
+      "question": "What does tooth eruption mean?",
+      "options": [
+        "The formation of a neural connection",
+        "Measurement of skeletal age",
+        "Loss of a primary tooth only",
+        "A tooth emerging into the mouth through the gum"
+      ],
+      "answer": 3,
+      "explanation": "Eruption concerns a tooth becoming visible in the mouth. It is distinct from mineralization and from shedding.",
+      "difficulty": "Core",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q037",
+      "lecture": 4,
+      "question": "What does exfoliation mean in dental development?",
+      "options": [
+        "Emergence of the first fetal limb bud",
+        "Shedding of primary teeth",
+        "Initial mineralization of enamel",
+        "Formation of the jaw before birth"
+      ],
+      "answer": 1,
+      "explanation": "Exfoliation is the loss of primary teeth as dentition changes. It should not be confused with eruption of a new tooth.",
+      "difficulty": "Core",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q038",
+      "lecture": 4,
+      "question": "Which teeth often begin primary eruption?",
+      "options": [
+        "Upper wisdom teeth",
+        "Lower central incisors",
+        "Third permanent molars",
+        "Second permanent premolars"
+      ],
+      "answer": 1,
+      "explanation": "Lower central incisors commonly appear early in primary eruption. Individual timing varies, and a pattern should not be reduced to one exact month.",
+      "difficulty": "Core",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q039",
+      "lecture": 4,
+      "question": "Why should a first permanent molar not be mistaken for a replacement primary molar?",
+      "options": [
+        "It erupts behind the primary molars",
+        "It replaces a primary incisor",
+        "It appears only after all wisdom teeth",
+        "It is always a temporary tooth"
+      ],
+      "answer": 0,
+      "explanation": "The first permanent molar is an addition behind the primary teeth. Recognizing this helps distinguish permanent teeth from teeth that are expected to shed.",
+      "difficulty": "Analysis",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q040",
+      "lecture": 4,
+      "question": "What is tooth mineralization?",
+      "options": [
+        "The measurement of limb length",
+        "The production of a spoken consonant",
+        "The shedding of every primary tooth",
+        "Deposition of mineral in developing dental tissues"
+      ],
+      "answer": 3,
+      "explanation": "Mineralization is part of tooth formation. A tooth may be developing before it erupts visibly into the mouth.",
+      "difficulty": "Core",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q041",
+      "lecture": 4,
+      "question": "Why can enamel changes require a broader history?",
+      "options": [
+        "Only chronological age can affect enamel",
+        "Every discoloured tooth proves one endocrine disorder",
+        "Illness, exposures and nutritional factors can contribute",
+        "Enamel colour directly measures intelligence"
+      ],
+      "answer": 2,
+      "explanation": "Several influences may affect developing dental tissues. Appearance alone does not establish one specific cause.",
+      "difficulty": "Analysis",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q042",
+      "lecture": 4,
+      "question": "Why is tooth eruption a limited proxy for overall development?",
+      "options": [
+        "It directly measures language and cognition",
+        "It replaces height and weight monitoring",
+        "It determines attachment security",
+        "Its timing does not track every domain closely"
+      ],
+      "answer": 3,
+      "explanation": "Dental development is one physical process. A child's tooth pattern cannot establish communication, learning or social functioning.",
+      "difficulty": "Analysis",
+      "topicId": "L4T4",
+      "topic": "Dental development",
+      "sourceSlides": "25–33"
+    },
+    {
+      "id": "CD4Q043",
+      "lecture": 4,
+      "question": "What is the difference between chronological age and skeletal age?",
+      "options": [
+        "One records elapsed time; the other estimates bone maturity",
+        "Both always refer to the same number",
+        "Skeletal age measures emotional regulation",
+        "Chronological age is determined by a hand radiograph"
+      ],
+      "answer": 0,
+      "explanation": "Chronological age is time since birth. Skeletal age compares observed maturation with a reference pattern and may differ from chronological age.",
+      "difficulty": "Core",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q044",
+      "lecture": 4,
+      "question": "What are epiphyses in the context of skeletal maturation?",
+      "options": [
+        "Developing end regions of long bones",
+        "The outer crowns of teeth",
+        "Communication junctions between neurons",
+        "The infant's sleep states"
+      ],
+      "answer": 0,
+      "explanation": "Epiphyseal development contributes to skeletal maturation. Radiographic patterns help trained clinicians estimate progress toward physical maturity.",
+      "difficulty": "Core",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q045",
+      "lecture": 4,
+      "question": "What does an ossification centre indicate?",
+      "options": [
+        "The loss of a primary tooth",
+        "A new stage of attachment",
+        "A place where language is stored exclusively",
+        "An area where bone tissue is forming"
+      ],
+      "answer": 3,
+      "explanation": "Ossification centres are part of bone development. Their appearance and maturation contribute to reference-based estimates of skeletal age.",
+      "difficulty": "Core",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q046",
+      "lecture": 4,
+      "question": "Why does bone-age estimation require reference standards?",
+      "options": [
+        "Bone maturity is identical to height",
+        "Observed maturation needs a comparison framework",
+        "Reference populations never matter",
+        "Every hand image gives a self-evident exact age"
+      ],
+      "answer": 1,
+      "explanation": "A reference provides a structured comparison. Interpretation must consider the method, population and clinical question rather than treating an image as an infallible clock.",
+      "difficulty": "Analysis",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q047",
+      "lecture": 4,
+      "question": "A child's skeletal age differs from chronological age. What is the best next interpretation?",
+      "options": [
+        "Assume an exact diagnosis from the difference",
+        "Consider the difference alongside growth and clinical history",
+        "Disregard all other evidence",
+        "Use it as an intelligence score"
+      ],
+      "answer": 1,
+      "explanation": "The difference can be informative but is not a diagnosis by itself. Growth pattern, puberty and health history help explain its significance.",
+      "difficulty": "Applied",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q048",
+      "lecture": 4,
+      "question": "Why can skeletal maturity help interpret pubertal growth?",
+      "options": [
+        "It reveals the exact date of the first word",
+        "It provides information about progress toward physical maturity",
+        "It measures the number of friendships",
+        "It replaces all pubertal examination"
+      ],
+      "answer": 1,
+      "explanation": "Skeletal age and puberty concern related aspects of maturation. They contribute different information and should be interpreted together.",
+      "difficulty": "Analysis",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q049",
+      "lecture": 4,
+      "question": "What is a limitation of adult-height prediction from bone maturity?",
+      "options": [
+        "It does not use any reference information",
+        "It is an estimate rather than a guarantee",
+        "It always gives the exact final centimetre",
+        "It proves the cause of every growth difference"
+      ],
+      "answer": 1,
+      "explanation": "Predictions depend on assumptions and measurement methods. An estimate should not be presented to a family as a certain final outcome.",
+      "difficulty": "Analysis",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q050",
+      "lecture": 4,
+      "question": "Which use of skeletal assessment is appropriate?",
+      "options": [
+        "A clinically justified question interpreted by trained professionals",
+        "A substitute for all functional assessment",
+        "Routine home imaging to compare siblings",
+        "A method of ranking children's character"
+      ],
+      "answer": 0,
+      "explanation": "Imaging and interpretation belong to clinical decision-making. The educational purpose is to understand what skeletal maturity can and cannot tell us.",
+      "difficulty": "Core",
+      "topicId": "L4T5",
+      "topic": "Skeletal maturation",
+      "sourceSlides": "34–35"
+    },
+    {
+      "id": "CD4Q051",
+      "lecture": 4,
+      "question": "Why are recumbent length and standing height not casually interchangeable?",
+      "options": [
+        "Length always means head circumference",
+        "Only the names differ with no measurement effect",
+        "Both measure body weight",
+        "Position and technique differ"
+      ],
+      "answer": 3,
+      "explanation": "Infant length and standing height require different positioning. Appropriate technique and chart use reduce misleading differences.",
+      "difficulty": "Analysis",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q052",
+      "lecture": 4,
+      "question": "What does a growth percentile express?",
+      "options": [
+        "Position within an age- and sex-referenced distribution",
+        "The proportion of adult height guaranteed",
+        "The certainty of a diagnosis",
+        "The percentage of intelligence already attained"
+      ],
+      "answer": 0,
+      "explanation": "A percentile describes relative position in a reference distribution. It is not a grade or a direct measure of overall developmental success.",
+      "difficulty": "Core",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q053",
+      "lecture": 4,
+      "question": "Does a lower growth percentile automatically mean disease?",
+      "options": [
+        "Yes, all healthy children must be above average",
+        "No, because measurements never matter",
+        "Yes, any value below the median is illness",
+        "No, the trajectory and context matter"
+      ],
+      "answer": 3,
+      "explanation": "Healthy children can occupy different percentiles. The pattern over time and wider clinical information determine whether closer assessment is warranted.",
+      "difficulty": "Core",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q054",
+      "lecture": 4,
+      "question": "Why should age be entered accurately on a growth chart?",
+      "options": [
+        "Age is only decorative chart information",
+        "All ages share the same expected measurement",
+        "Age is needed only for dental charts",
+        "The reference comparison changes with age"
+      ],
+      "answer": 3,
+      "explanation": "A measurement is compared with children at a relevant age. Incorrect age entry can make an appropriate measurement appear unusual.",
+      "difficulty": "Analysis",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q055",
+      "lecture": 4,
+      "question": "An unexpected drop appears on a height chart after a different instrument was used. What should be checked first?",
+      "options": [
+        "The assumption of an immediate specific syndrome",
+        "A fixed diagnosis from the new percentile",
+        "Only the child's handwriting",
+        "Measurement technique and recording"
+      ],
+      "answer": 3,
+      "explanation": "Equipment, positioning and transcription can create apparent changes. Verify the data before building a medical explanation around it.",
+      "difficulty": "Core",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q056",
+      "lecture": 4,
+      "question": "Why are trends usually more informative than a single percentile?",
+      "options": [
+        "They directly measure emotional development",
+        "They show how growth is progressing",
+        "They make health history unnecessary",
+        "They remove every possibility of error"
+      ],
+      "answer": 1,
+      "explanation": "Serial observations reveal stability, acceleration or faltering. A single point cannot show the direction or rate of change.",
+      "difficulty": "Analysis",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q057",
+      "lecture": 4,
+      "question": "A clinician measures weight accurately but records it under the wrong visit date. What is affected?",
+      "options": [
+        "The number of permanent teeth",
+        "Only the colour of the chart",
+        "The child's actual skeletal maturity",
+        "The validity of the plotted trajectory"
+      ],
+      "answer": 3,
+      "explanation": "Accurate recording is part of measurement quality. A misplaced date can distort the apparent rate or timing of growth.",
+      "difficulty": "Core",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q058",
+      "lecture": 4,
+      "question": "Why should a growth chart appropriate to the measurement be chosen?",
+      "options": [
+        "Different dimensions answer different growth questions",
+        "Weight and head circumference have the same reference",
+        "Every chart accepts any unit",
+        "A height chart automatically measures nutrition alone"
+      ],
+      "answer": 0,
+      "explanation": "Weight, length/height and head circumference are not interchangeable. The chart, units and age range should match what was measured.",
+      "difficulty": "Analysis",
+      "topicId": "L4T6",
+      "topic": "Measurement and growth charts",
+      "sourceSlides": "36–44"
+    },
+    {
+      "id": "CD4Q059",
+      "lecture": 4,
+      "question": "What does short stature describe before a cause is established?",
+      "options": [
+        "One specific endocrine diagnosis",
+        "A complete cognitive profile",
+        "A direct measure of parenting quality",
+        "A height finding requiring contextual interpretation"
+      ],
+      "answer": 3,
+      "explanation": "Short stature is a descriptive growth finding. Familial patterns, health and maturation are among the factors considered in assessment.",
+      "difficulty": "Core",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q060",
+      "lecture": 4,
+      "question": "Which pair distinguishes undernutrition from excess-weight patterns?",
+      "options": [
+        "Delayed puberty versus early tooth loss",
+        "Low language score versus high language score",
+        "Insufficient nutritional status versus excessive weight-related status",
+        "Microcephaly versus macrocephaly"
+      ],
+      "answer": 2,
+      "explanation": "Both concern nutritional or growth status, but they are not the same pattern. Appropriate measurements and assessment are needed in either direction.",
+      "difficulty": "Core",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q061",
+      "lecture": 4,
+      "question": "Why can chronic disease be relevant to both height and weight?",
+      "options": [
+        "It rules out nutritional influences",
+        "Every chronic disease has identical effects",
+        "Long-term health can influence growth processes",
+        "It affects only dental colour"
+      ],
+      "answer": 2,
+      "explanation": "Health, intake, absorption and other processes can interact over time. A growth pattern should be investigated rather than mapped automatically to one disease.",
+      "difficulty": "Analysis",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q062",
+      "lecture": 4,
+      "question": "What do microcephaly and macrocephaly refer to broadly?",
+      "options": [
+        "Low and high emotional control",
+        "Early and late tooth eruption",
+        "Weak and strong pencil grasps",
+        "Smaller and larger head size relative to appropriate references"
+      ],
+      "answer": 3,
+      "explanation": "The terms describe head-size findings. Neither term alone supplies the cause or the full developmental picture.",
+      "difficulty": "Core",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q063",
+      "lecture": 4,
+      "question": "Why is macrocephaly not synonymous with hydrocephalus?",
+      "options": [
+        "Head measurements cannot be compared",
+        "A large head can have different explanations",
+        "Hydrocephalus describes tooth enamel",
+        "All large heads show identical pathology"
+      ],
+      "answer": 1,
+      "explanation": "Hydrocephalus is one possible explanation in a clinical differential. The descriptive size finding is not itself that diagnosis.",
+      "difficulty": "Analysis",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q064",
+      "lecture": 4,
+      "question": "What is precocious puberty concerned with?",
+      "options": [
+        "Early school admission",
+        "Loss of primary teeth",
+        "All early gross motor skills",
+        "Pubertal development occurring unusually early"
+      ],
+      "answer": 3,
+      "explanation": "The term concerns the timing of sexual maturation. Appropriate assessment considers the specific features, timing and possible causes.",
+      "difficulty": "Core",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q065",
+      "lecture": 4,
+      "question": "Why should the slide's listed syndromes not be matched one-to-one with stature?",
+      "options": [
+        "Several causes can produce similar growth findings",
+        "All tall children share one condition",
+        "Each syndrome has one unique height",
+        "Short stature always proves a chromosome change"
+      ],
+      "answer": 0,
+      "explanation": "Growth findings overlap across conditions and ordinary variation. Diagnosis requires more than selecting a label from a short list.",
+      "difficulty": "Analysis",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q066",
+      "lecture": 4,
+      "question": "What is a sensible first step when puberty seems delayed?",
+      "options": [
+        "Infer lack of intelligence",
+        "Ignore every other symptom",
+        "Use peer teasing as evidence",
+        "Review growth, history and maturation with a clinician"
+      ],
+      "answer": 3,
+      "explanation": "Pubertal timing requires individual interpretation. Growth history, family patterns and other clinical features help determine whether investigation is needed.",
+      "difficulty": "Core",
+      "topicId": "L4T7",
+      "topic": "Patterns that need assessment",
+      "sourceSlides": "48–53"
+    },
+    {
+      "id": "CD4Q067",
+      "lecture": 4,
+      "question": "What is a proxy indicator?",
+      "options": [
+        "A measurement without any assumptions",
+        "A direct observation of every domain",
+        "A guaranteed diagnosis",
+        "An indirect measure used to represent another construct"
+      ],
+      "answer": 3,
+      "explanation": "A proxy stands in for something harder to measure. Its usefulness depends on how well it represents the target, not merely on convenience.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q068",
+      "lecture": 4,
+      "question": "Why might growth measures be attractive in large developmental programmes?",
+      "options": [
+        "They can be collected relatively routinely",
+        "They eliminate all conceptual limitations",
+        "They establish individual language diagnoses",
+        "They measure every cognitive process directly"
+      ],
+      "answer": 0,
+      "explanation": "Routine growth monitoring can make measurement feasible at scale. Practical availability does not prove full developmental coverage.",
+      "difficulty": "Analysis",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q069",
+      "lecture": 4,
+      "question": "What is the main limitation of using height alone as an early-development proxy?",
+      "options": [
+        "It directly records moral reasoning",
+        "It describes only neonatal sleep",
+        "It cannot be measured numerically",
+        "It misses abilities in other domains"
+      ],
+      "answer": 3,
+      "explanation": "Height concerns physical growth. Language, cognition, emotion and adaptive functioning need relevant observations or measures of their own.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q070",
+      "lecture": 4,
+      "question": "A study finds an association between growth and cognitive scores. What does that establish by itself?",
+      "options": [
+        "Changing height necessarily changes every cognitive skill",
+        "Height completely determines cognition",
+        "The two constructs are identical",
+        "The measures vary together in that study"
+      ],
+      "answer": 3,
+      "explanation": "Association is not identity or proof of causation. Shared influences and other explanations may contribute to the observed relationship.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q071",
+      "lecture": 4,
+      "question": "What would strengthen a study evaluating growth as a developmental proxy?",
+      "options": [
+        "Assume equivalence before collecting data",
+        "Exclude every functional outcome",
+        "Select only children who fit the claim",
+        "Compare growth with direct developmental measures"
+      ],
+      "answer": 3,
+      "explanation": "A proxy should be tested against the construct it is meant to represent. Direct domain measures make its strengths and limits visible.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q072",
+      "lecture": 4,
+      "question": "How should an old risk estimate based on stunting or poverty be described?",
+      "options": [
+        "As a universal language-delay rate",
+        "With its year, population and operational definition",
+        "As a direct current diagnosis of every child",
+        "Without explaining how risk was defined"
+      ],
+      "answer": 1,
+      "explanation": "The estimate concerns a specific risk definition and population. Omitting that context can turn a historical indicator into a misleading claim.",
+      "difficulty": "Analysis",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q073",
+      "lecture": 4,
+      "question": "Why can primary healthcare be a useful setting for developmental monitoring?",
+      "options": [
+        "It offers opportunities for repeated contact and referral",
+        "It proves physical and social measures are identical",
+        "It makes all specialist assessment unnecessary",
+        "It removes the need to listen to families"
+      ],
+      "answer": 0,
+      "explanation": "Existing child-health contacts can support monitoring and discussion. Appropriate referral remains important when concerns arise.",
+      "difficulty": "Analysis",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q074",
+      "lecture": 4,
+      "question": "Which essay conclusion is most defensible for the growth-proxy assignment?",
+      "options": [
+        "One historical statistic settles every question",
+        "Physical measures have no value",
+        "Growth and development are fully interchangeable",
+        "Growth is informative but insufficient as the sole developmental measure"
+      ],
+      "answer": 3,
+      "explanation": "A balanced argument recognizes feasibility and associations while addressing missing domains. It should connect claims to evidence and acknowledge measurement limits.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    },
+    {
+      "id": "CD4Q075",
+      "lecture": 4,
+      "question": "A school-age child has expected height but persistent language and learning difficulties. What does the case demonstrate?",
+      "options": [
+        "All concerns can be dismissed until puberty",
+        "The language observation must be wrong",
+        "Height provides a complete developmental assessment",
+        "Typical growth does not exclude developmental support needs"
+      ],
+      "answer": 3,
+      "explanation": "A physical trajectory cannot rule out difficulties in other domains. Direct observation and appropriate assessment address the functional concerns.",
+      "difficulty": "Core",
+      "topicId": "L4T8",
+      "topic": "Growth as a proxy: use and limits",
+      "sourceSlides": "54–57,61"
+    }
+  ]
+}

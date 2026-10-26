@@ -1,0 +1,1282 @@
+{
+  "lecture": 3,
+  "title": "Motor development",
+  "count": 75,
+  "questions": [
+    {
+      "id": "CD3Q001",
+      "lecture": 3,
+      "question": "Which task is primarily fine motor?",
+      "options": [
+        "Walking up a step",
+        "Manipulating a button",
+        "Maintaining standing balance",
+        "Jumping with both feet"
+      ],
+      "answer": 1,
+      "explanation": "Fine motor tasks use precise hand and finger control. Buttoning also requires vision and sequencing.",
+      "difficulty": "Core",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q002",
+      "lecture": 3,
+      "question": "What does a cephalocaudal trend describe?",
+      "options": [
+        "Control developing broadly from head toward lower body",
+        "Broadly from lower limbs toward the head",
+        "From general responses toward specific responses",
+        "From one practiced side toward the other side"
+      ],
+      "answer": 0,
+      "explanation": "Head control generally develops before later standing and walking. This describes a broad trend rather than an exact timetable.",
+      "difficulty": "Core",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q003",
+      "lecture": 3,
+      "question": "How does cruising differ from independent walking?",
+      "options": [
+        "Cruising uses furniture or another support",
+        "Cruising means unsupported steps between two adults",
+        "Cruising means moving on hands and knees",
+        "Cruising means walking up steps with alternating feet"
+      ],
+      "answer": 0,
+      "explanation": "A child moving along furniture is cruising. Walking independently requires taking steps without that support.",
+      "difficulty": "Core",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q004",
+      "lecture": 3,
+      "question": "Which observation best illustrates a pincer grasp?",
+      "options": [
+        "Holding a block mainly against the palm",
+        "Using thumb and finger to pick up an object",
+        "Transferring a toy between two hands",
+        "Releasing an object onto a surface"
+      ],
+      "answer": 1,
+      "explanation": "A pincer grasp uses the thumb and a finger for precision. Use safe objects because small objects can be choking hazards.",
+      "difficulty": "Core",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q005",
+      "lecture": 3,
+      "question": "A child skips crawling but develops other mobility skills. What is the best interpretation?",
+      "options": [
+        "Walking is therefore impossible",
+        "Consider the overall pattern and movement quality",
+        "Crawling absence alone proves a disorder",
+        "The child must have advanced intelligence"
+      ],
+      "answer": 1,
+      "explanation": "Motor pathways vary. Assessment considers the full history, symmetry, function and progress rather than one isolated milestone.",
+      "difficulty": "Applied",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q006",
+      "lecture": 3,
+      "question": "What does developmental dissociation describe?",
+      "options": [
+        "A slower rate across every domain to a similar degree",
+        "Loss of skills that had already been established",
+        "An unusual quality of movement within one task",
+        "Uneven performance across domains"
+      ],
+      "answer": 3,
+      "explanation": "A child may have strong gross motor skills and weaker language skills. That uneven profile is dissociation and needs interpretation in context.",
+      "difficulty": "Core",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q007",
+      "lecture": 3,
+      "question": "What is developmental regression?",
+      "options": [
+        "An uneven pattern between developmental domains",
+        "Slower acquisition of a skill not previously mastered",
+        "Atypical movement quality without demonstrated skill loss",
+        "Loss of previously acquired skills"
+      ],
+      "answer": 3,
+      "explanation": "Loss of established abilities warrants prompt professional discussion. For example, losing words previously used consistently differs from simply learning new words slowly.",
+      "difficulty": "Core",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q008",
+      "lecture": 3,
+      "question": "What is a suitable response to emerging hand preference?",
+      "options": [
+        "Provide practice without forcing the opposite hand",
+        "Select the writing hand based only on the child's age",
+        "Use practice to establish the adult's preferred hand",
+        "Interpret switching hands as a diagnosis by itself"
+      ],
+      "answer": 0,
+      "explanation": "Hand preference varies. Support comfortable, effective hand use rather than forcing a particular side.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q009",
+      "lecture": 3,
+      "question": "What is technoference in the lecture assignment?",
+      "options": [
+        "The use of technology only for a shared learning activity",
+        "Technology interrupting interpersonal interaction",
+        "The total number of devices regardless of interaction",
+        "A child's fine motor manipulation of a touch screen"
+      ],
+      "answer": 1,
+      "explanation": "Technoference concerns interruptions, such as checking notifications during a child's attempt to engage. The interaction context matters.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q010",
+      "lecture": 3,
+      "question": "What distinguishes screening from diagnosis?",
+      "options": [
+        "Screening identifies a need for closer assessment",
+        "Screening establishes the cause of every difficulty",
+        "Screening and diagnostic assessment are interchangeable",
+        "Screening replaces further assessment whenever a score is obtained"
+      ],
+      "answer": 0,
+      "explanation": "A screening result flags possible concerns. A fuller assessment considers history, observations and appropriate tools before diagnostic conclusions.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q011",
+      "lecture": 3,
+      "question": "Why does reaching for a cup require both gross and fine motor control?",
+      "options": [
+        "Gross and fine systems cannot cooperate",
+        "Posture stabilizes the body while the hand acts",
+        "Reaching involves only finger muscles",
+        "Fine motor control replaces trunk stability"
+      ],
+      "answer": 1,
+      "explanation": "Stable posture supports accurate hand use. The task illustrates why movement domains should not be studied as completely independent systems.",
+      "difficulty": "Analysis",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q012",
+      "lecture": 3,
+      "question": "Which change reflects differentiation of movement?",
+      "options": [
+        "All body parts always move together",
+        "Every movement becomes less specific",
+        "A broad arm movement becomes a controlled finger action",
+        "A purposeful reach returns permanently to random motion"
+      ],
+      "answer": 2,
+      "explanation": "Differentiation means movement becomes more specific and controlled. Selecting an object with fingers differs from a generalized whole-arm response.",
+      "difficulty": "Core",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q013",
+      "lecture": 3,
+      "question": "What is the most defensible use of a motor sequence?",
+      "options": [
+        "A guarantee of one exact timetable",
+        "A framework for observing patterns and progression",
+        "A substitute for observing movement quality",
+        "A diagnosis from one missing item"
+      ],
+      "answer": 1,
+      "explanation": "Sequences help organize observation. The child's rate, opportunities, quality of movement and overall development must also be considered.",
+      "difficulty": "Core",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q014",
+      "lecture": 3,
+      "question": "Which example best illustrates voluntary motor control?",
+      "options": [
+        "A grasp automatically elicited by palm stimulation",
+        "An involuntary startle pattern",
+        "A reflexive trunk curve during examination",
+        "Intentionally letting go of a block into a container"
+      ],
+      "answer": 3,
+      "explanation": "Voluntary control involves goal-directed action. Releasing a block where intended differs from an automatically elicited response.",
+      "difficulty": "Core",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q015",
+      "lecture": 3,
+      "question": "In the lecture's approximate sequence, copying a circle is associated with which age?",
+      "options": [
+        "About 6 months",
+        "About 8 years",
+        "About 3 years",
+        "About 12 months"
+      ],
+      "answer": 2,
+      "explanation": "The slides place circle copying around age three, before square and triangle copying. This is a course teaching anchor, not a diagnostic deadline for an individual child.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q016",
+      "lecture": 3,
+      "question": "Which description belongs to gross motor control?",
+      "options": [
+        "Making a precise mark on paper",
+        "Using fingertips to turn one page",
+        "Maintaining balance while changing body position",
+        "Rotating a small lid between fingers"
+      ],
+      "answer": 2,
+      "explanation": "Gross motor control includes balance, posture and large movements. Fine tasks involve more precise hand and finger manipulation.",
+      "difficulty": "Core",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q017",
+      "lecture": 3,
+      "question": "Why is safe practice important after biological readiness emerges?",
+      "options": [
+        "Readiness guarantees expert performance immediately",
+        "Practice determines every developmental outcome",
+        "Skills become more coordinated through use",
+        "Only inherited traits affect coordination"
+      ],
+      "answer": 2,
+      "explanation": "Maturation enables new actions, and opportunities help refine them. A new walker still practises balance, stopping and turning.",
+      "difficulty": "Analysis",
+      "topicId": "L3T1",
+      "topic": "Principles of motor development",
+      "sourceSlides": "3–5"
+    },
+    {
+      "id": "CD3Q018",
+      "lecture": 3,
+      "question": "In the lecture's approximate sequence, copying a square is associated with which age?",
+      "options": [
+        "About 18 months",
+        "About 9 months",
+        "About 4 years",
+        "About 7 years"
+      ],
+      "answer": 2,
+      "explanation": "The slides place square copying around age four, following circle copying and preceding triangle copying. Familiarity, instructions and the full visual-motor profile matter in interpretation.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q019",
+      "lecture": 3,
+      "question": "Which posture is described by the term prone?",
+      "options": [
+        "Standing with support",
+        "Lying on the abdomen",
+        "Lying on the back",
+        "Sitting upright"
+      ],
+      "answer": 1,
+      "explanation": "Prone means on the abdomen, while supine means on the back. These positions provide different views of postural control.",
+      "difficulty": "Core",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q020",
+      "lecture": 3,
+      "question": "Which posture is described by the term supine?",
+      "options": [
+        "Lying on the back",
+        "Kneeling upright",
+        "Lying on the abdomen",
+        "Sitting without support"
+      ],
+      "answer": 0,
+      "explanation": "Supine is a back-lying position. Knowing position terms helps students interpret the lecture's descriptions of infant movement.",
+      "difficulty": "Core",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q021",
+      "lecture": 3,
+      "question": "What does head lag describe during a trained assessment?",
+      "options": [
+        "The head remaining aligned with the trunk",
+        "The ability to turn toward a voice",
+        "The use of both hands together",
+        "The head trailing behind the trunk during a position change"
+      ],
+      "answer": 3,
+      "explanation": "Head lag concerns relative head and trunk control. Interpretation is age- and context-dependent, and assessment should be performed safely by a trained person.",
+      "difficulty": "Core",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q022",
+      "lecture": 3,
+      "question": "Which broad progression is described in the lecture's prone observations?",
+      "options": [
+        "Independent walking before any head control",
+        "Precision finger grasp before all arm movement",
+        "Forearm support toward support through more extended arms",
+        "Permanent loss of trunk control with age"
+      ],
+      "answer": 2,
+      "explanation": "The lecture traces increasing antigravity control. Support through forearms can progress toward support through the hands as strength and coordination develop.",
+      "difficulty": "Core",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q023",
+      "lecture": 3,
+      "question": "How does supported sitting differ from independent sitting?",
+      "options": [
+        "External assistance still helps maintain the position",
+        "Supported sitting requires no trunk control",
+        "Independent sitting always includes walking",
+        "The two terms describe the same assistance level"
+      ],
+      "answer": 0,
+      "explanation": "The amount of support matters when recording a skill. Brief sitting while held is different from maintaining balance without that assistance.",
+      "difficulty": "Analysis",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q024",
+      "lecture": 3,
+      "question": "An infant twists while sitting to reach a toy. What added ability is being observed?",
+      "options": [
+        "Completion of all gross motor development",
+        "Dynamic control within the sitting position",
+        "A feeding reflex alone",
+        "Only passive support from an adult"
+      ],
+      "answer": 1,
+      "explanation": "Maintaining sitting during reaching requires more than remaining still. Dynamic balance helps the child act within a posture.",
+      "difficulty": "Applied",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q025",
+      "lecture": 3,
+      "question": "Which task is associated with about 5–6 months in the lecture's gross-motor sequence?",
+      "options": [
+        "Pedalling a tricycle",
+        "Skipping on alternating feet",
+        "Independent alternating stair descent",
+        "Sitting with support and increasing hand support in prone"
+      ],
+      "answer": 3,
+      "explanation": "The slides describe increasing prone support and supported sitting in this broad period. Support level matters, and the age label is an approximate course anchor.",
+      "difficulty": "Core",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q026",
+      "lecture": 3,
+      "question": "Which observation is associated with about 8–9 months in the lecture's sequence?",
+      "options": [
+        "Sitting without support and pivoting",
+        "Drawing a square",
+        "Independent hopping over obstacles",
+        "Skipping fluently"
+      ],
+      "answer": 0,
+      "explanation": "The lecture places unsupported sitting and pivoting in this approximate period. This does not mean waiting until a listed month if a family has concerns about progress.",
+      "difficulty": "Core",
+      "topicId": "L3T2",
+      "topic": "Early gross motor sequence",
+      "sourceSlides": "6–16"
+    },
+    {
+      "id": "CD3Q027",
+      "lecture": 3,
+      "question": "Which new demand becomes important after a child first walks independently?",
+      "options": [
+        "Controlling speed and direction",
+        "Avoiding every change of surface",
+        "Maintaining an obligatory grasp reflex",
+        "Learning the rooting response"
+      ],
+      "answer": 0,
+      "explanation": "Walking skill continues to develop beyond first steps. Stopping, turning and adapting to surroundings require further balance and practice.",
+      "difficulty": "Applied",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q028",
+      "lecture": 3,
+      "question": "A toddler uses both feet on each stair before moving to the next. What is this pattern?",
+      "options": [
+        "Skipping",
+        "Cruising",
+        "A step-to pattern",
+        "An alternating-foot pattern"
+      ],
+      "answer": 2,
+      "explanation": "In a step-to pattern both feet reach one step. Alternating feet places one foot on each successive step and demands different coordination.",
+      "difficulty": "Applied",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q029",
+      "lecture": 3,
+      "question": "What detail is essential when comparing two children's stair skills?",
+      "options": [
+        "Only which child is heavier",
+        "Whether they name the steps aloud",
+        "Whether they use a rail or adult support",
+        "Only the staircase colour"
+      ],
+      "answer": 2,
+      "explanation": "Support substantially changes stair demands. A child using a rail and one stepping unaided should not be treated as performing identical tasks.",
+      "difficulty": "Core",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q030",
+      "lecture": 3,
+      "question": "Which task places a particularly clear demand on single-leg balance?",
+      "options": [
+        "Rolling from back to side",
+        "Hopping",
+        "Holding a cup with two hands",
+        "Sitting with back support"
+      ],
+      "answer": 1,
+      "explanation": "Hopping involves taking off and landing on one leg. It therefore differs from a two-foot jump and requires single-leg balance.",
+      "difficulty": "Core",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q031",
+      "lecture": 3,
+      "question": "How does a jump differ from a hop in basic movement terminology?",
+      "options": [
+        "A jump is exclusively a hand movement",
+        "A hop uses one foot; a basic two-foot jump uses both",
+        "A hop always means sliding on the floor",
+        "Both terms necessarily mean alternating stair steps"
+      ],
+      "answer": 1,
+      "explanation": "The support and landing pattern distinguishes the tasks. Clear terminology helps interpret gross motor descriptions accurately.",
+      "difficulty": "Analysis",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q032",
+      "lecture": 3,
+      "question": "Why does pedalling a tricycle require more than leg strength?",
+      "options": [
+        "It requires no balance or attention",
+        "It proves all later sport skills are mature",
+        "It also needs coordinated action and steering",
+        "It depends only on tooth eruption"
+      ],
+      "answer": 2,
+      "explanation": "Pedalling combines coordination, steering and attention with force production. Complex movement cannot be reduced to one muscle property.",
+      "difficulty": "Analysis",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q033",
+      "lecture": 3,
+      "question": "Which movement appears around two years in the lecture's approximate sequence?",
+      "options": [
+        "Alternating-foot skipping",
+        "Running and kicking a ball",
+        "A fluent single-leg hop",
+        "Independent tricycle steering in traffic"
+      ],
+      "answer": 1,
+      "explanation": "The slides associate running and kicking with roughly two years. Observe control, opportunity and safety rather than treating the label as a stand-alone diagnostic cutoff.",
+      "difficulty": "Core",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q034",
+      "lecture": 3,
+      "question": "How should the lecture's ages for skipping or stair alternation be used?",
+      "options": [
+        "As rules that override every clinical concern",
+        "As approximate teaching anchors with contextual observation",
+        "As universal pass–fail birthdays",
+        "As exact intelligence cutoffs"
+      ],
+      "answer": 1,
+      "explanation": "Complex skills vary with maturation and practice. The age labels help organize learning but cannot alone establish a diagnosis.",
+      "difficulty": "Analysis",
+      "topicId": "L3T3",
+      "topic": "Walking, stairs and preschool movement",
+      "sourceSlides": "17–23"
+    },
+    {
+      "id": "CD3Q035",
+      "lecture": 3,
+      "question": "Which foundational hand skill is most involved in placing a block deliberately on a table?",
+      "options": [
+        "Head lag",
+        "Controlled release",
+        "Rooting",
+        "Moro response"
+      ],
+      "answer": 1,
+      "explanation": "Controlled release means letting go intentionally at a chosen point. It supports placing, building and many self-care tasks.",
+      "difficulty": "Core",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q036",
+      "lecture": 3,
+      "question": "What does wrist rotation help a child do?",
+      "options": [
+        "Replace all finger movement",
+        "Maintain only a newborn flexed posture",
+        "Adjust the hand's orientation during manipulation",
+        "Determine bone age directly"
+      ],
+      "answer": 2,
+      "explanation": "Wrist rotation helps orient an object or tool. Turning a handle, for example, involves directing the hand as well as grasping.",
+      "difficulty": "Applied",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q037",
+      "lecture": 3,
+      "question": "Why are reaching and grasping distinct?",
+      "options": [
+        "Reaching always follows release",
+        "Grasping means looking without touching",
+        "Reaching brings the hand toward an object; grasping secures it",
+        "Both refer only to passive reflexes"
+      ],
+      "answer": 2,
+      "explanation": "An effective reach positions the hand, while a grasp holds the object. A child may show different levels of control in these related actions.",
+      "difficulty": "Analysis",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q038",
+      "lecture": 3,
+      "question": "What is bilateral coordination?",
+      "options": [
+        "Avoiding use of the nonpreferred hand",
+        "Moving only one finger repeatedly",
+        "Using both hands together in related roles",
+        "Using either hand with no relation to the task"
+      ],
+      "answer": 2,
+      "explanation": "Many tasks require cooperation between hands. One hand may hold a container steady while the other opens it.",
+      "difficulty": "Core",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q039",
+      "lecture": 3,
+      "question": "A child can reach accurately but cannot adjust the grasp to a handle. What needs closer observation?",
+      "options": [
+        "Only understanding of colour names",
+        "Only lower-limb endurance",
+        "The assumption that reaching proves all hand control",
+        "How the hand shapes and secures the object"
+      ],
+      "answer": 3,
+      "explanation": "Successful reaching does not establish every manipulation skill. Grasp selection and adjustment add demands once the hand reaches the object.",
+      "difficulty": "Applied",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q040",
+      "lecture": 3,
+      "question": "Why is vision relevant to fine motor activity?",
+      "options": [
+        "It guarantees precise manipulation in every child",
+        "It makes posture unnecessary",
+        "It can guide the hand toward and within the task",
+        "It is the only influence on hand control"
+      ],
+      "answer": 2,
+      "explanation": "Visual information helps locate and monitor objects. Fine motor performance also draws on posture, sensation, experience and coordination.",
+      "difficulty": "Analysis",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q041",
+      "lecture": 3,
+      "question": "Which task best demonstrates stabilizing and manipulating roles?",
+      "options": [
+        "Running in a straight line",
+        "Kicking a ball forward",
+        "Lying in a flexed posture",
+        "Holding paper while cutting with the other hand"
+      ],
+      "answer": 3,
+      "explanation": "One hand stabilizes material while the other operates a tool. This division of roles is important in many practical hand activities.",
+      "difficulty": "Core",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q042",
+      "lecture": 3,
+      "question": "Why should practice objects be chosen carefully for infants?",
+      "options": [
+        "The smallest item always teaches best",
+        "Every household item is equally safe",
+        "Small detachable items may be choking hazards",
+        "Motor learning requires unrestricted access to sharp tools"
+      ],
+      "answer": 2,
+      "explanation": "Developmental practice must suit both the skill and safety needs. Safe size, material and supervision matter more than copying a demonstration with unsuitable objects.",
+      "difficulty": "Analysis",
+      "topicId": "L3T4",
+      "topic": "Fine motor foundations",
+      "sourceSlides": "24–25"
+    },
+    {
+      "id": "CD3Q043",
+      "lecture": 3,
+      "question": "What does hand regard mean in early development?",
+      "options": [
+        "Using a mature pencil grasp",
+        "Looking at one's own hands",
+        "Measuring finger length",
+        "Naming each finger"
+      ],
+      "answer": 1,
+      "explanation": "Hand regard involves visual attention to the hands. It is an early observation linking emerging visual and motor experience.",
+      "difficulty": "Core",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q044",
+      "lecture": 3,
+      "question": "An infant moves a toy from one hand to the other. Which ability is demonstrated?",
+      "options": [
+        "Mature handwriting",
+        "Object transfer",
+        "Alternating stair climbing",
+        "A plantar response"
+      ],
+      "answer": 1,
+      "explanation": "Transfer involves coordinating the hands around the same object. It contributes to exploration and later manipulation.",
+      "difficulty": "Applied",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q045",
+      "lecture": 3,
+      "question": "How does a precision grasp differ from a whole-hand grasp?",
+      "options": [
+        "It always requires both feet",
+        "It uses more differentiated finger control",
+        "It prevents deliberate release",
+        "It is purely a visual response"
+      ],
+      "answer": 1,
+      "explanation": "Precision requires finer control of the digits. Whole-hand grasping and thumb–finger precision are different levels or forms of manipulation.",
+      "difficulty": "Analysis",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q046",
+      "lecture": 3,
+      "question": "Why is finding a hidden object not purely a fine motor test?",
+      "options": [
+        "It excludes visual processing",
+        "It is unrelated to task understanding",
+        "It measures only finger strength",
+        "It also involves memory, attention and object knowledge"
+      ],
+      "answer": 3,
+      "explanation": "Searching requires knowing or remembering where to act as well as reaching. A task can combine cognitive and motor demands.",
+      "difficulty": "Analysis",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q047",
+      "lecture": 3,
+      "question": "Which development is illustrated by turning one page rather than several at once?",
+      "options": [
+        "More differentiated hand control",
+        "A return to reflexive grasping",
+        "A new gross motor posture",
+        "Loss of object permanence"
+      ],
+      "answer": 0,
+      "explanation": "Selecting a single page involves controlling contact and force. It illustrates refinement rather than a completely separate body system.",
+      "difficulty": "Core",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q048",
+      "lecture": 3,
+      "question": "How does spontaneous scribbling differ from scribbling only after demonstration?",
+      "options": [
+        "It proves age-appropriate reading",
+        "The child initiates it without immediately copying a model",
+        "It always produces recognizable letters",
+        "It necessarily uses smaller muscles"
+      ],
+      "answer": 1,
+      "explanation": "Initiation and imitation are different task conditions. Record whether the child begins independently or follows a demonstration.",
+      "difficulty": "Analysis",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q049",
+      "lecture": 3,
+      "question": "In the lecture's teaching sequence, a tower of roughly six to seven blocks is placed near which age?",
+      "options": [
+        "About 2 years",
+        "About 3 months",
+        "About 6 months",
+        "About 5 years"
+      ],
+      "answer": 0,
+      "explanation": "The course places this block-building task around two years. Block design, instructions and experience affect performance, so the number is a teaching anchor rather than a diagnosis.",
+      "difficulty": "Core",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q050",
+      "lecture": 3,
+      "question": "Which manual task does the lecture place near two years?",
+      "options": [
+        "Turning a doorknob or unscrewing a lid",
+        "Only visually regarding the hands",
+        "Mastering every shoelace sequence",
+        "Only holding a rattle placed in the hand"
+      ],
+      "answer": 0,
+      "explanation": "The course associates turning handles and lids with this approximate period. The task combines grasp, wrist rotation and often stabilization with the other hand.",
+      "difficulty": "Core",
+      "topicId": "L3T5",
+      "topic": "From hand regard to manipulation",
+      "sourceSlides": "26–36"
+    },
+    {
+      "id": "CD3Q051",
+      "lecture": 3,
+      "question": "Which copying sequence broadly increases visual-motor complexity in the lecture?",
+      "options": [
+        "Triangle, circle, random scribble",
+        "Triangle, square, circle",
+        "Square, random scribble, circle",
+        "Circle, square, triangle"
+      ],
+      "answer": 3,
+      "explanation": "The lecture uses these forms as progressively more complex copying tasks. Actual performance depends on instruction, familiarity and the child's abilities.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q052",
+      "lecture": 3,
+      "question": "Why does copying a square demand more than scribbling?",
+      "options": [
+        "It requires no visual attention",
+        "It only measures grip strength",
+        "It is a pure language-comprehension test",
+        "The child must reproduce a defined visual form"
+      ],
+      "answer": 3,
+      "explanation": "Copying requires relating a model to controlled strokes. Scribbling can occur without matching a particular geometric structure.",
+      "difficulty": "Analysis",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q053",
+      "lecture": 3,
+      "question": "What is meant by a tripod pencil grasp?",
+      "options": [
+        "A grasp using only the palm",
+        "A two-handed grip on the whole pencil",
+        "A grasp organized around three digits",
+        "A reflexive closing of all fingers"
+      ],
+      "answer": 2,
+      "explanation": "Tripod describes three-digit support. Functional writing should still be considered rather than treating one grip label as a complete assessment.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q054",
+      "lecture": 3,
+      "question": "Why might undressing emerge before fully independent dressing?",
+      "options": [
+        "Undressing requires no learning at all",
+        "Every removal task is harder than dressing",
+        "Dressing depends only on chronological age",
+        "Some removal tasks make fewer coordination demands"
+      ],
+      "answer": 3,
+      "explanation": "Taking an item off may require fewer steps than orienting and putting it on. Task design and clothing affect difficulty.",
+      "difficulty": "Analysis",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q055",
+      "lecture": 3,
+      "question": "A child buttons a loose practice board but struggles with a shirt being worn. What explains the difference?",
+      "options": [
+        "The child's age changed between tasks",
+        "The real task adds positioning and coordination demands",
+        "Buttoning is unrelated to fine motor skill",
+        "The practice performance must be false"
+      ],
+      "answer": 1,
+      "explanation": "Skills can be easier under simplified conditions. Wearing the shirt changes vision, reach, orientation and the need to stabilize material.",
+      "difficulty": "Applied",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q056",
+      "lecture": 3,
+      "question": "What is refined distal control in pencil use?",
+      "options": [
+        "Exclusive movement from the whole shoulder",
+        "A return to involuntary palmar grasp",
+        "Greater controlled finger and wrist contribution",
+        "Complete absence of hand movement"
+      ],
+      "answer": 2,
+      "explanation": "As control becomes more refined, wrist and finger movements can play a larger role. The entire arm still contributes appropriately to the task.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q057",
+      "lecture": 3,
+      "question": "Which copying task does the lecture associate with about five years?",
+      "options": [
+        "A triangle",
+        "A first uncontrolled scribble",
+        "A circle for the first time",
+        "A single imitated stroke only"
+      ],
+      "answer": 0,
+      "explanation": "The lecture places triangle copying around five years after circle and square copying. These approximate figure-copying ages organize the course content rather than define universal deadlines.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q058",
+      "lecture": 3,
+      "question": "Which instruction best supports a complex dressing routine?",
+      "options": [
+        "Teach manageable steps with gradually reduced help",
+        "Demand the whole sequence without demonstration",
+        "Do every step indefinitely despite readiness",
+        "Punish any need for a prompt"
+      ],
+      "answer": 0,
+      "explanation": "Breaking a routine into steps makes learning accessible. Help can be reduced as the child gains effective control and sequencing.",
+      "difficulty": "Core",
+      "topicId": "L3T6",
+      "topic": "Drawing, dressing and hand use",
+      "sourceSlides": "37–46,58"
+    },
+    {
+      "id": "CD3Q059",
+      "lecture": 3,
+      "question": "What does developmental delay describe most directly?",
+      "options": [
+        "An advanced skill in every domain",
+        "A guaranteed loss of established skills",
+        "A difference only in height",
+        "Slower acquisition relative to expected patterns"
+      ],
+      "answer": 3,
+      "explanation": "Delay concerns the timing or rate of skill acquisition. It describes a pattern needing interpretation rather than naming one cause.",
+      "difficulty": "Core",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q060",
+      "lecture": 3,
+      "question": "What does developmental deviancy refer to in the lecture's framework?",
+      "options": [
+        "Every instance of ordinary frustration",
+        "The number of skills recorded",
+        "An atypical pattern or quality of development",
+        "Any cultural difference in clothing"
+      ],
+      "answer": 2,
+      "explanation": "Deviancy here is a technical description of an unusual developmental pattern. Use respectful wording and assess the specific behavior rather than labeling the child negatively.",
+      "difficulty": "Core",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q061",
+      "lecture": 3,
+      "question": "A child's early walking is advanced, but language is not. Which conclusion is justified?",
+      "options": [
+        "The child cannot have any support needs",
+        "Early walking does not establish advanced ability in every domain",
+        "Language observation is now unnecessary",
+        "Early walking guarantees high intelligence"
+      ],
+      "answer": 1,
+      "explanation": "Domains can progress unevenly. Advanced movement should not be used to infer the child's entire cognitive or communication profile.",
+      "difficulty": "Applied",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q062",
+      "lecture": 3,
+      "question": "How could limited opportunity contribute to a motor concern?",
+      "options": [
+        "The child may have had little safe practice",
+        "It proves a neuromuscular disease",
+        "It makes maturation irrelevant",
+        "It guarantees all difficulties disappear immediately"
+      ],
+      "answer": 0,
+      "explanation": "Opportunity affects what is practised and demonstrated. Assessment should consider experience alongside medical and neurological factors.",
+      "difficulty": "Analysis",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q063",
+      "lecture": 3,
+      "question": "Why should visual difficulties be considered in manipulation problems?",
+      "options": [
+        "Vision affects only language tasks",
+        "Vision is identical to muscle tone",
+        "Visual information can guide reaching and placement",
+        "Every hand difficulty proves blindness"
+      ],
+      "answer": 2,
+      "explanation": "Difficulty seeing the target can affect hand performance. This is one possible contributing factor, not an automatic diagnosis from poor manipulation.",
+      "difficulty": "Analysis",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q064",
+      "lecture": 3,
+      "question": "What does hypotonia mean broadly?",
+      "options": [
+        "Rapid dental eruption",
+        "Increased vocabulary size",
+        "Reduced muscle tone",
+        "Excessive muscle tone"
+      ],
+      "answer": 2,
+      "explanation": "Hypotonia refers to lower tone, whereas hypertonia refers to increased tone. Both require interpretation within a professional examination.",
+      "difficulty": "Core",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q065",
+      "lecture": 3,
+      "question": "A child stops using one side as previously and loses a familiar skill. What is appropriate?",
+      "options": [
+        "Wait for the next annual exam only",
+        "Assume a normal preference without inquiry",
+        "Force the weaker side repeatedly at home",
+        "Prompt professional assessment"
+      ],
+      "answer": 3,
+      "explanation": "Loss or a new marked asymmetry deserves prompt attention. It should not be dismissed as ordinary variation without assessment.",
+      "difficulty": "Applied",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q066",
+      "lecture": 3,
+      "question": "Which conclusion is most responsible when the cause of slower motor progress is unclear?",
+      "options": [
+        "Assume the family is responsible",
+        "Describe findings and pursue appropriate assessment",
+        "Declare the concern meaningless",
+        "Invent a cause from a single observation"
+      ],
+      "answer": 1,
+      "explanation": "An unclear cause calls for careful history and examination. Honest description is preferable to unsupported certainty or blame.",
+      "difficulty": "Core",
+      "topicId": "L3T7",
+      "topic": "Variation, delay, deviancy and dissociation",
+      "sourceSlides": "49–54"
+    },
+    {
+      "id": "CD3Q067",
+      "lecture": 3,
+      "question": "What is central to Gesell's maturational emphasis?",
+      "options": [
+        "Orderly patterns related to developmental maturation",
+        "Physical size alone measures behavior",
+        "All children reach skills on identical dates",
+        "Learning occurs only through punishment"
+      ],
+      "answer": 0,
+      "explanation": "Gesell documented patterns of developmental change. A maturational emphasis highlights unfolding readiness without making every child's rate identical.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q068",
+      "lecture": 3,
+      "question": "What is the advantage of separate gross and fine motor scores?",
+      "options": [
+        "They guarantee a diagnosis from arithmetic alone",
+        "They reveal differences between motor domains",
+        "They prove one score measures all development",
+        "They remove the need for observation"
+      ],
+      "answer": 1,
+      "explanation": "Separate scores can show an uneven motor profile. That distinction can inform the next assessment question or type of support.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q069",
+      "lecture": 3,
+      "question": "Why must a standardized motor tool be used according to its procedures?",
+      "options": [
+        "Any invented task produces the same norm",
+        "A familiar tool requires no training",
+        "Changing tasks can alter what the score means",
+        "Instructions are irrelevant to score validity"
+      ],
+      "answer": 2,
+      "explanation": "Standardization depends on consistent administration and scoring. Casual adaptations may be useful observations but cannot automatically retain the original normative meaning.",
+      "difficulty": "Analysis",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q070",
+      "lecture": 3,
+      "question": "A child performs better with familiar materials than an unfamiliar testing kit. What should be considered?",
+      "options": [
+        "Proof that the child was dishonest",
+        "Familiarity and task context",
+        "A guaranteed change in bone maturity",
+        "The impossibility of assessing motor skills"
+      ],
+      "answer": 1,
+      "explanation": "Context influences performance. Standardized results and functional observations can provide complementary information when interpreted correctly.",
+      "difficulty": "Applied",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q071",
+      "lecture": 3,
+      "question": "Which question best targets technoference?",
+      "options": [
+        "How heavy is the device?",
+        "Does the device have a large screen?",
+        "Can the child name a smartphone colour?",
+        "Do notifications interrupt caregiver–child exchanges?"
+      ],
+      "answer": 3,
+      "explanation": "The concept concerns technology interrupting interaction. The pattern of interruptions matters more directly than the device's size or appearance.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q072",
+      "lecture": 3,
+      "question": "A caregiver uses a phone jointly to show family photos and discuss them. What should an analysis distinguish?",
+      "options": [
+        "Only minutes without considering the activity",
+        "Shared engagement from interruption of interaction",
+        "Phone use from any social context",
+        "All device use as the same experience"
+      ],
+      "answer": 1,
+      "explanation": "Purpose and interaction quality matter. Joint discussion differs from repeatedly disengaging when a child seeks attention.",
+      "difficulty": "Applied",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q073",
+      "lecture": 3,
+      "question": "What would strengthen the technoference assignment's argument?",
+      "options": [
+        "An exact diagnosis based on one family story",
+        "Only personal opinions without references",
+        "Evidence linking specific interruptions with developmental processes",
+        "A claim that every technology use is harmful"
+      ],
+      "answer": 2,
+      "explanation": "A clear analysis defines the exposure, describes plausible pathways and evaluates evidence. For example, interruptions may reduce conversational turns.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q074",
+      "lecture": 3,
+      "question": "Which outcome is most directly relevant to studying interrupted caregiver interaction?",
+      "options": [
+        "The phone's retail packaging",
+        "The number of battery brands owned",
+        "The frequency of responsive conversational turns",
+        "The classroom wall colour"
+      ],
+      "answer": 2,
+      "explanation": "Conversational turns connect the proposed interruption to an observable interaction process. Measures should match the question being investigated.",
+      "difficulty": "Core",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    },
+    {
+      "id": "CD3Q075",
+      "lecture": 3,
+      "question": "A child struggles with scissors, dressing and a test item but runs confidently. What is the best summary?",
+      "options": [
+        "A fine-motor and functional profile requiring contextual assessment",
+        "A complete absence of motor skills",
+        "A diagnosis determined by running ability",
+        "Proof of globally advanced development"
+      ],
+      "answer": 0,
+      "explanation": "Several fine-motor demands can be difficult alongside stronger gross motor ability. Assessment should describe the pattern and everyday support needs.",
+      "difficulty": "Applied",
+      "topicId": "L3T8",
+      "topic": "Assessment and the technoference assignment",
+      "sourceSlides": "43,55–57"
+    }
+  ]
+}
